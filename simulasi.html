@@ -265,7 +265,7 @@ const refreshIcons = () => { if (window.lucide) window.lucide.createIcons(); };
 // Convert the static Lucide placeholders once; avoid a document-wide observer
 // that repeatedly rescans the page while the quiz UI updates.
 window.addEventListener("load", refreshIcons, { once: true });
-const SHEETS_ENDPOINT = ""; // Add the deployed Google Apps Script Web App URL to enable online reporting.
+const SHEETS_ENDPOINT = "https://script.google.com/macros/s/AKfycbzWsGtj9fwVvkgwVsCFMGcjF3MNJQAeRym5IFVY7NZsB9r-3S9GNqkoaBV67vv4AYN5mw/exec"; // Add the deployed Google Apps Script Web App URL to enable online reporting.
 const VOCAB_PRACTICE_URL = "vocab-drill.html";
 const $ = id => document.getElementById(id);
 let DATA=null, current=0, startedAt=0, timerInterval=null, hintsOn=false, submitted=false, attemptId="", studentName="", resultCache=null, allReviewVisible=true;
