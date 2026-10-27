@@ -34,7 +34,7 @@ footer{background:var(--primary);color:#fff;text-align:center;padding:24px 18px}
 <main>
   <div class="summary"><div class="level" id="level">Vocabulary Practice</div><div class="count" id="overall">Memuat kosakata…</div></div>
   <div class="progress" aria-label="Progres keseluruhan"><span id="overallBar"></span></div>
-  <h2 class="section-title">Pilih set belajar · B1+</h2>
+  <h2 class="section-title">Pilih set belajar · B1</h2>
   <section class="grid" id="sets-b1" aria-live="polite"></section>
   <h2 class="section-title" style="margin-top:30px">Pilih set belajar · B2</h2>
   <section class="grid" id="sets-b2" aria-live="polite"></section>
@@ -68,7 +68,7 @@ async function loadLevel(filename, levelName, containerId, progressPrefix) {
   return {totalSets, completedSets:Array.from({length:totalSets},(_,i)=>i+1).filter(i=>completed.has(`${progressPrefix}-${i}`)||(progressPrefix==='B1'&&completed.has(String(i)))).length};
 }
 Promise.all([
-  loadLevel("words-b1.json","B1+","sets-b1","B1"),
+  loadLevel("words-b1.json","B1","sets-b1","B1"),
   loadLevel("words-b2.json","B2","sets-b2","B2")
 ]).then(results=>{
   const totalWords=results.reduce((sum,r)=>sum+r.totalSets*SET_SIZE,0);
