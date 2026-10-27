@@ -34,7 +34,7 @@ footer{background:var(--primary);color:#fff;text-align:center;padding:24px 18px}
 <main>
   <div class="summary"><div class="level" id="level">Vocabulary Practice</div><div class="count" id="overall">Memuat kosakata…</div></div>
   <div class="progress" aria-label="Progres keseluruhan"><span id="overallBar"></span></div>
-  <h2 class="section-title">Pilih set belajar · B1</h2>
+  <h2 class="section-title">Pilih set belajar kamu</h2>
   <section class="grid" id="sets-b1" aria-live="polite"></section>
   <h2 class="section-title" style="margin-top:30px">Pilih set belajar · B2</h2>
   <section class="grid" id="sets-b2" aria-live="polite"></section>
@@ -74,7 +74,7 @@ Promise.all([
   const totalWords=results.reduce((sum,r)=>sum+r.totalSets*SET_SIZE,0);
   const totalSets=results.reduce((sum,r)=>sum+r.totalSets,0);
   const done=results.reduce((sum,r)=>sum+r.completedSets,0);
-  level.textContent="B1+ dan B2 · kosakata";
+  level.textContent="B1 & B2 · Kosakata";
   overall.textContent=`${done} / ${totalSets} set selesai`;
   overallBar.style.width=`${totalSets?done/totalSets*100:0}%`;
 }).catch(err=>{
