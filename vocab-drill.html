@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#413B63"><title>Vocabulary Booster · Pilih Level</title>
+<style>
+:root{--bg:#FAF9F6;--surface:#fff;--soft:#F2EFF7;--primary:#413B63;--deep:#312C4C;--berry:#8C2D52;--burgundy:#6E223F;--pink:#FFF0F4;--lav:#EDEBF6;--ink:#181621;--muted:#625E70;--border:#E5E1ED;--yellow:#F7D85A;--green:#2f855a;--shadow:0 14px 40px rgba(49,44,76,.09)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.5}button,a{font:inherit}button{cursor:pointer}a{color:inherit;text-decoration:none}
+.top{background:linear-gradient(120deg,#413B63 0%,#63335D 50%,#8C2D52 100%);color:white;padding:28px 20px 32px}.top-inner,main{max-width:900px;margin:auto}.brand{font-size:12px;font-weight:850;letter-spacing:.12em;text-transform:uppercase;opacity:.9}h1{font-size:clamp(28px,6vw,38px);line-height:1.15;margin:18px 0 8px;letter-spacing:-.03em}.subtitle{max-width:620px;margin:0;color:#ffffffdc;font-size:14px;line-height:1.7}
+main{padding:26px 18px 38px}.section-title{font-size:19px;margin:0 0 14px}.levels{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-bottom:28px}.level-card{border:1px solid var(--border);border-radius:18px;background:#fff;padding:17px;text-align:left;box-shadow:0 4px 14px #312c4c08}.level-card.active{border:2px solid var(--primary);background:var(--soft);padding:16px}.level-card .level-title{font-size:25px;font-weight:900;letter-spacing:-.04em}.level-card .level-sub{font-size:12px;color:var(--muted);margin-top:3px}.level-card .level-count{font-size:11px;font-weight:800;color:var(--berry);margin-top:12px}.summary{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}.summary-title{font-size:16px;font-weight:850}.count{font-size:12px;color:var(--muted);text-align:right}.progress{height:8px;background:#e7e2ec;border-radius:99px;overflow:hidden;margin-bottom:24px}.progress span{display:block;height:100%;width:0;background:var(--yellow);transition:width .2s}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}.set{display:block;background:#fff;border:1px solid var(--border);border-radius:16px;padding:16px;min-width:0;transition:transform .15s,border-color .15s,box-shadow .15s}.set:hover,.set:focus-visible{transform:translateY(-2px);border-color:#c8bddf;box-shadow:var(--shadow);outline:none}.set-top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}.set-number{font-size:17px;font-weight:850}.icon{width:30px;height:30px;display:grid;place-items:center;border-radius:10px;background:var(--lav);color:var(--primary);flex-shrink:0}.set-info{margin-top:8px;color:var(--muted);font-size:12px}.bar{height:5px;background:#eeeaf2;border-radius:99px;margin-top:13px;overflow:hidden}.bar span{display:block;height:100%;width:0;background:var(--primary);border-radius:99px}.set.done .bar span{background:var(--green)}.set.done .icon{background:#e6f5eb;color:var(--green)}.status{display:none;margin-top:8px;font-size:11px;font-weight:800;color:var(--green)}.set.done .status{display:block}.notice{margin-top:20px;padding:13px 15px;border-radius:13px;background:var(--soft);color:var(--muted);font-size:12px;line-height:1.6}.back{display:inline-block;margin-bottom:20px;color:var(--primary);font-size:12px;font-weight:850}.hidden{display:none!important}footer{background:var(--primary);color:#fff;text-align:center;padding:24px 18px}.footer-title{font-size:12px;font-weight:850;letter-spacing:.08em}.footer-copy{font-size:11px;opacity:.75;margin-top:6px}
+@media(min-width:600px){.top{padding:36px 28px 40px}main{padding:34px 28px 42px}.grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.set{padding:18px}.level-card{padding:22px}.level-card.active{padding:21px}}
+@media(min-width:900px){.grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+</style></head>
+<body>
+<header class="top"><div class="top-inner"><div class="brand">TKA ENGLISH SURVIVAL KIT</div><h1>Vocabulary Booster</h1><p class="subtitle">Pilih level kosakata, lalu pelajari 20 kata per set. Fokus pada kata, arti, dan pelafalan—singkat dan praktis.</p></div></header>
+<main>
+  <h2 class="section-title">Pilih level</h2>
+  <div class="levels">
+    <button type="button" class="level-card" data-level="B1"><div class="level-title">B1</div><div class="level-sub">Intermediate</div><div class="level-count" id="b1count">Memuat data…</div></button>
+    <button type="button" class="level-card" data-level="B2"><div class="level-title">B2</div><div class="level-sub">Upper-intermediate</div><div class="level-count" id="b2count">Memuat data…</div></button>
+  </div>
+  <section id="setsSection" class="hidden">
+    <a class="back" href="#" id="backLevel">← Ganti level</a>
+    <div class="summary"><div class="summary-title" id="chosenLevel">Set B1</div><div class="count" id="overall">0 set selesai</div></div>
+    <div class="progress"><span id="overallBar"></span></div>
+    <h2 class="section-title">Pilih set belajar</h2>
+    <section class="grid" id="sets" aria-live="polite"></section>
+  </section>
+  <p class="notice" id="notice">Progres disimpan di browser ini. Untuk menjalankan secara lokal, gunakan server lokal; jangan buka HTML langsung dengan file://.</p>
+</main>
+<footer><div class="footer-title">TKA ENGLISH SURVIVAL KIT</div><div class="footer-copy">SMAIT Ittihadul Muwahidin</div></footer>
+<script>
+const SIZE=20, files={B1:"./words-b1.json",B2:"./words-b2.json"};
+const progressKey=level=>`smaitVocabProgress_${level}`;
+const cache={};
+const $=id=>document.getElementById(id);
+function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+async function loadLevel(level){if(cache[level])return cache[level];const r=await fetch(files[level]);if(!r.ok)throw new Error("File data "+level+" tidak ditemukan");cache[level]=await r.json();return cache[level];}
+async function initCounts(){for(const level of ["B1","B2"]){try{const words=await loadLevel(level);$(level.toLowerCase()+"count").textContent=`${words.length.toLocaleString("id-ID")} kata · ${Math.ceil(words.length/SIZE)} set`;}catch{$(level.toLowerCase()+"count").textContent="Data belum tersedia";}}}
+function getCompleted(level){try{return new Set(JSON.parse(localStorage.getItem(progressKey(level))||"[]"))}catch{return new Set()}}
+async function showLevel(level){
+  const btns=document.querySelectorAll(".level-card");btns.forEach(b=>b.classList.toggle("active",b.dataset.level===level));
+  $("setsSection").classList.remove("hidden");$("chosenLevel").textContent=`Set level ${level}`;$("sets").replaceChildren();
+  $("notice").textContent="Setiap set berisi hingga 20 kata. Progres B1 dan B2 disimpan terpisah di browser ini.";
+  try{
+    const words=await loadLevel(level), total=Math.ceil(words.length/SIZE), done=getCompleted(level);
+    for(let i=1;i<=total;i++){const start=(i-1)*SIZE,count=Math.min(SIZE,words.length-start),isDone=done.has(i),card=document.createElement("a");card.className="set"+(isDone?" done":"");card.href=`./vocabulary.html?level=${level}&set=${i}`;
+      card.innerHTML=`<div class="set-top"><div class="set-number">SET ${String(i).padStart(2,"0")}</div><div class="icon" aria-hidden="true">${isDone?"✓":"↗"}</div></div><div class="set-info">${count} kata</div><div class="bar"><span style="width:${isDone?100:0}%"></span></div><div class="status">${isDone?"✓ Selesai":"Belum selesai"}</div>`;
+      $("sets").appendChild(card);
+    }
+    $("overall").textContent=`${done.size} / ${total} set selesai`;$("overallBar").style.width=`${total?Math.min(done.size,total)/total*100:0}%`;
+  }catch{$("notice").textContent=`File ${files[level]} tidak ditemukan atau tidak bisa dibaca.`;}
+}
+document.querySelectorAll(".level-card").forEach(b=>b.addEventListener("click",()=>showLevel(b.dataset.level)));
+$("backLevel").addEventListener("click",e=>{e.preventDefault();$("setsSection").classList.add("hidden");document.querySelectorAll(".level-card").forEach(b=>b.classList.remove("active"));});
+initCounts();
+</script></body></html>
