@@ -3,71 +3,65 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#413B63">
-<title>TKA English Practice · SMAIT Ittihadul Muwahidin</title>
+<meta name="theme-color" content="#fbfaf7">
+<title>English TKA Practice | SMAIT Ittihadul Muwahidin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/lucide@latest"></script>
 <style>
-:root{--bg:#FAF9F6;--surface:#fff;--soft:#F2EFF7;--primary:#413B63;--deep:#312C4C;--berry:#8C2D52;--burgundy:#6E223F;--pink:#FFF0F4;--lav:#EDEBF6;--ink:#181621;--muted:#625E70;--border:#E5E1ED;--shadow:0 18px 55px rgba(49,44,76,.11)}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.5}a{color:inherit;text-decoration:none}button{font:inherit;cursor:pointer}
-.topbar{max-width:1160px;margin:auto;padding:22px 24px;display:flex;align-items:center;justify-content:space-between;gap:16px}.brand{display:flex;align-items:center;gap:11px}.logo{width:44px;height:44px;border-radius:15px;display:grid;place-items:center;background:linear-gradient(135deg,#413B63,#8C2D52);color:white;font-weight:900;box-shadow:0 6px 18px #413b6330}.brand-name{font-size:19px;font-weight:850;letter-spacing:-.04em}.brand-sub{font-size:10px;color:var(--muted);letter-spacing:.12em;text-transform:uppercase}.nav-tag{font-size:12px;font-weight:750;color:var(--primary);background:var(--lav);padding:8px 12px;border-radius:999px}
-main{max-width:1160px;margin:auto;padding:20px 24px 64px}.hero{display:grid;grid-template-columns:1.05fr .95fr;gap:28px;align-items:center;padding:clamp(24px,5vw,58px);border-radius:30px;background:linear-gradient(125deg,#f2eff7 0%,#fff6f7 58%,#f9eaf0 100%);border:1px solid #e9e2ef;overflow:hidden;position:relative}.hero:before{content:"";position:absolute;width:270px;height:270px;border-radius:50%;background:#ffffff70;right:30%;top:-190px}.hero-copy{position:relative;z-index:1}.eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--berry);font-weight:900}.hero h1{font-size:clamp(36px,5vw,60px);letter-spacing:-.06em;line-height:1.02;margin:13px 0 17px;max-width:650px}.hero h1 span{color:var(--berry)}.hero p{font-size:16px;color:var(--muted);max-width:520px;margin:0 0 24px}.hero-actions{display:flex;gap:10px;flex-wrap:wrap}.btn{display:inline-flex;justify-content:center;align-items:center;gap:9px;border-radius:13px;padding:13px 17px;font-size:14px;font-weight:800;border:1px solid transparent;transition:transform .15s,box-shadow .15s}.btn:hover{transform:translateY(-2px)}.btn-primary{background:var(--primary);color:white;box-shadow:0 8px 18px #413b6324}.btn-secondary{background:white;border-color:var(--border);color:var(--primary)}.hero-note{font-size:11px;color:var(--muted);margin-top:15px}.hero-art{position:relative;min-height:310px;display:grid;place-items:center}.art-orbit{position:absolute;width:min(100%,380px);aspect-ratio:1;border-radius:50%;background:linear-gradient(135deg,#e2dced,#f8dfe7);border:1px solid #ffffffb5}.book{position:relative;width:210px;height:250px;border-radius:22px 18px 18px 22px;background:linear-gradient(145deg,#413B63,#312C4C);box-shadow:14px 22px 0 #8c2d5220,0 25px 50px #312c4c35;transform:rotate(-7deg);padding:24px 20px;color:white;z-index:1}.book:after{content:"";position:absolute;left:15px;top:0;bottom:0;width:3px;background:#ffffff22}.book-label{font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#e4dff3;font-weight:800}.book h2{font-size:29px;line-height:1;margin:26px 0 8px;letter-spacing:-.05em}.book p{font-size:12px;color:#e7e3f0;margin:0}.book-icon{font-size:46px;margin-top:20px}.float-card{position:absolute;z-index:2;background:white;border:1px solid #fff;border-radius:16px;padding:12px 15px;box-shadow:var(--shadow);font-size:12px;font-weight:800;color:var(--primary)}.float-card small{display:block;font-size:10px;font-weight:600;color:var(--muted);margin-top:3px}.float-one{top:28px;right:0;transform:rotate(5deg)}.float-two{bottom:28px;left:0;transform:rotate(-5deg)}.spark{position:absolute;color:var(--berry);font-size:29px}.spark-one{top:20px;left:15%}.spark-two{bottom:22px;right:12%;font-size:23px}
-.section-heading{display:flex;justify-content:space-between;align-items:end;gap:18px;margin:48px 0 18px}.section-heading h2{font-size:clamp(24px,3vw,32px);letter-spacing:-.045em;margin:5px 0}.section-heading p{color:var(--muted);font-size:14px;margin:0}.tiny-label{font-size:11px;font-weight:900;text-transform:uppercase;letter-spacing:.12em;color:var(--berry)}
-.options{display:grid;grid-template-columns:1fr 1fr;gap:18px}.option-card{position:relative;display:flex;flex-direction:column;min-height:280px;border-radius:24px;padding:26px;background:white;border:1px solid var(--border);box-shadow:0 8px 26px #312c4c08;overflow:hidden;transition:transform .18s,box-shadow .18s}.option-card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}.option-card.sim{background:linear-gradient(140deg,#fff 45%,#f0edf8)}.option-card.vocab{background:linear-gradient(140deg,#fff 45%,#fff0f4)}.option-top{display:flex;justify-content:space-between;align-items:start;gap:14px}.option-icon{display:grid;place-items:center;width:54px;height:54px;border-radius:17px;background:var(--lav);font-size:27px}.vocab .option-icon{background:var(--pink)}.coming-tag{font-size:10px;font-weight:850;text-transform:uppercase;letter-spacing:.08em;background:#fff;border:1px solid var(--border);color:var(--muted);padding:6px 8px;border-radius:99px}.option-card h3{font-size:24px;letter-spacing:-.04em;margin:22px 0 8px}.option-card p{color:var(--muted);font-size:14px;max-width:470px;margin:0 0 22px}.option-bottom{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:12px}.option-link{font-size:13px;font-weight:850;color:var(--berry)}.option-arrow{display:grid;place-items:center;width:38px;height:38px;border-radius:12px;background:var(--primary);color:white;font-size:18px}.sim .option-arrow{background:var(--primary)}.vocab .option-arrow{background:var(--berry)}
-.features{display:grid;grid-template-columns:repeat(3,1fr);gap:13px;margin-top:24px}.feature{display:flex;align-items:start;gap:11px;padding:16px 15px;border:1px solid var(--border);border-radius:16px;background:#ffffffa8}.feature-icon{font-size:21px}.feature strong{display:block;font-size:13px}.feature span{display:block;font-size:11px;color:var(--muted);margin-top:3px}
-footer{max-width:1160px;margin:auto;padding:0 24px 28px;color:var(--muted);font-size:12px;display:flex;justify-content:space-between;gap:12px}
-@media(max-width:780px){.hero{grid-template-columns:1fr;gap:10px}.hero-art{min-height:280px;max-width:440px;width:100%;margin:auto}.hero h1{max-width:620px}.options{grid-template-columns:1fr}.option-card{min-height:250px}.features{grid-template-columns:1fr}.section-heading{align-items:start;flex-direction:column}}
-@media(max-width:480px){.topbar{padding:16px}.nav-tag{display:none}main{padding:10px 13px 42px}.hero{padding:25px 20px;border-radius:23px}.hero h1{font-size:39px}.hero p{font-size:14px}.hero-art{min-height:250px}.art-orbit{width:245px}.book{transform:scale(.88) rotate(-7deg)}.float-one{right:-3px;top:15px}.float-two{left:-3px;bottom:10px}.section-heading{margin-top:36px}.option-card{padding:21px}.option-card h3{font-size:22px}footer{padding:0 15px 24px;flex-direction:column}}
+:root{--bg:#fbfaf7;--paper:#fff;--ink:#25243a;--text:#484653;--muted:#5f5c68;--line:#e2dfe7;--purple:#514b89;--purple-deep:#3f3970;--purple-soft:#eeeafb;--burgundy:#7b2949;--burgundy-deep:#64213b;--rose-soft:#f4e4e9}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 Poppins,system-ui,sans-serif}a{color:inherit;text-decoration:none}
+header{width:min(1060px,calc(100% - 36px));height:72px;margin:auto;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:11px;font-size:16px;font-weight:800;letter-spacing:-.025em}.brand-icon{width:40px;height:40px;display:grid;place-items:center;color:white;background:linear-gradient(135deg,#655eaa 0%,#4b438b 48%,#7b2949 100%);border-radius:13px;box-shadow:0 5px 12px #514b8920}.brand-icon svg{width:21px}.brand small{display:block;color:var(--muted);font-size:10px;font-weight:600;letter-spacing:.11em;text-transform:uppercase}
+main{width:min(1060px,calc(100% - 36px));margin:auto;padding:68px 0 76px}.eyebrow{display:flex;align-items:center;gap:8px;color:var(--burgundy);font-size:11px;font-weight:800;letter-spacing:.13em;text-transform:uppercase}.eyebrow svg{width:15px;height:15px}
+.hero{display:grid;grid-template-columns:1.05fr .95fr;align-items:center;gap:46px;padding:0 0 45px}.copy h1{max-width:610px;margin:13px 0 17px;font-size:clamp(38px,5.3vw,58px);line-height:1.08;letter-spacing:-.055em;font-weight:800}.copy h1 span{color:var(--purple)}.copy p{max-width:510px;margin:0;color:var(--muted);font-size:15px}.hero-art{position:relative;min-height:270px;display:grid;place-items:center}.orb{position:absolute;width:265px;height:265px;border-radius:50%;background:linear-gradient(145deg,#eeeafb,#f4e4e9);border:1px solid #e2dced}.book{position:relative;z-index:1;width:218px;min-height:235px;padding:24px 22px;border-radius:18px;background:linear-gradient(145deg,#655eaa,#423a7a 66%,#7b2949);color:white;box-shadow:0 22px 38px #3f397029;transform:rotate(-5deg)}.book-label{font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;opacity:.85}.book h2{margin:20px 0 10px;font-size:29px;line-height:1.03;letter-spacing:-.05em}.book p{margin:0;font-size:12px;opacity:.88}.book-icon{position:absolute;right:18px;bottom:16px;font-size:31px}.float{position:absolute;z-index:2;padding:11px 14px;border:1px solid var(--line);border-radius:13px;background:#fff;box-shadow:0 10px 25px #25243a0b;font-size:11px;font-weight:700}.float small{display:block;color:var(--muted);font-size:9px;font-weight:500}.float.one{right:0;top:25px}.float.two{left:0;bottom:22px}
+.section-head{margin:10px 0 16px}.section-head h2{margin:0;font-size:22px;letter-spacing:-.04em}.section-head p{margin:4px 0 0;color:var(--muted);font-size:13px}.choices{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.choice{position:relative;min-height:220px;display:flex;flex-direction:column;padding:22px;background:var(--paper);border:1px solid var(--line);border-radius:18px;transition:transform .18s,border-color .18s,box-shadow .18s}.choice:hover{transform:translateY(-3px);border-color:#c7c0e5;box-shadow:0 13px 28px #25243a0a}.choice-top{display:flex;align-items:center;justify-content:space-between;gap:10px}.choice-icon{width:46px;height:46px;display:grid;place-items:center;background:var(--purple-soft);color:var(--purple);border-radius:13px}.choice-icon svg{width:22px;height:22px}.tag{padding:5px 9px;border-radius:8px;background:#f6f4fb;color:var(--purple);font-size:9px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}.choice.vocab .choice-icon{background:var(--rose-soft);color:var(--burgundy)}.choice.vocab .tag{background:#fcf2f5;color:var(--burgundy)}.choice h3{margin:19px 0 5px;color:var(--purple);font-size:22px;font-weight:800;letter-spacing:-.04em}.choice.vocab h3{color:var(--burgundy)}.choice p{max-width:440px;margin:0;color:var(--muted);font-size:12px}.choice-bottom{margin-top:auto;padding-top:20px}.cta{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:43px;padding:11px 15px;border-radius:10px;background:var(--burgundy);color:#fff;font-size:12px;font-weight:800;box-shadow:0 5px 12px #7b294921;transition:background .18s}.cta svg{width:16px;height:16px}.choice:hover .cta{background:var(--burgundy-deep)}.choice.vocab .cta{background:var(--purple)}.choice.vocab:hover .cta{background:var(--purple-deep)}
+footer{width:min(1060px,calc(100% - 36px));margin:auto;border-top:1px solid var(--line);padding:21px 0 25px;display:flex;justify-content:space-between;gap:12px;color:#85818e;font-size:11px}
+@media(max-width:760px){main{padding:42px 0 55px}.hero{grid-template-columns:1fr;gap:18px;padding-bottom:35px}.copy h1{font-size:clamp(38px,9vw,52px)}.hero-art{min-height:255px;max-width:440px;width:100%;margin:auto}.orb{width:235px;height:235px}.book{transform:rotate(-4deg) scale(.93)}.float.one{right:2px;top:12px}.float.two{left:0;bottom:10px}}
+@media(max-width:520px){header{height:64px}.brand{font-size:14px}.brand-icon{width:36px;height:36px}main{padding-top:35px}.copy p{font-size:13px}.hero-art{min-height:235px}.choices{grid-template-columns:1fr;gap:12px}.choice{min-height:205px;padding:18px}.choice h3{font-size:21px}.section-head h2{font-size:20px}footer{flex-direction:column;gap:4px}}
 </style>
 </head>
 <body>
-<header class="topbar">
-  <a class="brand" href="./index.html" aria-label="TKA English Practice home">
-    <div class="logo" aria-hidden="true">📘</div>
-    <div><div class="brand-name">TKA English Practice</div><div class="brand-sub">TKA English practice</div></div>
+<header>
+  <a class="brand" href="index.html" aria-label="English TKA Practice home">
+    <span class="brand-icon"><i data-lucide="book-open-check" aria-hidden="true"></i></span>
+    <span>English TKA<small>Practice room</small></span>
   </a>
-  <div class="nav-tag">Learn smarter. Practise better.</div>
 </header>
 <main>
   <section class="hero">
-    <div class="hero-copy">
-      <div class="eyebrow">Your English mission starts here</div>
-      <h1>Ready to level up your <span>English?</span></h1>
-      <p>Latihan Bahasa Inggris jadi lebih terarah. Pilih simulasi TKA untuk menguji kemampuanmu atau asah vocabulary sedikit demi sedikit lewat flashcards.</p>
-      <div class="hero-actions">
-        <a class="btn btn-primary" href="./simulasi.html">🚀 Mulai Simulasi TKA <span aria-hidden="true">→</span></a>
-        <a class="btn btn-secondary" href="./vocab-drill.html">💜 Mulai Vocab Drill</a>
-      </div>
-      <div class="hero-note">Small steps. Stronger vocabulary. Better confidence.</div>
+    <div class="copy">
+      <div class="eyebrow"><i data-lucide="sparkles" aria-hidden="true"></i> Your practice starts here</div>
+      <h1>Ready to level up your <span>English Reading Skill?</span></h1>
+      <p>Latihan Bahasa Inggris jadi lebih terarah. Pilih simulasi TKA untuk menguji skill reading kamu atau asah vocabulary lewat flashcard—satu langkah kecil setiap hari.</p>
     </div>
-    <div class="hero-art" aria-label="Illustration of an English study book and vocabulary cards">
-      <div class="art-orbit"></div><div class="spark spark-one">✦</div><div class="spark spark-two">✧</div>
-      <div class="book"><div class="book-label">TKA English Practice · Study kit</div><h2>ENGLISH<br>POWER-UP</h2><p>Words today.<br>Confidence tomorrow.</p><div class="book-icon">📚✨</div></div>
-      <div class="float-card float-one">🔊 Listen & learn<small>Hear every word</small></div>
-      <div class="float-card float-two">A2 → B1 → B2<small>Your next level awaits</small></div>
+    <div class="hero-art" aria-hidden="true">
+      <div class="orb"></div>
+      <div class="book"><div class="book-label">English TKA · Practice kit</div><h2>ENGLISH<br>POWER-UP</h2><p>Read smarter.<br>Learn a little every day.</p><div class="book-icon">📚✨</div></div>
+      <div class="float one">🎯 Focused practice<small>Build your confidence</small></div>
+      <div class="float two">A2 → B1 → B2<small>Your next step awaits</small></div>
     </div>
   </section>
-  <section id="practice">
-    <div class="section-heading"><div><div class="tiny-label">Choose your practice</div><h2>How do you want to practise?</h2><p>Dua cara latihan, satu tujuan: makin jago Bahasa Inggris.</p></div></div>
-    <div class="options">
-      <a class="option-card sim" href="./simulasi.html">
-        <div class="option-top"><div class="option-icon">📝</div><span class="coming-tag">TKA practice</span></div>
-        <h3>Simulasi TKA Bahasa Inggris</h3>
-        <p>Latihan soal untuk membiasakan diri dengan teks, pertanyaan, dan pilihan jawaban. Siapkan strategi, lalu uji kemampuanmu.</p>
-        <div class="option-bottom"><span class="option-link">Mulai simulasi <span aria-hidden="true">→</span></span><span class="option-arrow">↗</span></div>
+  <section aria-labelledby="choice-title">
+    <div class="section-head"><h2 id="choice-title">Choose your practice</h2><p>Dua pilihan latihan, satu tujuan: semakin paham Bahasa Inggris.</p></div>
+    <div class="choices">
+      <a class="choice" href="simulasi-index.html">
+        <div class="choice-top"><span class="choice-icon"><i data-lucide="file-check-2" aria-hidden="true"></i></span><span class="tag">TKA practice</span></div>
+        <h3>Start Simulation</h3>
+        <p>Biasakan diri dengan format soal TKA Bahasa Inggris. Latih reading comprehension dan ukur kemampuanmu lewat set simulasi.</p>
+        <div class="choice-bottom"><span class="cta">Start simulation <i data-lucide="arrow-right" aria-hidden="true"></i></span></div>
       </a>
-      <a class="option-card vocab" href="./vocab-drill.html">
-        <div class="option-top"><div class="option-icon">🃏</div><span class="coming-tag">B1 vocabulary</span></div>
-        <h3>Vocabulary Flashcards</h3>
-        <p>Pelajari arti kata, dengarkan pengucapannya, dan pahami contoh kalimat. Satu kartu setiap kali—kamu pasti bisa!</p>
-        <div class="option-bottom"><span class="option-link">Mulai vocab drill <span aria-hidden="true">→</span></span><span class="option-arrow">↗</span></div>
+      <a class="choice vocab" href="vocab-drill.html">
+        <div class="choice-top"><span class="choice-icon"><i data-lucide="layers" aria-hidden="true"></i></span><span class="tag">Vocabulary practice</span></div>
+        <h3>Start Vocab Drill</h3>
+        <p>Tambah kosakata sedikit demi sedikit dengan flashcard, dilengkapi dengan contoh kalimat & pengucapan.</p>
+        <div class="choice-bottom"><span class="cta">Start vocab drill <i data-lucide="arrow-right" aria-hidden="true"></i></span></div>
       </a>
-    </div>
-    <div class="features">
-      <div class="feature"><div class="feature-icon">🔊</div><div><strong>Listen & repeat</strong><span>Dengarkan kata dan contoh kalimat.</span></div></div>
-      <div class="feature"><div class="feature-icon">🎯</div><div><strong>Practise at your pace</strong><span>Belajar sedikit demi sedikit tanpa terburu-buru.</span></div></div>
-      <div class="feature"><div class="feature-icon">🌱</div><div><strong>Build confidence</strong><span>Setiap kata baru adalah satu langkah maju.</span></div></div>
     </div>
   </section>
 </main>
 <footer><span>© SMAIT Ittihadul Muwahidin</span><span>Made for curious English learners 💜</span></footer>
+<script>lucide.createIcons();</script>
 </body>
 </html>
