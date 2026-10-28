@@ -1,0 +1,1041 @@
+{
+  "meta": {
+    "title": "TKA English Practice Set 02",
+    "set": 2,
+    "duration_minutes": 70,
+    "passage_count": 10,
+    "question_count": 30,
+    "question_types": {
+      "PG": "MCSA — select one answer",
+      "MCMA": "Select all correct answers; exactly two correct options per question",
+      "CAT": "Category — choose exactly one category per statement"
+    },
+    "source_map": "passage_map.md — Set 2 topics",
+    "structure_reference": "Set01_data(3).json",
+    "note": "Set 02 draft. Passage S02P08 and questions 22–24 were revised to match the six-step portrait infographic 'How to Reduce Waste at a School Event'."
+  },
+  "passages": [
+    {
+      "id": "S02P01",
+      "genre": "Descriptive",
+      "level": "A2",
+      "title": "Visiting a Mangrove Forest",
+      "text": "Last month, our class visited a mangrove forest near the coast. A narrow wooden path led from the entrance to a small viewing deck. On both sides, mangrove roots rose from the mud, and small crabs moved between them. The air smelled salty, and the water changed slowly as the tide came in.\n\nA local guide explained that mangrove roots help hold the soil and provide shelter for young fish. We also learned that the forest can reduce the force of waves before they reach the shore. The guide asked us to observe quietly because loud sounds and careless movement could disturb birds and other animals.\n\nNear the deck, there was a simple information board with pictures of common plants and animals. Students could write notes or sketch what they saw, but they were not allowed to collect shells, plants, or animals. A rubbish bin stood beside the exit, and visitors were asked to take their waste with them if the bin was full.\n\nThe visit was enjoyable because we could see the habitat while learning how to protect it. The guide reminded us that a mangrove forest is not just a place to visit; it is also a living environment that needs care.",
+      "hints": [
+        "a narrow wooden path",
+        "roots help hold the soil",
+        "observe quietly"
+      ]
+    },
+    {
+      "id": "S02P02",
+      "genre": "Descriptive",
+      "level": "B1",
+      "title": "How Our Town Recycles Waste",
+      "text": "The town recycling center stands behind the public market, beside a small parking area. Its front room is bright and easy to enter, with large signs showing where different materials should go. Blue containers are used for paper, yellow ones for plastic bottles, and a separate cage holds clean metal cans. A weighing station stands near the back wall.\n\nResidents can bring sorted materials from home twice a week. Staff members check the items before weighing them, because food, liquid, and mixed rubbish can make recycling more difficult. Materials that cannot be accepted are returned with a short explanation, so visitors can learn how to sort them correctly next time.\n\nThe center also has a small table where volunteers explain recycling to school groups. Students sometimes help make labels or record the amount of material collected. These activities do not replace the staff’s work, but they show how a community service operates.\n\nThe center is not a place where all waste disappears. Some materials still cannot be processed locally, and the center needs regular transport to send recyclable items to other facilities. Even so, it gives residents a practical way to reduce rubbish and understand what happens after they separate it at home.",
+      "hints": [
+        "large signs showing where different materials should go",
+        "check the items before weighing them",
+        "not a place where all waste disappears"
+      ]
+    },
+    {
+      "id": "S02P03",
+      "genre": "Recount",
+      "level": "A2",
+      "title": "Joining a Neighborhood Clean-Up",
+      "text": "Last Sunday, I joined a neighborhood clean-up with my cousin and several people from our street. We met near the community hall at seven in the morning. The organizer gave each group gloves, rubbish bags, and one area to clean. My group was responsible for the path beside a small stream.\n\nAt first, the work seemed easy. We collected plastic cups, snack wrappers, and dry leaves. Then we found a pile of rubbish behind a bush. Some bags were wet and heavy, so we asked an adult volunteer to help us move them safely. We did not touch broken glass with our hands; the volunteer used special tools to collect it.\n\nAfter an hour, the path looked much cleaner. A few residents brought drinking water for the volunteers, and one shop owner lent us a large broom. We separated plastic bottles from other rubbish and placed the full bags at the collection point.\n\nI went home tired but pleased. I had thought a clean-up was only about picking up rubbish, but I learned that planning, teamwork, and safe handling matter too. I also decided to carry a reusable bottle instead of buying a new plastic one every day.",
+      "hints": [
+        "We met near the community hall",
+        "asked an adult volunteer to help",
+        "planning, teamwork, and safe handling"
+      ]
+    },
+    {
+      "id": "S02P04",
+      "genre": "Recount",
+      "level": "B1",
+      "title": "Preparing for Our School Culture Day",
+      "text": "Our class was responsible for a display about local traditions during the school culture day. For two weeks, we collected photographs, wrote short descriptions, and prepared a small table of traditional objects borrowed from families. We agreed that every object needed a label explaining its name and use.\n\nThe evening before the event, we discovered that several labels had been printed with the wrong names. Some students wanted to remove the objects and start again, but our teacher suggested checking each label against our notes first. Two classmates compared the photographs with the written descriptions, while the rest of us corrected the labels and printed replacements in the school office.\n\nOn the morning of the event, one family arrived late with a woven basket we had planned to display. We changed the order of the table so the other objects could be presented first. When the basket arrived, a student added its label and explained how it was used in daily life.\n\nThe display opened only a few minutes later than planned. Visitors asked questions, and some parents shared details we had not known. I learned that preparing a cultural event requires more than decorating a table. Accurate information, cooperation, and the ability to adjust plans are just as important.",
+      "hints": [
+        "labels had been printed with the wrong names",
+        "checking each label against our notes",
+        "changed the order of the table"
+      ]
+    },
+    {
+      "id": "S02P05",
+      "genre": "Narrative",
+      "level": "A2",
+      "title": "The Legend of Timun Mas",
+      "text": "This retelling follows a familiar version of the Indonesian folktale Timun Mas. An elderly couple wished for a child. A giant named Buto Ijo gave them a cucumber seed, but he asked them to give him the child when she grew up. The couple agreed, hoping their wish would finally come true.\n\nA golden cucumber later grew in their garden. Inside it, they found a baby girl and named her Timun Mas. They loved her and raised her carefully, but they worried as the day of Buto Ijo’s return came closer. Before the giant arrived, they gave Timun Mas several small packets and told her to run if she was in danger.\n\nTimun Mas ran across fields and through the forest while Buto Ijo chased her. She threw the contents of the packets behind her. In this version, the objects became obstacles that slowed the giant, including thorny plants and deep mud. Each time he struggled to cross an obstacle, Timun Mas gained more time.\n\nAt last, she used the final packet, and the giant could not reach her. Timun Mas returned safely to the couple. The story is often understood as a tale about courage and quick thinking: she kept moving and used the help she had received instead of giving up.",
+      "hints": [
+        "he asked them to give him the child",
+        "gave Timun Mas several small packets",
+        "kept moving and used the help she had received"
+      ]
+    },
+    {
+      "id": "S02P06",
+      "genre": "Narrative",
+      "level": "B1",
+      "title": "The Legend of Lake Toba",
+      "text": "This passage retells a familiar version of the Lake Toba legend from North Sumatra. A fisherman caught an unusual fish, which changed into a woman when he brought it home. They married, and she agreed to live with him after he promised never to reveal her unusual origin.\n\nYears passed, and they had a son. The boy sometimes forgot his responsibilities. One day, his father asked him to bring food to the fields, but the boy delayed and ate some of it on the way. When the father discovered this, he became angry and called the boy the child of a fish. In doing so, he broke the promise he had made to his wife.\n\nThe woman was deeply hurt. She told her son to go to higher ground and then returned to the water. Dark clouds gathered, and heavy rain fell over the valley. In the legend, the water rose until it covered the area and formed Lake Toba. The land that remained in the middle became Samosir Island.\n\nPeople tell different versions of the legend, but the broken promise is a key event in many retellings. The story can be understood as a warning about words spoken in anger and the importance of keeping promises. It is a cultural explanation connected to a landscape, not a scientific account of how the lake formed.",
+      "hints": [
+        "promised never to reveal her unusual origin",
+        "he broke the promise",
+        "a cultural explanation connected to a landscape"
+      ]
+    },
+    {
+      "id": "S02P07",
+      "genre": "Procedure",
+      "level": "A2",
+      "title": "How to Make a Reusable Bag",
+      "text": "You can make a simple reusable bag from an old T-shirt. It is a low-cost way to use clothing that you no longer wear. Choose a clean shirt that is still strong, and ask an adult for help if you need to use scissors.\n\nFirst, lay the T-shirt flat on a table. Cut off the sleeves and cut around the neck to make a wide opening. Try to keep the cuts smooth so the top of the bag is comfortable to hold. Next, turn the shirt inside out and draw a straight line across the bottom, a few centimeters above the edge.\n\nCut short strips from the bottom edge up to the line. Tie each front strip to the matching strip at the back. Pull each knot gently to check that it is secure. When all the strips are tied, turn the shirt right side out again. The knots should now be inside the bag.\n\nFinally, place a few light items inside and lift the bag carefully to test it. Do not use it for very heavy objects if the fabric or knots seem weak. Wash the bag when needed and let it dry fully before storing it. Reusing a shirt can reduce the need for a new bag, especially when you remember to bring it with you.",
+      "hints": [
+        "lay the T-shirt flat",
+        "Tie each front strip to the matching strip at the back",
+        "test it with a few light items"
+      ]
+    },
+    {
+      "id": "S02P08",
+      "genre": "Procedure",
+      "level": "B1",
+      "title": "How to Reduce Waste at a School Event",
+      "text": "A school event can be fun and exciting without creating a lot of waste. Follow these steps to help keep the event clean and environmentally friendly.\n\n1. Plan and Set Goals. Discuss with your team how to reduce waste. Decide what items are really needed and set a clear goal, for example, to keep the event as close to zero waste as possible.\n\n2. Choose Reusable Options. Use reusable plates, cups, and cutlery instead of single-use plastics. If possible, ask vendors, students, and guests to bring their own bottles and lunch containers.\n\n3. Buy and Prepare Carefully. Estimate the right amount of food and materials. Avoid over-ordering so that unused items do not become waste. Choose suppliers who use minimal packaging or eco-friendly materials.\n\n4. Set Up Waste Stations. Provide clearly labeled bins for different types of waste, such as recyclable, organic, and other waste. Use signs with pictures so everyone knows where to throw their trash.\n\n5. Use Eco-Friendly Decorations. Choose decorations that can be reused, made from recycled materials, or are natural. Avoid balloons, plastic banners, and other items that often become litter.\n\n6. Clean Up and Check the Results. After the event, separate the waste properly. Check how much waste was recycled or reused. Discuss what went well and what can be improved for the next event.",
+      "hints": [
+        "set a clear goal",
+        "use reusable items",
+        "check the results after the event"
+      ]
+    },
+    {
+      "id": "S02P09",
+      "genre": "Analytical exposition",
+      "level": "B1",
+      "title": "Why Students Should Learn Local Legends",
+      "text": "Students should learn local legends because these stories connect people with the places and communities around them. A legend may explain how a place received its name, show which values a community respects, or preserve details about how people once understood the world. Discussing these stories can make cultural learning more concrete than memorizing a list of names.\n\nLegends also provide useful reading practice. Students can identify characters, follow a sequence of events, compare different versions, and discuss the message of a story. When two versions differ, students can ask why a storyteller may have changed a detail. This encourages careful reading instead of assuming that every retelling is identical.\n\nHowever, legends should not automatically be treated as verified history or scientific evidence. Teachers should explain the difference between a traditional story, a historical record, and a scientific explanation. Some students may also feel that a legend is not connected to their own family background. Lessons can respond by including stories from different regions and inviting students to research them respectfully.\n\nFor these reasons, local legends deserve a place in learning when they are taught thoughtfully. They can support language skills and cultural understanding, provided that students are encouraged to ask questions and recognize the difference between storytelling and evidence.",
+      "hints": [
+        "connect people with the places and communities",
+        "compare different versions",
+        "difference between storytelling and evidence"
+      ]
+    },
+    {
+      "id": "S02P10",
+      "genre": "Analytical exposition",
+      "level": "B1",
+      "title": "Is It Better to Visit Tourist Places on Weekdays?",
+      "text": "Visiting tourist places on weekdays can be a good choice, but it is not always best for every traveler. On many weekdays, popular sites are less crowded than they are on weekends. Visitors may spend less time waiting, hear guides more clearly, and take photographs without blocking other people. A quieter visit can also make it easier to notice details in a museum, park, or historic area.\n\nWeekday travel may help local businesses too, especially when visitors come during periods that are usually quiet. However, the benefit depends on the place and the season. Some shops or food stalls may open for fewer hours on weekdays, and certain attractions may have limited activities when school groups are not visiting.\n\nSchedules are another important factor. Students and workers may not be able to travel on a weekday without missing school or taking leave. Weekend visits can be more practical for families who need to travel together. Weather, transport schedules, ticket prices, and the opening hours of the attraction can matter more than the day itself.\n\nTherefore, travelers should compare the conditions rather than assume weekdays are always better. Weekdays can offer a calmer experience, while weekends may provide more convenient schedules or a livelier atmosphere. The best choice depends on the visitor’s needs and the specific destination.",
+      "hints": [
+        "less crowded than they are on weekends",
+        "the benefit depends on the place and the season",
+        "compare the conditions"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "p": 0,
+      "type": "PG",
+      "competency": "Textual Understanding — explicit information",
+      "stem": "What did the guide explain about mangrove roots?",
+      "options": [
+        "They help hold the soil and shelter young fish.",
+        "They make the water safe to drink.",
+        "They prevent all waves from reaching the shore.",
+        "They provide a place for visitors to park.",
+        "They are collected by students for study."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The guide explains two functions of mangrove roots: holding soil and sheltering young fish.",
+      "evidence": "The guide explained that mangrove roots help hold the soil and provide shelter for young fish.",
+      "wrong": [
+        "Correct; both functions are stated.",
+        "The passage does not say the water becomes drinkable.",
+        "The forest can reduce wave force, not stop every wave.",
+        "Parking is not described as a function of roots.",
+        "Students are not allowed to collect plants or animals."
+      ]
+    },
+    {
+      "id": 2,
+      "p": 0,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — responsible behaviour",
+      "stem": "Which TWO visitor behaviours are encouraged by the passage? Select TWO answers.",
+      "options": [
+        "Observe quietly.",
+        "Take rubbish away if the bin is full.",
+        "Collect small crabs for closer study.",
+        "Walk off the path to explore the mud.",
+        "Feed birds near the viewing deck."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "The guide asks visitors to observe quietly, and the rules say to take waste away if the bin is full.",
+      "evidence": "The guide asked us to observe quietly ... visitors were asked to take their waste with them if the bin was full.",
+      "wrong": [
+        "Supported by the guide’s instruction.",
+        "Supported by the visitor rule.",
+        "Collecting animals is prohibited.",
+        "The wooden path lets visitors avoid stepping directly on the soft ground.",
+        "Feeding birds is not recommended or mentioned."
+      ]
+    },
+    {
+      "id": 3,
+      "p": 0,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Features of the mangrove site",
+        "Visitor rules and learning"
+      ],
+      "rows": [
+        {
+          "s": "Mangrove roots rise from the mud.",
+          "key": 0,
+          "why": "This describes a physical feature of the habitat.",
+          "otherCategoryWhy": "Not Visitor rules and learning: the statement does not describe that category; it specifically fits “Features of the mangrove site” based on the distinction in the passage."
+        },
+        {
+          "s": "A wooden path leads to a viewing deck.",
+          "key": 0,
+          "why": "This describes the site’s layout.",
+          "otherCategoryWhy": "Not Visitor rules and learning: the statement does not describe that category; it specifically fits “Features of the mangrove site” based on the distinction in the passage."
+        },
+        {
+          "s": "Visitors should observe quietly.",
+          "key": 1,
+          "why": "This is a rule for visitor behaviour.",
+          "otherCategoryWhy": "Not Features of the mangrove site: the statement does not describe that category; it specifically fits “Visitor rules and learning” based on the distinction in the passage."
+        },
+        {
+          "s": "Students may write notes or sketch what they see.",
+          "key": 1,
+          "why": "This describes a learning activity for visitors.",
+          "otherCategoryWhy": "Not Features of the mangrove site: the statement does not describe that category; it specifically fits “Visitor rules and learning” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    },
+    {
+      "id": 4,
+      "p": 1,
+      "type": "PG",
+      "competency": "Textual Understanding — cause and purpose",
+      "stem": "Why does the center return some materials to residents?",
+      "options": [
+        "The materials may contain food, liquid, or mixed rubbish.",
+        "The staff want residents to pay an extra fee.",
+        "The center accepts only metal cans.",
+        "The weighing station is always closed.",
+        "Residents are not allowed to recycle paper."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The text says food, liquid, and mixed rubbish can make recycling more difficult, so staff check items before weighing them.",
+      "evidence": "Staff members check the items before weighing them, because food, liquid, and mixed rubbish can make recycling more difficult.",
+      "wrong": [
+        "Correct; this is the reason given.",
+        "No extra fee is mentioned.",
+        "The center accepts paper, plastic bottles, and clean metal cans.",
+        "The weighing station is part of the center.",
+        "Paper is accepted in the blue containers."
+      ]
+    },
+    {
+      "id": 5,
+      "p": 1,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — supported conclusions",
+      "stem": "Which TWO conclusions are supported by the description? Select TWO answers.",
+      "options": [
+        "The center helps residents learn how to sort waste.",
+        "Some recyclable materials must be transported elsewhere.",
+        "Every kind of waste can be processed at the center.",
+        "Volunteers do all the staff members’ work.",
+        "Visitors can bring unsorted rubbish without checking."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "The signs, staff explanations, and school activities support learning; the final paragraph says some materials are sent to other facilities.",
+      "evidence": "visitors can learn how to sort them correctly next time ... needs regular transport to send recyclable items to other facilities.",
+      "wrong": [
+        "Supported by the signs and explanations.",
+        "Supported by the final paragraph.",
+        "The text says some materials cannot be processed locally.",
+        "Volunteers’ activities do not replace the staff’s work.",
+        "Staff check materials and may return unacceptable items."
+      ]
+    },
+    {
+      "id": 6,
+      "p": 1,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Center facilities and layout",
+        "Waste-handling practices"
+      ],
+      "rows": [
+        {
+          "s": "Blue containers are used for paper.",
+          "key": 0,
+          "why": "This identifies the center’s container arrangement.",
+          "otherCategoryWhy": "Not Waste-handling practices: the statement does not describe that category; it specifically fits “Center facilities and layout” based on the distinction in the passage."
+        },
+        {
+          "s": "A weighing station stands near the back wall.",
+          "key": 0,
+          "why": "This describes where a facility is located.",
+          "otherCategoryWhy": "Not Waste-handling practices: the statement does not describe that category; it specifically fits “Center facilities and layout” based on the distinction in the passage."
+        },
+        {
+          "s": "Staff check materials before weighing them.",
+          "key": 1,
+          "why": "This is a waste-handling practice.",
+          "otherCategoryWhy": "Not Center facilities and layout: the statement does not describe that category; it specifically fits “Waste-handling practices” based on the distinction in the passage."
+        },
+        {
+          "s": "Unaccepted materials are returned with an explanation.",
+          "key": 1,
+          "why": "This describes how the center handles unsuitable items.",
+          "otherCategoryWhy": "Not Center facilities and layout: the statement does not describe that category; it specifically fits “Waste-handling practices” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    },
+    {
+      "id": 7,
+      "p": 2,
+      "type": "PG",
+      "competency": "Textual Understanding — explicit information",
+      "stem": "What did the writer’s group do when they found heavy, wet rubbish bags?",
+      "options": [
+        "They asked an adult volunteer to help move them safely.",
+        "They opened the bags and sorted everything by hand.",
+        "They left the bags beside the stream.",
+        "They carried the bags into a nearby shop.",
+        "They stopped the clean-up immediately."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The writer says the group asked an adult volunteer to help move the wet and heavy bags.",
+      "evidence": "Some bags were wet and heavy, so we asked an adult volunteer to help us move them safely.",
+      "wrong": [
+        "Correct; it matches the recount.",
+        "They did not open the bags or sort them by hand.",
+        "They placed full bags at the collection point.",
+        "No shop was used to store the bags.",
+        "The clean-up continued and the path became cleaner."
+      ]
+    },
+    {
+      "id": 8,
+      "p": 2,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — lessons learned",
+      "stem": "Which TWO lessons did the writer learn from the clean-up? Select TWO answers.",
+      "options": [
+        "Safe handling matters during community work.",
+        "Teamwork and planning are useful.",
+        "Volunteers should touch broken glass directly.",
+        "Clean-ups should be done without equipment.",
+        "Residents should avoid helping volunteers."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "The final paragraph explicitly mentions planning, teamwork, and safe handling.",
+      "evidence": "I learned that planning, teamwork, and safe handling matter too.",
+      "wrong": [
+        "Supported by the writer’s reflection.",
+        "Supported by the writer’s reflection.",
+        "The volunteer used special tools for broken glass.",
+        "The group received gloves and rubbish bags.",
+        "Residents helped by bringing water and lending a broom."
+      ]
+    },
+    {
+      "id": 9,
+      "p": 2,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Actions during the clean-up",
+        "Support and safety measures"
+      ],
+      "rows": [
+        {
+          "s": "The group collected wrappers and plastic cups.",
+          "key": 0,
+          "why": "This is a task carried out by the clean-up group.",
+          "otherCategoryWhy": "Not Support and safety measures: the statement does not describe that category; it specifically fits “Actions during the clean-up” based on the distinction in the passage."
+        },
+        {
+          "s": "The group separated plastic bottles from other rubbish.",
+          "key": 0,
+          "why": "This is part of the group’s clean-up work.",
+          "otherCategoryWhy": "Not Support and safety measures: the statement does not describe that category; it specifically fits “Actions during the clean-up” based on the distinction in the passage."
+        },
+        {
+          "s": "An adult used special tools for broken glass.",
+          "key": 1,
+          "why": "This is a safety measure provided by a volunteer.",
+          "otherCategoryWhy": "Not Actions during the clean-up: the statement does not describe that category; it specifically fits “Support and safety measures” based on the distinction in the passage."
+        },
+        {
+          "s": "A shop owner lent the volunteers a large broom.",
+          "key": 1,
+          "why": "This is outside support for the activity.",
+          "otherCategoryWhy": "Not Actions during the clean-up: the statement does not describe that category; it specifically fits “Support and safety measures” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    },
+    {
+      "id": 10,
+      "p": 3,
+      "type": "PG",
+      "competency": "Textual Understanding — cause and effect",
+      "stem": "Why did the students check the labels against their notes?",
+      "options": [
+        "Several labels had the wrong names.",
+        "The table had no traditional objects.",
+        "The teacher had cancelled the event.",
+        "The photographs had been lost.",
+        "The school office refused to print labels."
+      ],
+      "key": [
+        0
+      ],
+      "why": "They discovered that some labels had incorrect names and checked them against their notes before printing replacements.",
+      "evidence": "we discovered that several labels had been printed with the wrong names ... checking each label against our notes first.",
+      "wrong": [
+        "Correct; it states the problem that led to checking.",
+        "The class had objects borrowed from families.",
+        "The event went ahead, only a few minutes late.",
+        "Photographs were available for comparison.",
+        "The students printed replacements in the school office."
+      ]
+    },
+    {
+      "id": 11,
+      "p": 3,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — problem-solving",
+      "stem": "Which TWO actions helped the class manage unexpected problems? Select TWO answers.",
+      "options": [
+        "They checked labels against their notes.",
+        "They changed the table order when the basket arrived late.",
+        "They cancelled the display.",
+        "They removed every object from the table.",
+        "They ignored the incorrect labels."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "The class verified and replaced labels, then adjusted the table order when the basket arrived late.",
+      "evidence": "checking each label against our notes first ... We changed the order of the table",
+      "wrong": [
+        "Supported by the label correction.",
+        "Supported by the change in table order.",
+        "The display opened and visitors attended.",
+        "They did not remove every object.",
+        "They corrected the labels instead of ignoring them."
+      ]
+    },
+    {
+      "id": 12,
+      "p": 3,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Checking and correcting information",
+        "Adjusting the event plan"
+      ],
+      "rows": [
+        {
+          "s": "Comparing labels with photographs and notes.",
+          "key": 0,
+          "why": "This checks the accuracy of display information.",
+          "otherCategoryWhy": "Not Adjusting the event plan: the statement does not describe that category; it specifically fits “Checking and correcting information” based on the distinction in the passage."
+        },
+        {
+          "s": "Printing replacement labels.",
+          "key": 0,
+          "why": "This corrects inaccurate information.",
+          "otherCategoryWhy": "Not Adjusting the event plan: the statement does not describe that category; it specifically fits “Checking and correcting information” based on the distinction in the passage."
+        },
+        {
+          "s": "Presenting other objects before the basket arrived.",
+          "key": 1,
+          "why": "This changes the order of the display to handle a delay.",
+          "otherCategoryWhy": "Not Checking and correcting information: the statement does not describe that category; it specifically fits “Adjusting the event plan” based on the distinction in the passage."
+        },
+        {
+          "s": "Adding the basket after its family arrived.",
+          "key": 1,
+          "why": "This adjusts the display when an item arrives late.",
+          "otherCategoryWhy": "Not Checking and correcting information: the statement does not describe that category; it specifically fits “Adjusting the event plan” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    },
+    {
+      "id": 13,
+      "p": 4,
+      "type": "PG",
+      "competency": "Textual Understanding — purpose of an action",
+      "stem": "Why did the couple give Timun Mas small packets?",
+      "options": [
+        "To help her when she was in danger.",
+        "To make the cucumber grow faster.",
+        "To help Buto Ijo find her.",
+        "To decorate their garden.",
+        "To prove that the giant was kind."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The couple gave her the packets before Buto Ijo arrived and told her to run if she was in danger.",
+      "evidence": "they gave Timun Mas several small packets and told her to run if she was in danger.",
+      "wrong": [
+        "Correct; the packets were intended to help her escape.",
+        "The cucumber had already produced Timun Mas.",
+        "The packets were for Timun Mas to use while escaping.",
+        "Garden decoration is not mentioned.",
+        "Buto Ijo is the threat in the story."
+      ]
+    },
+    {
+      "id": 14,
+      "p": 4,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — actions and outcome",
+      "stem": "Which TWO details show Timun Mas using help to escape? Select TWO answers.",
+      "options": [
+        "She throws the contents of the packets behind her.",
+        "The objects become obstacles that slow the giant.",
+        "She asks Buto Ijo to carry her home.",
+        "She waits for the giant to catch her.",
+        "She gives the packets back before running."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "She uses the packets during the chase, and the resulting obstacles slow Buto Ijo.",
+      "evidence": "She threw the contents of the packets behind her ... the objects became obstacles that slowed the giant.",
+      "wrong": [
+        "This action is described directly.",
+        "This result is described directly.",
+        "No request for the giant’s help occurs.",
+        "She keeps running and tries to escape.",
+        "She uses the packets during the chase."
+      ]
+    },
+    {
+      "id": 15,
+      "p": 4,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Actions by the elderly couple",
+        "Actions by Timun Mas"
+      ],
+      "rows": [
+        {
+          "s": "They agreed to the giant’s condition.",
+          "key": 0,
+          "why": "The couple accepts the offer before Timun Mas is born.",
+          "otherCategoryWhy": "Not Actions by Timun Mas: the statement does not describe that category; it specifically fits “Actions by the elderly couple” based on the distinction in the passage."
+        },
+        {
+          "s": "They gave Timun Mas packets for danger.",
+          "key": 0,
+          "why": "The couple prepares help for her escape.",
+          "otherCategoryWhy": "Not Actions by Timun Mas: the statement does not describe that category; it specifically fits “Actions by the elderly couple” based on the distinction in the passage."
+        },
+        {
+          "s": "She ran across fields and through the forest.",
+          "key": 1,
+          "why": "Timun Mas carries out this action during the chase.",
+          "otherCategoryWhy": "Not Actions by the elderly couple: the statement does not describe that category; it specifically fits “Actions by Timun Mas” based on the distinction in the passage."
+        },
+        {
+          "s": "She threw the contents of the packets behind her.",
+          "key": 1,
+          "why": "Timun Mas uses the packets while escaping.",
+          "otherCategoryWhy": "Not Actions by the elderly couple: the statement does not describe that category; it specifically fits “Actions by Timun Mas” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    },
+    {
+      "id": 16,
+      "p": 5,
+      "type": "PG",
+      "competency": "Textual Understanding — explicit information",
+      "stem": "What promise did the fisherman make to the woman?",
+      "options": [
+        "He would never reveal her unusual origin.",
+        "He would never go fishing again.",
+        "He would move his family to another island.",
+        "He would tell their son the secret every day.",
+        "He would build a house beside the lake."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The first paragraph states that the fisherman promised not to reveal the woman’s unusual origin.",
+      "evidence": "she agreed to live with him after he promised never to reveal her unusual origin.",
+      "wrong": [
+        "Correct; it matches the promise.",
+        "No promise to stop fishing is mentioned.",
+        "They do not plan to move to another island.",
+        "The promise was to keep the origin secret.",
+        "No house-building promise is mentioned."
+      ]
+    },
+    {
+      "id": 17,
+      "p": 5,
+      "type": "MCMA",
+      "competency": "Evaluation and Appreciation — message and purpose",
+      "stem": "Which TWO ideas are supported by the ending and explanation? Select TWO answers.",
+      "options": [
+        "The story can warn against speaking in anger.",
+        "The legend connects a landscape with a traditional story.",
+        "The passage claims the lake formed exactly as described by science.",
+        "All versions of the legend contain identical details.",
+        "The woman’s promise was broken by the son."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "The final paragraph identifies a warning about angry words and calls the legend a cultural explanation connected to a landscape.",
+      "evidence": "The story can be understood as a warning about words spoken in anger ... a cultural explanation connected to a landscape",
+      "wrong": [
+        "Supported by the stated interpretation.",
+        "Supported by the passage’s explanation of the legend.",
+        "The passage explicitly says it is not a scientific account.",
+        "The passage says people tell different versions.",
+        "The father breaks his promise when he reveals the origin."
+      ]
+    },
+    {
+      "id": 18,
+      "p": 5,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Events involving the father and son",
+        "Events involving the woman and the landscape"
+      ],
+      "rows": [
+        {
+          "s": "The boy eats some of the food on the way.",
+          "key": 0,
+          "why": "This is the son’s action.",
+          "otherCategoryWhy": "Not Events involving the woman and the landscape: the statement does not describe that category; it specifically fits “Events involving the father and son” based on the distinction in the passage."
+        },
+        {
+          "s": "The father speaks angrily and reveals the secret.",
+          "key": 0,
+          "why": "This is the father’s action and breaks his promise.",
+          "otherCategoryWhy": "Not Events involving the woman and the landscape: the statement does not describe that category; it specifically fits “Events involving the father and son” based on the distinction in the passage."
+        },
+        {
+          "s": "The woman returns to the water.",
+          "key": 1,
+          "why": "This describes the woman’s response.",
+          "otherCategoryWhy": "Not Events involving the father and son: the statement does not describe that category; it specifically fits “Events involving the woman and the landscape” based on the distinction in the passage."
+        },
+        {
+          "s": "The flooded valley becomes Lake Toba in the legend.",
+          "key": 1,
+          "why": "This describes the landscape’s transformation in the story.",
+          "otherCategoryWhy": "Not Events involving the father and son: the statement does not describe that category; it specifically fits “Events involving the woman and the landscape” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    },
+    {
+      "id": 19,
+      "p": 6,
+      "type": "PG",
+      "competency": "Textual Understanding — sequence of steps",
+      "stem": "What should you do after tying all the strips at the bottom of the T-shirt?",
+      "options": [
+        "Turn the shirt right side out again.",
+        "Cut off the collar a second time.",
+        "Fill the bag with heavy objects.",
+        "Wash the shirt before cutting it.",
+        "Tie the sleeves together."
+      ],
+      "key": [
+        0
+      ],
+      "why": "After tying the matching strips, the procedure says to turn the shirt right side out again.",
+      "evidence": "When all the strips are tied, turn the shirt right side out again.",
+      "wrong": [
+        "Correct; this is the next stated step.",
+        "The neck opening is cut earlier in the procedure.",
+        "The bag should first be tested with a few light items.",
+        "The shirt is chosen clean before work begins; washing after cutting is not the next step.",
+        "The sleeves are cut off to form the bag’s opening."
+      ]
+    },
+    {
+      "id": 20,
+      "p": 6,
+      "type": "MCMA",
+      "competency": "Textual Understanding — safety and procedure",
+      "stem": "Which TWO instructions help make the reusable bag safer or more reliable? Select TWO answers.",
+      "options": [
+        "Check that each knot is secure.",
+        "Test the bag with a few light items.",
+        "Use it immediately for very heavy objects.",
+        "Ignore weak fabric if the bag looks attractive.",
+        "Store it while still wet."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "The text says to pull each knot gently to check it and test the bag with light items.",
+      "evidence": "Pull each knot gently to check that it is secure ... place a few light items inside and lift the bag carefully to test it.",
+      "wrong": [
+        "Explicitly recommended.",
+        "Explicitly recommended.",
+        "The passage warns against heavy objects if the fabric or knots seem weak.",
+        "Weak fabric is a reason to avoid heavy use.",
+        "The bag should dry fully before storing."
+      ]
+    },
+    {
+      "id": 21,
+      "p": 6,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Preparing and assembling the bag",
+        "Testing and caring for the bag"
+      ],
+      "rows": [
+        {
+          "s": "Cut off the sleeves and shape the neck opening.",
+          "key": 0,
+          "why": "This prepares the T-shirt for assembly.",
+          "otherCategoryWhy": "Not Testing and caring for the bag: the statement does not describe that category; it specifically fits “Preparing and assembling the bag” based on the distinction in the passage."
+        },
+        {
+          "s": "Tie each front strip to its matching back strip.",
+          "key": 0,
+          "why": "This forms the bottom of the bag.",
+          "otherCategoryWhy": "Not Testing and caring for the bag: the statement does not describe that category; it specifically fits “Preparing and assembling the bag” based on the distinction in the passage."
+        },
+        {
+          "s": "Lift the bag with a few light items inside.",
+          "key": 1,
+          "why": "This tests the bag’s strength.",
+          "otherCategoryWhy": "Not Preparing and assembling the bag: the statement does not describe that category; it specifically fits “Testing and caring for the bag” based on the distinction in the passage."
+        },
+        {
+          "s": "Let the bag dry fully before storing it.",
+          "key": 1,
+          "why": "This is part of care after use or washing.",
+          "otherCategoryWhy": "Not Preparing and assembling the bag: the statement does not describe that category; it specifically fits “Testing and caring for the bag” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    },
+    {
+      "id": 22,
+      "p": 7,
+      "type": "PG",
+      "competency": "Textual Understanding — purpose",
+      "stem": "Why should the team estimate the amount of food and materials needed?",
+      "options": [
+        "To avoid ordering more than the event needs.",
+        "To make every guest bring decorations.",
+        "To ensure that all items are single-use.",
+        "To avoid setting up waste stations.",
+        "To guarantee that no rubbish will be produced."
+      ],
+      "key": [
+        0
+      ],
+      "why": "Estimating the amount needed helps the team avoid over-ordering and creating waste.",
+      "evidence": "Estimate the right amount of food and materials. Avoid over-ordering so that unused items do not become waste.",
+      "wrong": [
+        "Correct; estimating helps prevent unnecessary supplies and waste.",
+        "The passage does not say guests must bring decorations.",
+        "The passage recommends reusable items rather than single-use items.",
+        "The infographic recommends setting up clearly labeled waste stations.",
+        "The text sets a waste-reduction goal; it does not guarantee zero rubbish."
+      ]
+    },
+    {
+      "id": 23,
+      "p": 7,
+      "type": "MCMA",
+      "competency": "Textual Understanding — recommended practices",
+      "stem": "Which TWO actions are recommended to reduce waste at a school event? Select TWO answers.",
+      "options": [
+        "Use reusable plates, cups, and cutlery.",
+        "Choose decorations that can be reused.",
+        "Order extra food in case it is not needed.",
+        "Use plastic banners that may become litter.",
+        "Avoid separating waste after the event."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "Reusable serving items and reusable decorations are both recommended ways to reduce waste.",
+      "evidence": "Use reusable plates, cups, and cutlery instead of single-use plastics. ... Choose decorations that can be reused, made from recycled materials, or are natural.",
+      "wrong": [
+        "Correct; reusable items reduce reliance on single-use plastics.",
+        "Correct; reusable decorations can help prevent waste.",
+        "The passage advises avoiding over-ordering.",
+        "The passage advises avoiding plastic banners that often become litter.",
+        "The final step says to separate waste properly."
+      ]
+    },
+    {
+      "id": 24,
+      "p": 7,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Preparing to Reduce Waste",
+        "Managing Waste and Reviewing Results"
+      ],
+      "rows": [
+        {
+          "s": "Set a clear waste-reduction goal with the team.",
+          "key": 0,
+          "why": "Setting a goal is part of planning before the event.",
+          "otherCategoryWhy": "Not Managing Waste and Reviewing Results: setting a goal with the team is a preparation step."
+        },
+        {
+          "s": "Estimate the amount of food and materials needed.",
+          "key": 0,
+          "why": "Estimating supplies helps the team prepare and avoid over-ordering.",
+          "otherCategoryWhy": "Not Managing Waste and Reviewing Results: estimating supplies is part of preparation."
+        },
+        {
+          "s": "Separate the waste after the event.",
+          "key": 1,
+          "why": "Separating waste is part of the clean-up process.",
+          "otherCategoryWhy": "Not Preparing to Reduce Waste: this action takes place after the event."
+        },
+        {
+          "s": "Discuss what can be improved for the next event.",
+          "key": 1,
+          "why": "Reviewing what worked and what needs improvement happens after the event.",
+          "otherCategoryWhy": "Not Preparing to Reduce Waste: this review is conducted after the event to improve future plans."
+        }
+      ],
+      "why": "Each statement belongs to one category based on whether it is part of preparation or post-event waste management and review."
+    },
+    {
+      "id": 25,
+      "p": 8,
+      "type": "PG",
+      "competency": "Inferential Understanding — purpose of learning activity",
+      "stem": "According to the passage, why can comparing different versions of a legend be useful?",
+      "options": [
+        "It encourages students to read carefully and ask why details differ.",
+        "It proves that every legend is a scientific report.",
+        "It shows that stories must never change.",
+        "It removes the need to study historical records.",
+        "It guarantees that all students share the same background."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The passage says comparing versions encourages students to ask why details change and not assume every retelling is identical.",
+      "evidence": "When two versions differ, students can ask why a storyteller may have changed a detail.",
+      "wrong": [
+        "Correct; this reflects the stated learning benefit.",
+        "The passage distinguishes legends from scientific evidence.",
+        "It says retellings may differ.",
+        "The passage says legends should not automatically be treated as verified history.",
+        "The passage notes that students may have different family backgrounds."
+      ]
+    },
+    {
+      "id": 26,
+      "p": 8,
+      "type": "MCMA",
+      "competency": "Textual Understanding — qualifications and cautions",
+      "stem": "Which TWO cautions does the writer make about teaching legends? Select TWO answers.",
+      "options": [
+        "Do not treat legends automatically as verified history.",
+        "Explain the difference between stories, historical records, and scientific explanations.",
+        "Avoid including stories from different regions.",
+        "Assume every retelling has identical details.",
+        "Use legends only to teach grammar."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "The third paragraph explicitly warns against treating legends as verified history or science and recommends explaining the distinction between forms of evidence.",
+      "evidence": "legends should not automatically be treated as verified history or scientific evidence ... explain the difference between a traditional story, a historical record, and a scientific explanation.",
+      "wrong": [
+        "Explicitly stated.",
+        "Explicitly stated.",
+        "The text recommends including stories from different regions.",
+        "The text says retellings can differ.",
+        "The text also discusses cultural understanding and reading skills."
+      ]
+    },
+    {
+      "id": 27,
+      "p": 8,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Learning benefits of legends",
+        "Cautions for teaching legends"
+      ],
+      "rows": [
+        {
+          "s": "Students can follow the sequence of events.",
+          "key": 0,
+          "why": "This is a reading skill developed through legends.",
+          "otherCategoryWhy": "Not Cautions for teaching legends: the statement does not describe that category; it specifically fits “Learning benefits of legends” based on the distinction in the passage."
+        },
+        {
+          "s": "Stories can support cultural understanding.",
+          "key": 0,
+          "why": "This is a benefit named in the conclusion.",
+          "otherCategoryWhy": "Not Cautions for teaching legends: the statement does not describe that category; it specifically fits “Learning benefits of legends” based on the distinction in the passage."
+        },
+        {
+          "s": "A legend is not automatically scientific evidence.",
+          "key": 1,
+          "why": "This is an important caution.",
+          "otherCategoryWhy": "Not Learning benefits of legends: the statement does not describe that category; it specifically fits “Cautions for teaching legends” based on the distinction in the passage."
+        },
+        {
+          "s": "Different versions should not be assumed identical.",
+          "key": 1,
+          "why": "The passage advises students to notice variation.",
+          "otherCategoryWhy": "Not Learning benefits of legends: the statement does not describe that category; it specifically fits “Cautions for teaching legends” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    },
+    {
+      "id": 28,
+      "p": 9,
+      "type": "PG",
+      "competency": "Textual Understanding — explicit information",
+      "stem": "Which factor may make a weekday visit less convenient?",
+      "options": [
+        "Some shops or food stalls may open for fewer hours.",
+        "All tourist places are closed on weekdays.",
+        "Weekday visitors are never allowed to take photographs.",
+        "Guides always speak more quietly on weekends.",
+        "Public transport never operates during the week."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The second paragraph says some shops or food stalls may open for fewer hours on weekdays.",
+      "evidence": "Some shops or food stalls may open for fewer hours on weekdays",
+      "wrong": [
+        "Correct; this is a limitation mentioned.",
+        "The passage does not say attractions are all closed.",
+        "Photographs are discussed as easier when crowds are smaller, not prohibited.",
+        "The text does not compare guide volume by day.",
+        "No such claim about public transport appears."
+      ]
+    },
+    {
+      "id": 29,
+      "p": 9,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — decision-making",
+      "stem": "Which TWO factors should travelers consider before choosing a day to visit? Select TWO answers.",
+      "options": [
+        "Their school or work schedules.",
+        "The attraction’s opening hours.",
+        "Only the number of photographs they can take.",
+        "Whether every shop is open all year.",
+        "The assumption that weekdays are always best."
+      ],
+      "key": [
+        0,
+        1
+      ],
+      "why": "The passage identifies schedules and opening hours among the factors that may matter more than the day itself.",
+      "evidence": "Students and workers may not be able to travel on a weekday ... the opening hours of the attraction can matter more than the day itself.",
+      "wrong": [
+        "Supported by the paragraph on schedules.",
+        "Explicitly listed as a factor.",
+        "Photographs are only one possible benefit, not the sole consideration.",
+        "The passage says some shops may have shorter hours.",
+        "The conclusion warns against assuming weekdays are always better."
+      ]
+    },
+    {
+      "id": 30,
+      "p": 9,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "categories": [
+        "Possible advantages of weekday visits",
+        "Factors that may limit weekday visits"
+      ],
+      "rows": [
+        {
+          "s": "Popular sites may be less crowded.",
+          "key": 0,
+          "why": "This is an advantage of visiting on weekdays.",
+          "otherCategoryWhy": "Not Factors that may limit weekday visits: the statement does not describe that category; it specifically fits “Possible advantages of weekday visits” based on the distinction in the passage."
+        },
+        {
+          "s": "Visitors may hear guides more clearly.",
+          "key": 0,
+          "why": "This is another possible advantage of smaller crowds.",
+          "otherCategoryWhy": "Not Factors that may limit weekday visits: the statement does not describe that category; it specifically fits “Possible advantages of weekday visits” based on the distinction in the passage."
+        },
+        {
+          "s": "Some food stalls may open for fewer hours.",
+          "key": 1,
+          "why": "This is a possible limitation.",
+          "otherCategoryWhy": "Not Possible advantages of weekday visits: the statement does not describe that category; it specifically fits “Factors that may limit weekday visits” based on the distinction in the passage."
+        },
+        {
+          "s": "Students may need to miss school to travel.",
+          "key": 1,
+          "why": "This is a scheduling difficulty.",
+          "otherCategoryWhy": "Not Possible advantages of weekday visits: the statement does not describe that category; it specifically fits “Factors that may limit weekday visits” based on the distinction in the passage."
+        }
+      ],
+      "why": "Each statement belongs to exactly one category based on the distinction named in the table headers."
+    }
+  ]
+}
