@@ -1,0 +1,1041 @@
+{
+  "meta": {
+    "title": "TKA English Practice Set 05",
+    "set": 5,
+    "duration_minutes": 70,
+    "passage_count": 10,
+    "question_count": 30,
+    "question_types": {
+      "PG": "MCSA — select one answer using radio buttons",
+      "MCMA": "Select exactly two correct answers using checkboxes",
+      "CAT": "Category — choose one category per statement using radio buttons in a table"
+    },
+    "source_map": "passage_map.md — Set 5 topics",
+    "structure_reference": "Set01_data(3).json",
+    "note": "Set 05 uses the Set 5 topic inventory from passage_map.md. Each passage has three questions: one PG, one MCMA, and one CAT."
+  },
+  "passages": [
+    {
+      "id": "S05P01",
+      "genre": "Descriptive",
+      "level": "B1",
+      "title": "A School Career Day",
+      "text": "Our school career day takes place in the main hall, which is divided into several practical areas. Near the entrance, a notice board lists the schedule and the names of visiting speakers. Along the left wall, local colleges display information about study programmes, scholarships, and admission requirements. On the opposite side, several companies have set up small booths where students can ask about entry-level jobs and internships.\\n\\nAt the centre of the hall, a career guidance desk offers short conversations with teachers and invited advisers. Students can bring a draft CV, ask how to describe their skills, or discuss which subjects may support a future plan. A quiet corner is reserved for short practice interviews, while a computer station lets students search official college and company websites.\\n\\nThe atmosphere is busy but supportive. Some students arrive with a clear goal, whereas others are still exploring possibilities. The organisers remind everyone that career day is not a recruitment test and that students do not need to make a final decision immediately. Its purpose is to help them compare options, ask informed questions, and identify a useful next step.",
+      "hints": [
+        "divided into several practical areas",
+        "career guidance desk",
+        "compare options"
+      ]
+    },
+    {
+      "id": "S05P02",
+      "genre": "Descriptive",
+      "level": "B1",
+      "title": "Taking the Bus Around the City",
+      "text": "The city bus terminal is organised to make journeys easier for different passengers. Large route boards hang above the waiting area, showing each route number, its main stops, and the estimated departure time. Digital screens display updates when a bus is delayed, while printed maps remain available for people who prefer a paper guide. Benches are arranged in rows, leaving a clear path toward the boarding gates.\\n\\nA separate sign marks the accessible boarding point. Buses on several routes have low floors and reserved spaces for passengers who use wheelchairs or need extra time to board. Staff members are usually stationed near the information desk, where passengers can ask about transfers or report a lost item. Ticket machines accept electronic payments, and a counter is available for people who need help using them.\\n\\nThe system is not perfect. During rush hour, some buses become crowded, and a digital update may appear later than expected. Still, clear signs and staff support help passengers plan their trips with greater confidence. For new users, checking the route before joining a queue is especially useful because buses leaving from nearby gates may travel in different directions.",
+      "hints": [
+        "route boards",
+        "accessible boarding point",
+        "checking the route before joining a queue"
+      ]
+    },
+    {
+      "id": "S05P03",
+      "genre": "Recount",
+      "level": "B1",
+      "title": "My First Week as a Part-Time Shop Assistant",
+      "text": "During the school holiday, I worked for one week as a part-time assistant at a small stationery shop near my house. On the first morning, the owner showed me where to find notebooks, pens, folders, and art supplies. I thought the job would be easy because I often visited the shop as a customer, but I soon realised that serving customers required more attention than I expected. \\n\\nOn my second day, a customer asked whether a particular notebook was available in a larger size. I checked the shelf quickly and told her that we did not sell it. The owner later showed me that the larger notebooks were kept in a drawer under the counter. I felt embarrassed, but she explained that I should check the storage area before giving an answer. She also reminded me to speak politely even when the shop became busy. \\n\\nBy the middle of the week, I had learned to arrange returned items, check price labels, and ask a co-worker when I was unsure. One afternoon, several customers arrived at the same time. Instead of rushing, I greeted each person and explained that I would help them in turn. The owner said I was becoming more careful and organised. \\n\\nWhen the week ended, I was tired but pleased with what I had learned. I understood that customer service was not only about being friendly; it also required accurate information, patience, and knowing when to ask for help. The experience did not make me an expert, but it gave me more confidence about trying another part-time job in the future.",
+      "hints": [
+        "check the storage area",
+        "accurate information",
+        "knowing when to ask for help"
+      ]
+    },
+    {
+      "id": "S05P04",
+      "genre": "Recount",
+      "level": "B1",
+      "title": "How Our Neighborhood Fixed a Flooded Road",
+      "text": "After heavy rain, the road beside our neighbourhood market often filled with water. Pedestrians had to step into traffic to pass the deepest part, and some motorcyclists lost their balance on the uneven edge. At first, residents complained in separate messages, but the problem continued because the reports did not show exactly where the water collected or how long it remained.\\n\\nOne Saturday, our youth group decided to document the situation. We took photographs from safe positions, noted the time and rainfall conditions, and marked the worst section on a simple map. An adult volunteer helped us send the information to the local service office. We did not try to open the drain ourselves because the water was dirty and the roadside was unsafe.\\n\\nA few days later, workers inspected the drain and found it partly blocked by leaves and plastic packaging. They cleared the blockage and arranged a follow-up check after the next rain. The road still flooded slightly during an unusually heavy shower, but the water disappeared more quickly than before. Residents continued to report rubbish near the drain, and shop owners placed a bin near the market entrance. We learned that useful community action requires clear evidence, cooperation, and realistic expectations rather than complaints alone.",
+      "hints": [
+        "reports did not show exactly where",
+        "document the situation",
+        "realistic expectations"
+      ]
+    },
+    {
+      "id": "S05P05",
+      "genre": "Narrative",
+      "level": "B1",
+      "title": "Jaka Tarub and Nawang Wulan",
+      "text": "One day, a young man named Jaka Tarub was walking near a forest when he heard laughter beside a hidden pool. He looked through the trees and saw several heavenly maidens bathing there. Their shawls, which allowed them to return to the sky, lay on the grass nearby. Jaka Tarub secretly took one shawl and hid it. When the maidens finished bathing, one of them could not find hers and was unable to return with the others. Her name was Nawang Wulan.\\n\\nJaka Tarub approached her and offered help. With no way to return home, Nawang Wulan eventually lived with him, and they married. Before long, they had a daughter. Nawang Wulan had a special ability: she could cook enough rice for the family from a small amount of grain, but she made Jaka Tarub promise never to open the rice container while she was cooking.\\n\\nFor a long time, he kept the promise. One day, however, he became curious and lifted the lid. He discovered the hidden shawl inside the container, where Nawang Wulan had kept it safe. After that, her special ability disappeared, and she had to cook in an ordinary way. When the rice ran low, she searched the storage area and found her shawl. Realising that Jaka Tarub had taken it, she understood how he had kept her from returning home. In many tellings, she eventually leaves for the sky, while their daughter remains connected to both parents. The story is often remembered as a warning that deception can damage trust even when a relationship seems happy.",
+      "hints": [
+        "secretly took one shawl",
+        "promise never to open the rice container",
+        "deception can damage trust"
+      ]
+    },
+    {
+      "id": "S05P06",
+      "genre": "Narrative",
+      "level": "B1",
+      "title": "The Legend of Cindelaras",
+      "text": "Long ago, in a kingdom in East Java, a queen gave birth to a boy named Cindelaras. The king’s other wife was jealous and wanted her own son to become the heir. She persuaded a palace servant to spread a false accusation against the queen. Believing the story without checking it carefully, the king ordered the queen to leave the palace. She went to live in a forest, where she raised Cindelaras far from court life.\\n\\nAs Cindelaras grew older, he became brave and curious. One day, he found an egg and cared for it until a strong rooster hatched. The rooster became known for its unusual crow, which seemed to announce that Cindelaras was the son of a king. People who heard the crow told others about it, and the story eventually reached the palace.\\n\\nWhen the king heard the reports, he invited Cindelaras to prove the claim. In a traditional rooster contest, Cindelaras’s bird defeated the king’s champion. The king then asked about the boy’s family, and the truth about the false accusation came to light. The queen was welcomed back, and the people learned that rumours can cause serious harm when leaders accept them without evidence. Different versions of the legend vary in detail, but the rooster’s crow and the discovery of Cindelaras’s identity are central to this retelling.",
+      "hints": [
+        "false accusation",
+        "the rooster’s unusual crow",
+        "accept them without evidence"
+      ]
+    },
+    {
+      "id": "S05P07",
+      "genre": "Procedure",
+      "level": "B1",
+      "title": "How to Make a Monthly Budget",
+      "text": "A monthly budget helps you decide how to use the money you receive instead of wondering where it went at the end of the month. Begin by listing your expected income, such as pocket money, wages from part-time work, or money earned from a small service. Use the amount you can reasonably expect, not an uncertain amount you hope to receive.\\n\\nNext, write down necessary expenses, including transport, meals, phone data, and school supplies. Estimate each amount using recent spending records if possible. Then set aside a realistic amount for savings or an unexpected cost before deciding how much is available for non-essential purchases. If your expenses are higher than your income, identify which flexible costs can be reduced; do not simply remove an important need from the list.\\n\\nFor the rest of the month, record each purchase as it happens. A note on your phone or a small notebook is enough. At the end of the week, compare your actual spending with your plan and make adjustments if needed. A budget is a guide, not a punishment: if an unexpected expense appears, update the figures rather than pretending the original plan still works. After one month, review which estimates were accurate and use that information to prepare the next budget.",
+      "hints": [
+        "expected income",
+        "set aside a realistic amount",
+        "compare your actual spending"
+      ]
+    },
+    {
+      "id": "S05P08",
+      "genre": "Procedure",
+      "level": "B1",
+      "title": "How to Choose a Reliable Source for an Essay",
+      "text": "When you write an essay, a source should do more than sound convincing. Start by identifying who created the information. Look for the author’s name, relevant experience, or the organisation responsible for the page. If the author cannot be identified, treat the claim cautiously rather than assuming it is false or automatically true.\\n\\nNext, examine the evidence. A reliable source explains where its facts come from, uses examples or data that can be checked, and separates evidence from personal opinion. Check the publication date too, especially when the topic involves technology, public policy, or current statistics. An older source may still explain a historical event well, but it may not describe a recent change.\\n\\nThen consider the purpose of the text. Is it trying to inform readers, sell a product, or persuade them to support a particular view? A persuasive purpose does not make a source useless, but it means you should notice what information is emphasised or left out. Finally, compare the main claim with at least one independent source. If several sources repeat the same statement but all refer to one original post, they do not provide fully independent confirmation. Keep a record of the title, author, date, and link so you can cite the source accurately in your essay.",
+      "hints": [
+        "who created the information",
+        "examine the evidence",
+        "independent source"
+      ]
+    },
+    {
+      "id": "S05P09",
+      "genre": "Analytical exposition",
+      "level": "B1",
+      "title": "Should Students Use AI for Schoolwork?",
+      "text": "Students should be allowed to use artificial intelligence tools for some school tasks, but the tools must support learning rather than replace it. AI can help learners generate practice questions, organise early ideas, or receive explanations of unfamiliar concepts. Used carefully, it can give students another way to explore a topic before asking a teacher for further guidance.\\n\\nHowever, a fluent answer is not necessarily an accurate one. AI tools can make mistakes, leave out important context, or produce information that sounds certain without adequate evidence. If students submit generated work as if they had written and checked every part themselves, teachers cannot easily see what the students actually understand. The students may also miss the thinking process that helps them remember and apply knowledge.\\n\\nSchools should therefore teach clear rules for responsible use. Students can be asked to verify important claims, acknowledge when AI has contributed to an assignment, and explain their own reasoning. Teachers can design tasks that include drafts, source checks, or short reflections, making the learning process more visible. Some activities should still be completed without AI so students practise independent skills. The goal is not to ban every tool or accept every answer, but to use technology with honesty, judgement, and accountability.",
+      "hints": [
+        "support learning rather than replace it",
+        "not necessarily an accurate one",
+        "verify important claims"
+      ]
+    },
+    {
+      "id": "S05P10",
+      "genre": "Analytical exposition",
+      "level": "B1",
+      "title": "Why Students Need Public Transportation",
+      "text": "Reliable public transportation can make education and work more accessible. When buses and other shared services connect residential areas with schools, training centres, and workplaces, people who cannot drive have more choices. A predictable route can also help families plan their day without paying for a separate private journey every time someone needs to travel.\\n\\nPublic transport may reduce the number of private vehicles on busy roads, especially when services are frequent and convenient. Fewer cars can mean less pressure on parking spaces and potentially lower traffic emissions. It can also give teenagers and older residents more independence, provided that stops are safe and routes are easy to understand.\\n\\nNevertheless, public transportation is not a complete solution by itself. Some areas have limited service, and infrequent buses may force passengers to wait a long time or use another vehicle for part of the journey. Poor lighting, crowded stops, and unclear information can also discourage people from using the system. Local authorities should therefore improve route coverage, maintain vehicles, publish clear schedules, and listen to passenger feedback. Public transport works best when it is affordable, dependable, and designed around the needs of the people who use it.",
+      "hints": [
+        "more choices",
+        "not a complete solution",
+        "route coverage"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "p": 0,
+      "type": "PG",
+      "competency": "Textual Understanding — lokasi dan fungsi fasilitas",
+      "stem": "Where can students get help with improving a CV or discussing suitable subjects? ",
+      "options": [
+        "At the college admission counter",
+        "At the computer station",
+        "At the career guidance desk",
+        "At the company booths only",
+        "On the schedule notice board"
+      ],
+      "key": [
+        2
+      ],
+      "why": "The career guidance desk is specifically described as a place for short conversations about CVs, skills, and subjects that support future plans.",
+      "evidence": "“A career guidance desk offers short conversations ... Students can bring a draft CV ... or discuss which subjects may support a future plan.”",
+      "wrong": [
+        "College displays give programme and admission information, but the text does not say they offer CV consultations.",
+        "The computer station is for searching official websites, not described as a personal advice desk.",
+        "Correct: this desk offers advice about CVs and future plans.",
+        "The company booths provide information about jobs and internships, but the passage assigns CV advice to the guidance desk.",
+        "The notice board lists the schedule and speakers; it does not provide guidance."
+      ]
+    },
+    {
+      "id": 2,
+      "p": 0,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — tujuan kegiatan",
+      "stem": "Which TWO conclusions about the career day are supported by the passage? Select TWO answers.",
+      "options": [
+        "The booths guarantee internships to everyone who visits.",
+        "The practice interviews are the event’s only activity.",
+        "The event helps students compare possible next steps.",
+        "Some students attend without having a fixed plan.",
+        "Students are expected to choose a career before leaving the hall."
+      ],
+      "key": [
+        2,
+        3
+      ],
+      "why": "The passage says some students have a clear goal while others are exploring, and it presents the event as a way to compare options and identify a next step.",
+      "evidence": "“Some students arrive with a clear goal, whereas others are still exploring possibilities” and “compare options ... and identify a useful next step.”",
+      "wrong": [
+        "No internship guarantee is mentioned; the booths provide information.",
+        "The hall contains college displays, company booths, a guidance desk, practice interviews, and a computer station.",
+        "Supported: comparing options and identifying next steps are stated purposes.",
+        "Supported: the passage explicitly says some students are still exploring possibilities.",
+        "The text says students do not need to make a final decision immediately."
+      ]
+    },
+    {
+      "id": 3,
+      "p": 0,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi fasilitas",
+      "categories": [
+        "Information",
+        "Guidance"
+      ],
+      "rows": [
+        {
+          "s": "College displays show study programmes and admission requirements.",
+          "key": 0,
+          "why": "The displays provide information students can compare.",
+          "otherCategoryWhy": "Not Guidance: this statement concerns information rather than guidance."
+        },
+        {
+          "s": "An adviser discusses how to describe personal skills.",
+          "key": 1,
+          "why": "This is a guidance conversation about presenting skills.",
+          "otherCategoryWhy": "Not Information: this statement concerns guidance rather than information."
+        },
+        {
+          "s": "A quiet corner is used for short practice interviews.",
+          "key": 1,
+          "why": "The interview area helps students practise and receive support.",
+          "otherCategoryWhy": "Not Information: this statement concerns guidance rather than information."
+        },
+        {
+          "s": "A notice board lists the schedule and visiting speakers.",
+          "key": 0,
+          "why": "The notice board communicates event information.",
+          "otherCategoryWhy": "Not Guidance: this statement concerns information rather than guidance."
+        }
+      ],
+      "why": "The first two statements describe places or displays that provide information; the last two describe activities that guide students personally."
+    },
+    {
+      "id": 4,
+      "p": 1,
+      "type": "PG",
+      "competency": "Textual Understanding — detail dan inferensi",
+      "stem": "Why is it useful to check the route before joining a bus queue?",
+      "options": [
+        "Every bus departs at exactly the same time.",
+        "Digital screens show only the final destination.",
+        "Passengers must pay twice if they change routes.",
+        "The printed maps can only be read by staff.",
+        "Buses at nearby gates may go in different directions."
+      ],
+      "key": [
+        4
+      ],
+      "why": "The final paragraph warns that nearby gates may serve buses travelling in different directions, so checking the route prevents boarding the wrong bus.",
+      "evidence": "“Checking the route before joining a queue is especially useful because buses leaving from nearby gates may travel in different directions.”",
+      "wrong": [
+        "The text mentions estimated departure times and delays, not identical departure times.",
+        "The screens display delay updates; route boards show route numbers and stops.",
+        "No double payment rule is mentioned.",
+        "The passage says printed maps are available to passengers; it does not restrict them to staff.",
+        "Correct: this is the stated reason for checking the route."
+      ]
+    },
+    {
+      "id": 5,
+      "p": 1,
+      "type": "MCMA",
+      "competency": "Textual Understanding — aksesibilitas dan layanan",
+      "stem": "Which TWO features help passengers who may need extra assistance? Select TWO answers.",
+      "options": [
+        "A staff desk where passengers can ask about transfers",
+        "A rule requiring all passengers to use digital tickets",
+        "Benches that block the path to the boarding gates",
+        "A requirement to board before checking the route",
+        "Low-floor buses and reserved spaces on several routes"
+      ],
+      "key": [
+        0,
+        4
+      ],
+      "why": "The passage identifies staff assistance at the information desk and accessible features on several buses.",
+      "evidence": "“Staff members are usually stationed near the information desk” and “Buses on several routes have low floors and reserved spaces...”",
+      "wrong": [
+        "Supported: staff can answer questions about transfers and other issues.",
+        "No rule requiring digital tickets is given; the system includes a help counter.",
+        "The benches leave a clear path toward the gates, so this contradicts the text.",
+        "The passage advises checking the route before joining a queue.",
+        "Supported: low floors and reserved spaces support passengers with access needs."
+      ]
+    },
+    {
+      "id": 6,
+      "p": 1,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi layanan",
+      "categories": [
+        "Access",
+        "Information"
+      ],
+      "rows": [
+        {
+          "s": "Route boards show numbers and main stops.",
+          "key": 1,
+          "why": "The boards tell passengers which route to take.",
+          "otherCategoryWhy": "Not Access: this statement concerns information rather than access."
+        },
+        {
+          "s": "Low-floor buses have reserved spaces for passengers who need them.",
+          "key": 0,
+          "why": "These features help passengers board and travel with fewer barriers.",
+          "otherCategoryWhy": "Not Information: this statement concerns access rather than information."
+        },
+        {
+          "s": "The benches leave a clear path toward the boarding gates.",
+          "key": 0,
+          "why": "The layout keeps movement toward the gates accessible.",
+          "otherCategoryWhy": "Not Information: this statement concerns access rather than information."
+        },
+        {
+          "s": "Digital screens display delay updates.",
+          "key": 1,
+          "why": "The screens provide travel information about service changes.",
+          "otherCategoryWhy": "Not Access: this statement concerns information rather than access."
+        }
+      ],
+      "why": "The first two statements describe physical access and movement; the last two provide route or service information."
+    },
+    {
+      "id": 7,
+      "p": 2,
+      "type": "PG",
+      "competency": "Textual Understanding — sebab dan akibat",
+      "stem": "Why did the student give the customer incorrect information about the larger notebook?",
+      "options": [
+        "The customer refused to explain what size she needed.",
+        "The student checked the shelf but did not look in the drawer under the counter.",
+        "The price labels had been removed from every notebook.",
+        "The student thought the customer wanted a notebook with a different cover.",
+        "The shop owner had moved all the larger notebooks to another shop."
+      ],
+      "key": [
+        1
+      ],
+      "why": "The student checked only the shelf and concluded that the notebook was unavailable. The owner later showed that larger notebooks were stored in a drawer under the counter.",
+      "evidence": "“I checked the shelf quickly and told her that we did not sell it. The owner later showed me that the larger notebooks were kept in a drawer under the counter.”",
+      "wrong": [
+        "The customer clearly asked whether a larger size was available.",
+        "Correct: the student failed to check the storage drawer, where the item was kept.",
+        "The mistake concerned where the notebooks were stored, not missing price labels.",
+        "The passage says the customer asked about a larger size, not a different cover.",
+        "No other shop is mentioned; the notebooks were in a drawer in the same shop."
+      ]
+    },
+    {
+      "id": 8,
+      "p": 2,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — perkembangan keterampilan",
+      "stem": "Which TWO actions show that the student became more careful at work? Select TWO answers.",
+      "options": [
+        "Learning to arrange returned items properly",
+        "Giving quick answers without checking storage",
+        "Avoiding customers whenever the shop became busy",
+        "Checking price labels and asking a co-worker when unsure",
+        "Serving every customer at the same time"
+      ],
+      "key": [
+        0,
+        3
+      ],
+      "why": "The student learned to check price labels, ask for help when uncertain, and arrange returned items. These actions show greater care and organisation.",
+      "evidence": "“I had learned to arrange returned items, check price labels, and ask a co-worker when I was unsure.”",
+      "wrong": [
+        "Supported: arranging returned items is explicitly mentioned as a new skill.",
+        "This was the earlier mistake; the owner told the student to check before answering.",
+        "The student continued greeting customers and explained that they would be helped in turn.",
+        "Supported: checking labels and asking when unsure are both stated improvements.",
+        "The student greeted customers and helped them in turn rather than trying to serve everyone simultaneously."
+      ]
+    },
+    {
+      "id": 9,
+      "p": 2,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi pengalaman kerja",
+      "categories": [
+        "Mistake",
+        "Progress"
+      ],
+      "rows": [
+        {
+          "s": "The student said a notebook was unavailable after checking only the shelf.",
+          "key": 0,
+          "why": "This was the student's initial mistake because the storage drawer had not been checked.",
+          "otherCategoryWhy": "Not Progress: this statement describes an error made before the student changed their approach."
+        },
+        {
+          "s": "The student learned that larger notebooks were stored under the counter.",
+          "key": 0,
+          "why": "This detail explains what the student had missed in the earlier situation.",
+          "otherCategoryWhy": "Not Progress: the statement identifies the cause of the earlier error, not a later improvement in behaviour."
+        },
+        {
+          "s": "The student checked price labels and asked a co-worker when unsure.",
+          "key": 1,
+          "why": "These are new habits that helped the student work more carefully.",
+          "otherCategoryWhy": "Not Mistake: this statement describes an improved work habit rather than an error."
+        },
+        {
+          "s": "The student greeted customers and helped them in turn when the shop became busy.",
+          "key": 1,
+          "why": "The student handled a busy moment calmly and organised the order of service.",
+          "otherCategoryWhy": "Not Mistake: this is an example of improved customer service, not an error."
+        }
+      ],
+      "why": "The first two statements describe the initial mistake and what the student had missed; the last two show improved habits during the week."
+    },
+    {
+      "id": 10,
+      "p": 3,
+      "type": "PG",
+      "competency": "Textual Understanding — tujuan tindakan",
+      "stem": "Why did the youth group make a map and take photographs of the flooded road?",
+      "options": [
+        "To show that the road should be closed permanently",
+        "To prove that residents could repair the drain without workers",
+        "To identify which motorcyclist caused the flooding",
+        "To document the problem clearly before reporting it to the local service office",
+        "To compare the prices of different roadside shops"
+      ],
+      "key": [
+        3
+      ],
+      "why": "The residents' earlier complaints lacked precise information. The map, photos, times, and conditions made their report more useful.",
+      "evidence": "“The reports did not show exactly where the water collected” and “We took photographs ... noted the time ... and marked the worst section on a simple map.”",
+      "wrong": [
+        "No permanent closure is suggested; workers inspected and cleared the drain.",
+        "The group deliberately did not open the drain themselves and sought help from local services.",
+        "The passage does not blame an individual motorcyclist.",
+        "Correct: the evidence made the report specific and useful.",
+        "Shop prices are unrelated to the problem."
+      ]
+    },
+    {
+      "id": 11,
+      "p": 3,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — kerja sama masyarakat",
+      "stem": "Which TWO outcomes followed the residents’ report? Select TWO answers.",
+      "options": [
+        "Workers inspected the drain and cleared a blockage.",
+        "The youth group received permission to repair the drain alone.",
+        "The water disappeared more quickly after the blockage was cleared.",
+        "The road never flooded again under any conditions.",
+        "Residents stopped paying attention to rubbish near the drain."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The local workers found a blockage and cleared it; after the next rain, the water drained more quickly, although some flooding remained during unusually heavy rain.",
+      "evidence": "“They cleared the blockage” and “the water disappeared more quickly than before.”",
+      "wrong": [
+        "Supported: workers inspected and cleared the drain.",
+        "The group did not repair the drain alone; workers handled the blockage.",
+        "Supported: the recount reports quicker drainage after the work.",
+        "The passage explicitly says the road still flooded slightly during unusually heavy rain.",
+        "Residents continued reporting rubbish and a shop owner placed a bin near the entrance."
+      ]
+    },
+    {
+      "id": 12,
+      "p": 3,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi tindakan",
+      "categories": [
+        "Residents",
+        "Workers"
+      ],
+      "rows": [
+        {
+          "s": "They cleared leaves and plastic packaging from the drain.",
+          "key": 1,
+          "why": "The workers removed the material blocking the drain.",
+          "otherCategoryWhy": "Not Residents: this statement concerns workers rather than residents."
+        },
+        {
+          "s": "They photographed the flooded area from safe positions.",
+          "key": 0,
+          "why": "The youth group carried out the documentation.",
+          "otherCategoryWhy": "Not Workers: this statement concerns residents rather than workers."
+        },
+        {
+          "s": "They inspected the drain and found a blockage.",
+          "key": 1,
+          "why": "Local service workers examined the drain.",
+          "otherCategoryWhy": "Not Residents: this statement concerns workers rather than residents."
+        },
+        {
+          "s": "They sent the evidence to the local service office.",
+          "key": 0,
+          "why": "The residents reported the problem with help from an adult volunteer.",
+          "otherCategoryWhy": "Not Workers: this statement concerns residents rather than workers."
+        }
+      ],
+      "why": "The first two actions were carried out by residents and the youth group; the last two were performed by the local service workers."
+    },
+    {
+      "id": 13,
+      "p": 4,
+      "type": "PG",
+      "competency": "Textual Understanding — sebab dan akibat",
+      "stem": "Why could Nawang Wulan not return to the sky with the other maidens?",
+      "options": [
+        "Jaka Tarub had hidden the shawl she needed to return.",
+        "She had promised never to cook rice again.",
+        "The other maidens refused to wait for her.",
+        "She had lost the family’s rice container.",
+        "The king had ordered her to leave the forest."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The shawl is described as the item that allowed the maidens to return to the sky, and Jaka Tarub secretly hid hers.",
+      "evidence": "“Their shawls, which allowed them to return to the sky, lay on the grass nearby. Jaka Tarub secretly took one shawl and hid it.”",
+      "wrong": [
+        "Correct: without the shawl, Nawang Wulan could not return with the others.",
+        "The promise concerns opening the rice container, not stopping cooking.",
+        "The passage says she could not find her shawl; it does not say the others refused to wait.",
+        "The rice container appears later and is not why she could not return at the pool.",
+        "No king is involved in this story’s events."
+      ]
+    },
+    {
+      "id": 14,
+      "p": 4,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — pesan cerita",
+      "stem": "Which TWO ideas are supported by this retelling? Select TWO answers.",
+      "options": [
+        "Nawang Wulan immediately tells Jaka Tarub where she hid the shawl.",
+        "The shawl is described as an ordinary piece of clothing with no special role.",
+        "A secret kept through deception can damage trust.",
+        "The story proves that every marriage must end in separation.",
+        "Jaka Tarub’s curiosity breaks a promise and changes the family’s life."
+      ],
+      "key": [
+        2,
+        4
+      ],
+      "why": "The story connects Jaka Tarub’s deception and broken promise with Nawang Wulan’s discovery and departure in many tellings.",
+      "evidence": "“Realising that Jaka Tarub had taken it, she understood how he had kept her from returning home” and “deception can damage trust.”",
+      "wrong": [
+        "The passage does not say she tells him this immediately.",
+        "The shawl is specifically described as allowing the maidens to return to the sky.",
+        "Supported by the concluding interpretation.",
+        "The story offers a warning about trust; it does not make a universal claim about all marriages.",
+        "Supported: he opens the container despite his promise, revealing the shawl."
+      ]
+    },
+    {
+      "id": 15,
+      "p": 4,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi peristiwa",
+      "categories": [
+        "Secret",
+        "Promise"
+      ],
+      "rows": [
+        {
+          "s": "Nawang Wulan later discovers the shawl in the storage area.",
+          "key": 0,
+          "why": "The discovery reveals the hidden item and the deception.",
+          "otherCategoryWhy": "Not Promise: this statement concerns secret rather than promise."
+        },
+        {
+          "s": "Jaka Tarub hides one maiden’s shawl.",
+          "key": 0,
+          "why": "He conceals the shawl without telling its owner.",
+          "otherCategoryWhy": "Not Promise: this statement concerns secret rather than promise."
+        },
+        {
+          "s": "Jaka Tarub agrees not to open the rice container.",
+          "key": 1,
+          "why": "He makes a promise about what he will not do.",
+          "otherCategoryWhy": "Not Secret: this statement concerns promise rather than secret."
+        },
+        {
+          "s": "Jaka Tarub lifts the lid despite his agreement.",
+          "key": 1,
+          "why": "This event directly concerns the promise he breaks.",
+          "otherCategoryWhy": "Not Secret: this statement concerns promise rather than secret."
+        }
+      ],
+      "why": "The first two statements concern hidden information and its discovery; the last two concern the promise and its violation."
+    },
+    {
+      "id": 16,
+      "p": 5,
+      "type": "PG",
+      "competency": "Textual Understanding — sebab dan akibat",
+      "stem": "What led the king to invite Cindelaras to the palace?",
+      "options": [
+        "Cindelaras defeated the king’s champion before anyone heard of him.",
+        "The palace servant confessed before the rooster hatched.",
+        "Reports about the rooster’s unusual crow reached him.",
+        "The king found the rooster while hunting in the forest.",
+        "The queen sent a letter demanding that Cindelaras become king."
+      ],
+      "key": [
+        2
+      ],
+      "why": "The story says people heard the rooster’s unusual crow and passed the story along until it reached the palace, prompting the invitation.",
+      "evidence": "“People who heard the crow told others about it, and the story eventually reached the palace.”",
+      "wrong": [
+        "The contest occurs after Cindelaras is invited.",
+        "The servant’s role is part of the false accusation, but no early confession is described.",
+        "Correct: the reports about the crow brought Cindelaras to the king’s attention.",
+        "The king does not find the rooster while hunting.",
+        "No letter from the queen is mentioned."
+      ]
+    },
+    {
+      "id": 17,
+      "p": 5,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — pelajaran dari konflik",
+      "stem": "Which TWO lessons are suggested by the ending? Select TWO answers.",
+      "options": [
+        "A contest always gives a complete account of a person’s character.",
+        "A leader should investigate accusations before making a serious decision.",
+        "The queen was responsible for spreading the false accusation.",
+        "Cindelaras’s rooster proves that every unusual claim is true.",
+        "Rumours can cause harm when accepted without checking evidence."
+      ],
+      "key": [
+        1,
+        4
+      ],
+      "why": "The king accepted a false accusation and later learned the truth, leading the narrator to warn against accepting rumours without evidence.",
+      "evidence": "“Believing the story without checking it carefully” and “rumours can cause serious harm when leaders accept them without evidence.”",
+      "wrong": [
+        "The contest helps reveal Cindelaras’s identity in the tale but cannot prove every claim about character.",
+        "Supported by the king’s mistake and the story’s resolution.",
+        "The queen is the target of the false accusation, not the person who spreads it.",
+        "The tale does not claim that every unusual claim is true.",
+        "Supported by the narrator’s concluding lesson."
+      ]
+    },
+    {
+      "id": 18,
+      "p": 5,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi karakter",
+      "categories": [
+        "Rumour",
+        "Proof"
+      ],
+      "rows": [
+        {
+          "s": "The false accusation is revealed and the queen returns.",
+          "key": 1,
+          "why": "The truth becomes clear and the earlier claim is disproved.",
+          "otherCategoryWhy": "Not Rumour: this statement concerns proof rather than rumour."
+        },
+        {
+          "s": "The rooster wins the traditional contest.",
+          "key": 1,
+          "why": "The contest provides an event that prompts further questions.",
+          "otherCategoryWhy": "Not Rumour: this statement concerns proof rather than rumour."
+        },
+        {
+          "s": "The king believes the story without checking it carefully.",
+          "key": 0,
+          "why": "He accepts an unverified claim.",
+          "otherCategoryWhy": "Not Proof: this statement concerns rumour rather than proof."
+        },
+        {
+          "s": "The jealous wife persuades a servant to spread an accusation.",
+          "key": 0,
+          "why": "The accusation is deliberately spread as a rumour.",
+          "otherCategoryWhy": "Not Proof: this statement concerns rumour rather than proof."
+        }
+      ],
+      "why": "The first two statements describe the creation or acceptance of an unverified story; the last two describe events that help reveal the truth."
+    },
+    {
+      "id": 19,
+      "p": 6,
+      "type": "PG",
+      "competency": "Textual Understanding — urutan prosedur",
+      "stem": "What should you do before deciding how much money is available for non-essential purchases?",
+      "options": [
+        "Spend on non-essential items first and calculate the rest later.",
+        "Remove necessary expenses from the list if the total is too high.",
+        "Wait until the end of the month to record purchases.",
+        "Use an uncertain amount you hope to receive as your income.",
+        "Set aside a realistic amount for savings or unexpected costs."
+      ],
+      "key": [
+        4
+      ],
+      "why": "The procedure says to reserve money for savings or unexpected costs before deciding the amount left for non-essential purchases.",
+      "evidence": "“Then set aside a realistic amount for savings or an unexpected cost before deciding how much is available for non-essential purchases.”",
+      "wrong": [
+        "The procedure recommends planning needs and savings before non-essential spending.",
+        "The text says to reduce flexible costs rather than simply remove an important need.",
+        "Purchases should be recorded as they happen, not only at month’s end.",
+        "The passage says to use income you can reasonably expect, not uncertain money.",
+        "Correct: this step comes before calculating flexible spending."
+      ]
+    },
+    {
+      "id": 20,
+      "p": 6,
+      "type": "MCMA",
+      "competency": "Textual Understanding — praktik pengelolaan uang",
+      "stem": "Which TWO practices can make a monthly budget more useful? Select TWO answers.",
+      "options": [
+        "Assume the first estimate will always be correct.",
+        "Record purchases as they happen.",
+        "Review actual spending against the plan during the month.",
+        "Use hoped-for income to make the budget look more generous.",
+        "Ignore unexpected expenses to protect the original plan."
+      ],
+      "key": [
+        1,
+        2
+      ],
+      "why": "The passage recommends recording purchases immediately and comparing actual spending with the plan each week.",
+      "evidence": "“Record each purchase as it happens” and “compare your actual spending with your plan.”",
+      "wrong": [
+        "The end-of-month review is used to improve estimates, implying they may need adjustment.",
+        "Supported: immediate records help track spending.",
+        "Supported: weekly comparison allows adjustments.",
+        "It advises using reasonably expected income, not uncertain money.",
+        "The procedure says to update the figures when an unexpected cost appears."
+      ]
+    },
+    {
+      "id": 21,
+      "p": 6,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi anggaran",
+      "categories": [
+        "Plan",
+        "Review"
+      ],
+      "rows": [
+        {
+          "s": "List expected income using a realistic amount.",
+          "key": 0,
+          "why": "This is part of creating the initial budget.",
+          "otherCategoryWhy": "Not Review: this statement concerns plan rather than review."
+        },
+        {
+          "s": "Compare actual spending with the planned amounts.",
+          "key": 1,
+          "why": "This checks how well the budget worked.",
+          "otherCategoryWhy": "Not Plan: this statement concerns review rather than plan."
+        },
+        {
+          "s": "Use the month’s results to improve next month’s estimates.",
+          "key": 1,
+          "why": "This is a review step after spending data is available.",
+          "otherCategoryWhy": "Not Plan: this statement concerns review rather than plan."
+        },
+        {
+          "s": "Write down necessary expenses such as transport and meals.",
+          "key": 0,
+          "why": "Needs must be listed when preparing the plan.",
+          "otherCategoryWhy": "Not Review: this statement concerns plan rather than review."
+        }
+      ],
+      "why": "The first two statements describe preparing the budget; the last two describe checking results and improving the next plan."
+    },
+    {
+      "id": 22,
+      "p": 7,
+      "type": "PG",
+      "competency": "Textual Understanding — evaluasi sumber",
+      "stem": "Why should a student check a source’s publication date?",
+      "options": [
+        "To determine whether the author has a longer name than other authors",
+        "To judge whether its information may be outdated for a changing topic",
+        "To prove that every old source is unreliable",
+        "To confirm that the source was written to sell a product",
+        "To avoid checking the evidence in the source"
+      ],
+      "key": [
+        1
+      ],
+      "why": "The passage says the date matters especially for technology, public policy, and current statistics; older sources may not describe recent changes.",
+      "evidence": "“Check the publication date too, especially when the topic involves technology, public policy, or current statistics.”",
+      "wrong": [
+        "The length of an author’s name is irrelevant to reliability.",
+        "Correct: dates help readers judge whether information is current enough for the topic.",
+        "The passage explicitly says an older source may still explain a historical event well.",
+        "Purpose is checked separately; the date does not establish that a source sells a product.",
+        "Date-checking does not replace checking evidence; the procedure recommends both."
+      ]
+    },
+    {
+      "id": 23,
+      "p": 7,
+      "type": "MCMA",
+      "competency": "Textual Understanding — kriteria sumber",
+      "stem": "Which TWO actions are recommended when evaluating a source for an essay? Select TWO answers.",
+      "options": [
+        "Skip recording source details once the essay draft is complete.",
+        "Check whether its evidence can be verified.",
+        "Compare its main claim with an independent source.",
+        "Treat every persuasive source as automatically useless.",
+        "Assume several sites provide independent proof even if they copy one post."
+      ],
+      "key": [
+        1,
+        2
+      ],
+      "why": "The procedure recommends checking verifiable evidence and comparing the claim with at least one independent source.",
+      "evidence": "“uses examples or data that can be checked” and “compare the main claim with at least one independent source.”",
+      "wrong": [
+        "It recommends recording the title, author, date, and link for accurate citation.",
+        "Supported: verifiability is a stated sign of reliability.",
+        "Supported: independent comparison helps check a claim.",
+        "The passage says persuasive purpose does not automatically make a source useless.",
+        "The passage warns that repeated copies of one original post are not independent confirmation."
+      ]
+    },
+    {
+      "id": 24,
+      "p": 7,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi pemeriksaan",
+      "categories": [
+        "Source",
+        "Claim"
+      ],
+      "rows": [
+        {
+          "s": "Compare the main statement with independent reporting.",
+          "key": 1,
+          "why": "This tests whether the claim is supported beyond one source.",
+          "otherCategoryWhy": "Not Source: this statement concerns claim rather than source."
+        },
+        {
+          "s": "Record the publication date and the link.",
+          "key": 0,
+          "why": "These details help identify and cite the source.",
+          "otherCategoryWhy": "Not Claim: this statement concerns source rather than claim."
+        },
+        {
+          "s": "Identify the author or responsible organisation.",
+          "key": 0,
+          "why": "This checks who produced the information.",
+          "otherCategoryWhy": "Not Claim: this statement concerns source rather than claim."
+        },
+        {
+          "s": "Check whether the facts and data can be verified.",
+          "key": 1,
+          "why": "This examines the support for what the source says.",
+          "otherCategoryWhy": "Not Source: this statement concerns claim rather than source."
+        }
+      ],
+      "why": "The first two statements focus on identifying and recording the source; the last two focus on checking the claims it makes."
+    },
+    {
+      "id": 25,
+      "p": 8,
+      "type": "PG",
+      "competency": "Inferential Understanding — gagasan utama",
+      "stem": "What is the writer’s main position on AI in schoolwork?",
+      "options": [
+        "A generated answer is reliable whenever it sounds confident.",
+        "All school tasks should be completed with AI to save time.",
+        "Students should never learn how to use AI tools.",
+        "AI can be useful if students use it transparently and continue thinking independently.",
+        "AI should replace teachers whenever it gives a fluent answer."
+      ],
+      "key": [
+        3
+      ],
+      "why": "The writer supports limited, responsible use while warning against errors and recommending verification, acknowledgement, and some AI-free tasks.",
+      "evidence": "“Students should be allowed to use ... tools for some school tasks, but the tools must support learning rather than replace it.”",
+      "wrong": [
+        "The passage warns that AI may sound certain without adequate evidence.",
+        "The writer says some activities should be completed without AI.",
+        "The writer supports teaching clear rules for responsible use, not banning all use.",
+        "Correct: it captures the balanced position in the introduction and conclusion.",
+        "The passage does not suggest replacing teachers and warns that fluent answers can be wrong."
+      ]
+    },
+    {
+      "id": 26,
+      "p": 8,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — penggunaan bertanggung jawab",
+      "stem": "Which TWO practices are consistent with the writer’s recommendations? Select TWO answers.",
+      "options": [
+        "Allow AI to make every decision about what students understand.",
+        "Use AI to avoid explaining one’s own reasoning.",
+        "Submit generated text without checking it if it sounds fluent.",
+        "Acknowledge when AI has contributed to an assignment.",
+        "Verify important claims produced with AI."
+      ],
+      "key": [
+        3,
+        4
+      ],
+      "why": "The writer recommends checking important claims and acknowledging AI contributions so students remain accountable for their work.",
+      "evidence": "“Students can be asked to verify important claims, acknowledge when AI has contributed to an assignment, and explain their own reasoning.”",
+      "wrong": [
+        "The passage says teachers need to see what students understand; AI cannot replace that judgement.",
+        "The writer says students should explain their own reasoning.",
+        "The passage warns that fluent answers may be inaccurate and should be checked.",
+        "Supported: transparent acknowledgement is explicitly recommended.",
+        "Supported: verification is explicitly recommended."
+      ]
+    },
+    {
+      "id": 27,
+      "p": 8,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi sikap",
+      "categories": [
+        "Benefit",
+        "Risk"
+      ],
+      "rows": [
+        {
+          "s": "Submitting generated work as one’s own can hide what the student understands.",
+          "key": 1,
+          "why": "This risk makes learning and assessment less transparent.",
+          "otherCategoryWhy": "Not Benefit: this statement concerns risk rather than benefit."
+        },
+        {
+          "s": "AI can explain unfamiliar concepts in another way.",
+          "key": 0,
+          "why": "The passage identifies explanations as a possible learning support.",
+          "otherCategoryWhy": "Not Risk: this statement concerns benefit rather than risk."
+        },
+        {
+          "s": "A fluent answer may contain errors or missing context.",
+          "key": 1,
+          "why": "This is a limitation of AI-generated information.",
+          "otherCategoryWhy": "Not Benefit: this statement concerns risk rather than benefit."
+        },
+        {
+          "s": "AI can generate practice questions for learners.",
+          "key": 0,
+          "why": "This is presented as a way AI can support learning.",
+          "otherCategoryWhy": "Not Risk: this statement concerns benefit rather than risk."
+        }
+      ],
+      "why": "The first two statements describe possible learning benefits; the last two describe risks of inaccurate or untransparent use."
+    },
+    {
+      "id": 28,
+      "p": 9,
+      "type": "PG",
+      "competency": "Textual Understanding — sebab dan manfaat",
+      "stem": "According to the passage, how can public transportation improve access to education and work?",
+      "options": [
+        "It connects residential areas with schools, training centres, and workplaces.",
+        "It makes private vehicles illegal on busy roads.",
+        "It guarantees that every neighbourhood has frequent service.",
+        "It removes the need for safe stops and clear route information.",
+        "It ensures that every passenger reaches a destination without transfers."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The opening paragraph explains that connections between residential areas and key destinations give people who cannot drive more choices.",
+      "evidence": "“When buses and other shared services connect residential areas with schools, training centres, and workplaces, people who cannot drive have more choices.”",
+      "wrong": [
+        "Correct: this is the main access benefit described.",
+        "No ban on private vehicles is proposed.",
+        "The passage later notes that some areas have limited service.",
+        "The passage says safe stops and easy-to-understand routes are important.",
+        "The passage notes that some journeys may require another vehicle for part of the trip."
+      ]
+    },
+    {
+      "id": 29,
+      "p": 9,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — keterbatasan dan solusi",
+      "stem": "Which TWO improvements does the writer recommend for public transportation? Select TWO answers.",
+      "options": [
+        "Publish clear schedules and listen to passenger feedback.",
+        "Replace all buses with private cars.",
+        "Improve route coverage and maintain vehicles.",
+        "Keep service information unclear to prevent crowding.",
+        "Reduce the number of stops so buses can ignore less busy areas."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The conclusion calls for better coverage, vehicle maintenance, clear schedules, and passenger feedback.",
+      "evidence": "“Local authorities should therefore improve route coverage, maintain vehicles, publish clear schedules, and listen to passenger feedback.”",
+      "wrong": [
+        "Supported: schedules and passenger feedback are listed.",
+        "The passage discusses shared services as useful; it does not propose replacing them with private cars.",
+        "Supported: both route coverage and maintenance are listed.",
+        "The passage recommends clear information, not less clarity.",
+        "This conflicts with the recommendation to improve route coverage."
+      ]
+    },
+    {
+      "id": 30,
+      "p": 9,
+      "type": "CAT",
+      "competency": "Textual Understanding — klasifikasi isu",
+      "categories": [
+        "Benefit",
+        "Limit"
+      ],
+      "rows": [
+        {
+          "s": "Fewer private vehicles may reduce pressure on parking spaces.",
+          "key": 0,
+          "why": "The passage describes this as a possible benefit.",
+          "otherCategoryWhy": "Not Limit: this statement concerns benefit rather than limit."
+        },
+        {
+          "s": "Poor lighting and unclear information can discourage passengers.",
+          "key": 1,
+          "why": "These are barriers that may reduce use.",
+          "otherCategoryWhy": "Not Benefit: this statement concerns limit rather than benefit."
+        },
+        {
+          "s": "Shared services can give non-drivers more travel choices.",
+          "key": 0,
+          "why": "This is a stated advantage of public transport.",
+          "otherCategoryWhy": "Not Limit: this statement concerns benefit rather than limit."
+        },
+        {
+          "s": "Some areas have limited service and long waiting times.",
+          "key": 1,
+          "why": "This is a limitation of the current system.",
+          "otherCategoryWhy": "Not Benefit: this statement concerns limit rather than benefit."
+        }
+      ],
+      "why": "The first two statements describe possible advantages; the last two describe limitations that authorities need to address."
+    }
+  ]
+}
