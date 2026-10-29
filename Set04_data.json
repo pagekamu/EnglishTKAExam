@@ -1,0 +1,1119 @@
+{
+  "meta": {
+    "title": "TKA English Practice Set 04",
+    "set": 4,
+    "duration_minutes": 70,
+    "passage_count": 10,
+    "question_count": 30,
+    "question_types": {
+      "PG": "MCSA — select one answer using radio buttons",
+      "MCMA": "Select exactly two answers using checkboxes",
+      "CAT": "Category — select one short category per statement using radio buttons in a table"
+    },
+    "source_map": "passage_map.md — Set 4 topics",
+    "structure_reference": "Set03_data.json",
+    "answer_distribution": {
+      "mcsa_correct_option_indices_zero_based": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        0,
+        2,
+        0
+      ],
+      "mcma_correct_option_indices_zero_based": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "category_patterns": [
+        "ABBA",
+        "BAAB",
+        "ABAB",
+        "BABA",
+        "AABB",
+        "BBAA",
+        "ABBA",
+        "BAAB",
+        "BABA",
+        "ABAB"
+      ]
+    },
+    "editorial_note": "Set 04 follows the Set 4 topic inventory. Narrative passages are presented as traditional legends/folktales, not verified history. Answer positions and category row patterns are intentionally varied."
+  },
+  "passages": [
+    {
+      "id": "S04P01",
+      "genre": "Descriptive",
+      "level": "B1",
+      "title": "A Youth Environmentalist: Melati Wijsen",
+      "text": "Melati Wijsen is an Indonesian environmental activist known for helping start a campaign to reduce plastic bags in Bali. As a student, she became concerned about the amount of plastic waste found in the environment. Together with her younger sister, she helped build a youth-led movement that encouraged people to think differently about single-use plastic.\n\nEnvironmental campaigns often combine public education with practical action. Volunteers may speak at schools, organise clean-ups, share information online, or ask local leaders and businesses to support changes. These activities do not solve every environmental problem immediately, but they can help people understand an issue and take part in a response.\n\nA campaign also needs persistence. Some people may agree with its goal but find it difficult to change daily habits. Others may doubt whether individual actions make a difference. Campaigners therefore need to explain the problem clearly, listen to concerns, and show realistic steps people can take. Cooperation with communities and decision-makers can help turn awareness into action.\n\nWijsen's work is an example of young people contributing to environmental discussions. It does not mean that one person can fix every problem alone. Instead, it shows how an idea can grow when people communicate, organise, and keep working toward a shared goal.",
+      "hints": [
+        "youth-led campaign against single-use plastic",
+        "public education and practical action",
+        "persistence and cooperation"
+      ]
+    },
+    {
+      "id": "S04P02",
+      "genre": "Descriptive",
+      "level": "B1",
+      "title": "Raja Ampat: Islands, Reefs, and Marine Life",
+      "text": "Raja Ampat is an island group in Southwest Papua, Indonesia. Its landscape includes green islands, clear coastal waters, reefs, and sheltered bays. The area is widely known for its marine biodiversity, which attracts divers, researchers, and visitors interested in nature. However, the beauty of the sea depends on the health of the habitats beneath the surface.\n\nCoral reefs provide places where many marine organisms can feed, hide, and reproduce. Reefs are living systems, not underwater decorations. They can be damaged by careless boat anchoring, litter, and visitors who touch or stand on coral. Even when damage looks small, repeated contact can affect fragile organisms.\n\nVisitors can reduce their impact by following local guidance, using designated mooring areas, taking rubbish away, and choosing operators who explain responsible practices. They should also avoid buying products made from protected wildlife. These actions do not remove every pressure on the environment, but they can prevent some avoidable harm.\n\nRaja Ampat's natural appeal is connected to a responsibility. Tourism can support local livelihoods, yet it must be managed carefully so that the environment remains valuable for residents and future visitors. Respectful travel means enjoying the landscape without treating it as a resource that can be used without limits.",
+      "hints": [
+        "Southwest Papua",
+        "coral reefs as living systems",
+        "responsible visitor behaviour"
+      ]
+    },
+    {
+      "id": "S04P03",
+      "genre": "Recount",
+      "level": "A2",
+      "title": "A School Trip to a Mangrove Learning Center",
+      "text": "Last Friday, my class visited a mangrove learning center near the coast. Before the trip, our teacher told us to bring notebooks, wear comfortable shoes, and stay with our groups. I thought we would only walk along the wooden path, but the guide had prepared several activities.\n\nFirst, we listened to a short explanation about mangrove roots and the animals that live among them. Then, we walked to a viewing platform and wrote down three things we noticed. I saw small crabs moving through the mud and birds resting in the trees. The guide reminded us not to collect plants or disturb the animals.\n\nAfter that, each group examined pictures showing how rubbish can travel from streets into rivers and then to the sea. Our group had to suggest two ways to prevent this. We suggested using rubbish bins properly and reducing single-use packaging. One student wanted to pick up a piece of litter near the water, but the guide asked us to leave it because the area was muddy and unsafe.\n\nAt the end of the visit, we shared our ideas and returned to school. I enjoyed the trip because we learned outdoors, but I also understood why visitors need to follow safety instructions.",
+      "hints": [
+        "activities during the visit",
+        "the guide's safety instruction",
+        "what the writer learned"
+      ]
+    },
+    {
+      "id": "S04P04",
+      "genre": "Recount",
+      "level": "B1",
+      "title": "What I Learned from a Practice Job Interview",
+      "text": "Our school career club organised a practice job interview to help students prepare for life after graduation. I signed up because I wanted to know how an interview felt before applying for a real position. I prepared a short introduction, but I did not practise answering questions about teamwork or mistakes.\n\nAt first, I spoke too quickly and gave a long answer when the interviewer asked me to describe a time I solved a problem. I started telling the whole story instead of explaining what I had done. The volunteer interviewer listened and then suggested that I focus on the situation, my action, and the result.\n\nWe tried the question again. This time, I explained how I had helped organise a class presentation after two group members were absent. I described dividing the remaining tasks and checking the slides before the deadline. My answer was shorter and easier to follow. The interviewer also advised me to pause briefly before answering and ask for clarification if a question was unclear.\n\nAfter the session, I wrote down the feedback and chose two questions to practise at home. I realised that preparation is not about memorising perfect sentences. It is about selecting relevant examples and explaining them clearly. I still felt nervous, but I left with a practical plan for improving.",
+      "hints": [
+        "the first interview problem",
+        "the advice about structuring an answer",
+        "the writer's reflection"
+      ]
+    },
+    {
+      "id": "S04P05",
+      "genre": "Narrative",
+      "level": "B1",
+      "title": "The Legend of Roro Jonggrang",
+      "text": "In a well-known Javanese legend, Bandung Bondowoso wanted to marry Roro Jonggrang after defeating her father's kingdom. Roro Jonggrang did not want to marry him, so she set a difficult condition: he had to build a thousand temples in one night. She hoped the task would be impossible to complete before dawn.\n\nBandung Bondowoso called on supernatural helpers, and the construction began. As the night passed, the temples rose quickly. Roro Jonggrang became afraid that he would finish, so she asked the women of the village to pound rice and create a bright glow in the east. The sounds and light made it seem as if morning had arrived.\n\nThe helpers stopped working, believing dawn had come. When Bandung Bondowoso discovered the trick, he was furious. In this version of the story, he cursed Roro Jonggrang, turning her into a stone statue to complete the number of temples. The tale is traditionally associated with the Prambanan temple complex, although the story itself is a legend rather than a verified account of the site's history.\n\nThe story is often remembered for its challenge, deception, and unhappy ending. Retellings may vary in some details, but the central conflict remains: Roro Jonggrang tries to escape a marriage by setting a task that she believes cannot be completed.",
+      "hints": [
+        "the condition Roro Jonggrang set",
+        "how she made it seem like dawn",
+        "the legend's traditional association"
+      ]
+    },
+    {
+      "id": "S04P06",
+      "genre": "Narrative",
+      "level": "B1",
+      "title": "The Story of Keong Mas",
+      "text": "In a commonly told version of the Indonesian folktale Keong Mas, a princess is changed into a golden snail because of jealousy and magic. The details differ among retellings, but the story often follows a princess who is separated from her family and must wait for help before she can return to her human form.\n\nAfter the transformation, the golden snail is found near a river and taken home by an older woman. The woman places it in a safe container and continues her daily work. She later notices something unusual: whenever she returns home, the room is tidy and food has been prepared. She does not know who has done these tasks.\n\nOne day, the woman decides to stay nearby and observe. She discovers that the golden snail has become a princess who quietly prepares the food before returning to the container. The woman treats her kindly and does not reveal her secret to others. In time, the spell is broken in the version being told, and the princess can return to her former life.\n\nThe tale uses the golden snail as a sign of hidden identity and unexpected kindness. It should be read as folklore, not as a report of a real transformation. Because the story has several versions, names, causes of the spell, and the ending may differ depending on the storyteller or source.",
+      "hints": [
+        "what the woman notices",
+        "how the secret is discovered",
+        "why versions may differ"
+      ]
+    },
+    {
+      "id": "S04P07",
+      "genre": "Procedure",
+      "level": "A2",
+      "title": "How to Make a Reusable Shopping Bag from an Old T-shirt",
+      "text": "An old T-shirt can become a simple shopping bag with only a few materials. This activity is useful when the shirt is still clean but is no longer worn. Ask permission before using a shirt that belongs to someone else, and choose one without large holes.\n\nFirst, lay the shirt flat on a table and cut off the sleeves. Cut a wider opening around the neck to make the top of the bag. If you want the bag to have a neat shape, ask an adult to help mark the cutting lines before you begin.\n\nNext, turn the shirt inside out. Cut short strips along the bottom edge, making sure the strips are similar in size. Tie each front strip to the matching strip at the back. Pull the knots gently to check that the bottom is closed. If there are gaps, tie the nearby strips again so small items are less likely to fall out.\n\nFinally, turn the bag right side out and check the handles and bottom. Carry a few light items first to test it before using it for heavier shopping. The bag may not last forever, but reusing a shirt can give the material another purpose and reduce the need for a new bag.",
+      "hints": [
+        "preparing the shirt",
+        "closing the bottom",
+        "testing the finished bag"
+      ]
+    },
+    {
+      "id": "S04P08",
+      "genre": "Procedure",
+      "level": "A2",
+      "title": "How to Write a Clear Email to Ask for Information",
+      "text": "A clear email helps the reader understand what you need without searching through a long message. Before writing, make sure you know who should receive the email and what information you want to ask for.\n\nFirst, write a short subject line that explains the purpose, such as “Question About the English Club Schedule.” Begin with a polite greeting and use the recipient's name or role if you know it. Avoid starting with a message that has no greeting or subject, because the reader may not immediately understand its purpose.\n\nNext, introduce yourself briefly if the recipient may not know you. State your question directly and include any details needed to answer it. For example, if you are asking about a club meeting, mention the club and the date you mean. Keep the message focused instead of adding unrelated questions in the same paragraph.\n\nFinally, thank the reader, close politely, and include your name. Before sending, check spelling, dates, and attachments. Read the email once as if you were the recipient: can you understand the request quickly? A short, organised message is usually more helpful than a long email with missing details.",
+      "hints": [
+        "the purpose of the subject line",
+        "what details to include",
+        "the final check before sending"
+      ]
+    },
+    {
+      "id": "S04P09",
+      "genre": "Analytical Exposition",
+      "level": "B1",
+      "title": "Should Schools Replace Some Printed Materials with Digital Ones?",
+      "text": "Schools should replace some printed materials with digital versions when the change genuinely helps learning. Digital files can be updated without printing a new copy, and students may be able to access them on devices they already use. However, replacing every printed resource would not be fair or practical for every learner.\n\nOne advantage is flexibility. Teachers can correct an error in a shared file, add a useful link, or provide a readable copy without distributing a new stack of paper. Students who have suitable devices may also carry several resources without bringing heavy folders. These benefits are strongest when files are organised and easy to access.\n\nThere are also limits. Not every student has a reliable device, enough data, or a stable internet connection at home. Long reading tasks may be more comfortable on paper for some learners, and screens can introduce distractions when notifications appear. A digital system also needs technical support and clear rules for access.\n\nFor these reasons, schools should use a mixed approach. Digital materials are useful for updates and flexible access, while printed copies remain important when students need them. The goal should be to choose the format that supports the task and includes learners, rather than treating one format as automatically better in every situation.",
+      "hints": [
+        "advantages of digital files",
+        "barriers to access",
+        "the writer's balanced recommendation"
+      ]
+    },
+    {
+      "id": "S04P10",
+      "genre": "Analytical Exposition",
+      "level": "B1",
+      "title": "Should Students Have Homework-Free Weekends?",
+      "text": "Students need time to study, but they also need rest, family time, and opportunities to enjoy activities outside school. For this reason, schools should consider limiting weekend homework rather than expecting students to complete large amounts every Saturday and Sunday.\n\nA lighter weekend workload can help students recover after a busy school week. Rest gives them time to sleep properly, spend time with family, exercise, or pursue hobbies. Students who return to school less exhausted may find it easier to pay attention and participate in lessons. A break can also help them approach difficult tasks with a clearer mind.\n\nHowever, some homework can be useful. Short reading tasks, reviewing key notes, or preparing for an upcoming project may help students remember what they have learned. The problem is not every assignment; it is the amount and timing. Several long tasks from different subjects can leave students with little time to rest, especially when they also have family responsibilities or other commitments.\n\nSchools should therefore coordinate major assignments and avoid setting excessive weekend work. Teachers can give students clear priorities and enough time to complete important tasks during the week. A balanced approach supports learning while recognising that students need a life beyond homework.",
+      "hints": [
+        "reasons students need weekend rest",
+        "useful short assignments versus excessive workload",
+        "the writer's recommendation"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "p": 0,
+      "type": "PG",
+      "competency": "Textual Understanding — explicit information",
+      "stem": "What environmental issue helped inspire Melati Wijsen's campaign?",
+      "options": [
+        "The amount of plastic waste in the environment.",
+        "The loss of every forest in Indonesia.",
+        "The shortage of drinking water in Bali.",
+        "The use of too many school textbooks.",
+        "The disappearance of all marine animals."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The passage says Wijsen became concerned about plastic waste and helped start a campaign to reduce plastic bags.",
+      "evidence": "As a student, she became concerned about the amount of plastic waste found in the environment.",
+      "wrong": [
+        "Correct. This matches the concern stated in paragraph one. To locate it, find the sentence beginning 'As a student'.",
+        "Incorrect. The passage does not say every forest was lost. To check, look at paragraph one for the environmental issue named.",
+        "Incorrect. Drinking-water shortages are not mentioned. To check, find the sentence explaining what concerned Wijsen.",
+        "Incorrect. School textbooks are unrelated to the campaign described. To check, compare the option with paragraph one.",
+        "Incorrect. The passage does not claim all marine animals disappeared. To check, locate the explicit concern in paragraph one."
+      ]
+    },
+    {
+      "id": 2,
+      "p": 0,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — campaign methods",
+      "stem": "Which TWO activities may help an environmental campaign reach people? Select TWO answers.",
+      "options": [
+        "Organising clean-ups and sharing information.",
+        "Avoiding discussion with local communities.",
+        "Asking businesses or local leaders to support changes.",
+        "Claiming that one action will solve every environmental problem.",
+        "Ignoring people who find new habits difficult."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The passage lists clean-ups, information sharing, and cooperation with local leaders and businesses as possible campaign activities.",
+      "evidence": "Volunteers may speak at schools, organise clean-ups, share information online, or ask local leaders and businesses to support changes.",
+      "wrong": [
+        "Correct selection. Clean-ups and sharing information are directly listed. To verify, look in paragraph two for the examples of campaign activities.",
+        "Do not select this. The passage says cooperation with communities can help. To verify, check paragraphs two and three.",
+        "Correct selection. The passage explicitly mentions asking leaders and businesses to support changes. To verify, read paragraph two.",
+        "Do not select this. The passage says campaigns do not solve every problem immediately. To verify, check the second paragraph.",
+        "Do not select this. Campaigners are advised to listen to concerns and explain realistic steps. To verify, read paragraph three."
+      ]
+    },
+    {
+      "id": 3,
+      "p": 0,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Action",
+        "Cooperation"
+      ],
+      "rows": [
+        {
+          "s": "Organising a community clean-up.",
+          "key": 0,
+          "why": "This is a practical campaign action.",
+          "otherCategoryWhy": "It describes direct action, not long-term cooperation."
+        },
+        {
+          "s": "Listening to concerns and working with decision-makers.",
+          "key": 1,
+          "why": "This helps build cooperation and maintain progress.",
+          "otherCategoryWhy": "It describes collaboration rather than a single practical activity."
+        },
+        {
+          "s": "Sharing information at a school.",
+          "key": 0,
+          "why": "This is a public-education activity.",
+          "otherCategoryWhy": "It is an activity used in a campaign, not a general condition for cooperation."
+        },
+        {
+          "s": "Continuing even when people find change difficult.",
+          "key": 1,
+          "why": "This reflects persistence in the campaign.",
+          "otherCategoryWhy": "It describes sustained effort rather than a single campaign activity."
+        }
+      ],
+      "why": "Campaign activities such as clean-ups and public education are practical actions; cooperation and persistence help a campaign continue."
+    },
+    {
+      "id": 4,
+      "p": 1,
+      "type": "PG",
+      "competency": "Textual Understanding — location",
+      "stem": "Which description best matches Raja Ampat's location and landscape?",
+      "options": [
+        "A mountain region in central Java with rice terraces.",
+        "An island group in Southwest Papua with reefs and sheltered bays.",
+        "A desert area known mainly for dry grassland.",
+        "A city park with artificial ponds in northern Sumatra.",
+        "A single island in Bali with no coral reefs."
+      ],
+      "key": [
+        1
+      ],
+      "why": "The opening paragraph names Southwest Papua and describes islands, coastal waters, reefs, and bays.",
+      "evidence": "Raja Ampat is an island group in Southwest Papua ... reefs, and sheltered bays.",
+      "wrong": [
+        "Incorrect. The passage does not describe central Java or rice terraces. To check this option, paragraph one; match both the place name and the landscape features.",
+        "Correct. This matches both location and landscape details. To locate it, paragraph one; match both the place name and the landscape features.",
+        "Incorrect. No desert landscape is described. To check this option, paragraph one; match both the place name and the landscape features.",
+        "Incorrect. The text describes an island group, not a city park. To check this option, paragraph one; match both the place name and the landscape features.",
+        "Incorrect. It is not described as a single Bali island. To check this option, paragraph one; match both the place name and the landscape features."
+      ]
+    },
+    {
+      "id": 5,
+      "p": 1,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — responsible tourism",
+      "stem": "Which TWO actions can reduce visitors' impact on Raja Ampat's environment? Select TWO answers.",
+      "options": [
+        "Touching coral to get a closer look.",
+        "Taking rubbish away after a visit.",
+        "Anchoring boats anywhere near a reef.",
+        "Following local guidance and using designated mooring areas.",
+        "Buying souvenirs made from protected wildlife."
+      ],
+      "key": [
+        1,
+        3
+      ],
+      "why": "Exactly two choices are supported. Taking rubbish away is recommended. The passage explicitly recommends local guidance and designated mooring areas.",
+      "evidence": "take rubbish away; follow guidance and use designated mooring areas",
+      "wrong": [
+        "Do not select this. Visitors are warned not to touch coral. To verify it, paragraph three lists practical visitor actions; compare options with that list.",
+        "Correct selection. Taking rubbish away is recommended. To verify it, paragraph three lists practical visitor actions; compare options with that list.",
+        "Do not select this. Careless anchoring can damage reefs. To verify it, paragraph three lists practical visitor actions; compare options with that list.",
+        "Correct selection. The passage explicitly recommends local guidance and designated mooring areas. To verify it, paragraph three lists practical visitor actions; compare options with that list.",
+        "Do not select this. The text advises avoiding products made from protected wildlife. To verify it, paragraph three lists practical visitor actions; compare options with that list."
+      ]
+    },
+    {
+      "id": 6,
+      "p": 1,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Risk",
+        "Care"
+      ],
+      "rows": [
+        {
+          "s": "Choosing operators who explain responsible practices.",
+          "key": 1,
+          "why": "This supports responsible travel.",
+          "otherCategoryWhy": "It is a way to reduce harm, not a risk itself."
+        },
+        {
+          "s": "Leaving rubbish where animals may find it.",
+          "key": 0,
+          "why": "Litter can harm wildlife.",
+          "otherCategoryWhy": "This describes a hazard, not a protective action."
+        },
+        {
+          "s": "Touching or standing on coral.",
+          "key": 0,
+          "why": "Repeated contact can damage fragile reefs.",
+          "otherCategoryWhy": "This is harmful behaviour, not care."
+        },
+        {
+          "s": "Taking waste away from the coast.",
+          "key": 1,
+          "why": "This helps prevent avoidable pollution.",
+          "otherCategoryWhy": "It is a protective action."
+        }
+      ],
+      "why": "Distinguish actions that may damage the environment from actions intended to prevent damage."
+    },
+    {
+      "id": 7,
+      "p": 2,
+      "type": "PG",
+      "competency": "Textual Understanding — sequence and safety",
+      "stem": "Why did the guide ask the class to leave the litter near the water?",
+      "options": [
+        "The guide wanted the class to finish the trip earlier.",
+        "The litter belonged to a nearby shop.",
+        "The area was muddy and unsafe for students to enter.",
+        "The class had already collected too much rubbish.",
+        "The litter was part of a research experiment."
+      ],
+      "key": [
+        2
+      ],
+      "why": "The recount says the guide stopped the student because the muddy area was unsafe.",
+      "evidence": "the guide asked us to leave it because the area was muddy and unsafe",
+      "wrong": [
+        "Incorrect. The passage does not say the guide was rushing. To check this option, paragraph three, at the end, where the guide's reason is explained.",
+        "Incorrect. No shop ownership is mentioned. To check this option, paragraph three, at the end, where the guide's reason is explained.",
+        "Correct. This is the stated safety reason. To locate it, paragraph three, at the end, where the guide's reason is explained.",
+        "Incorrect. No amount of collected rubbish is mentioned. To check this option, paragraph three, at the end, where the guide's reason is explained.",
+        "Incorrect. The litter is not described as an experiment. To check this option, paragraph three, at the end, where the guide's reason is explained."
+      ]
+    },
+    {
+      "id": 8,
+      "p": 2,
+      "type": "MCMA",
+      "competency": "Textual Understanding — activities",
+      "stem": "Which TWO activities did the students do during the visit? Select TWO answers.",
+      "options": [
+        "They wrote down observations from a viewing platform.",
+        "They collected plants to take back to school.",
+        "They examined pictures about how rubbish reaches the sea.",
+        "They fed birds near the path.",
+        "They tested the water for salt levels."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "Exactly two choices are supported. The passage says students wrote three observations at the platform. They examined pictures showing rubbish travelling to the sea.",
+      "evidence": "wrote down three things we noticed; examined pictures showing how rubbish can travel",
+      "wrong": [
+        "Correct selection. The passage says students wrote three observations at the platform. To verify it, paragraphs two and three list the class activities.",
+        "Do not select this. The guide told them not to collect plants. To verify it, paragraphs two and three list the class activities.",
+        "Correct selection. They examined pictures showing rubbish travelling to the sea. To verify it, paragraphs two and three list the class activities.",
+        "Do not select this. The text does not describe feeding birds. To verify it, paragraphs two and three list the class activities.",
+        "Do not select this. No water test is mentioned. To verify it, paragraphs two and three list the class activities."
+      ]
+    },
+    {
+      "id": 9,
+      "p": 2,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Observation",
+        "Safety"
+      ],
+      "rows": [
+        {
+          "s": "Writing down three things seen from the platform.",
+          "key": 0,
+          "why": "This records what students observed.",
+          "otherCategoryWhy": "It does not describe a safety instruction."
+        },
+        {
+          "s": "Staying away from a muddy, unsafe area.",
+          "key": 1,
+          "why": "This follows a safety decision.",
+          "otherCategoryWhy": "It is not an observation task."
+        },
+        {
+          "s": "Noticing crabs moving through the mud.",
+          "key": 0,
+          "why": "This is an observation made by the writer.",
+          "otherCategoryWhy": "It reports something seen, not an instruction."
+        },
+        {
+          "s": "Not collecting plants or disturbing animals.",
+          "key": 1,
+          "why": "This is a rule to protect the site and visitors.",
+          "otherCategoryWhy": "It describes a safety/conservation rule rather than recording observations."
+        }
+      ],
+      "why": "Decide whether each statement tells what students noticed or what they should/should not do."
+    },
+    {
+      "id": 10,
+      "p": 3,
+      "type": "PG",
+      "competency": "Textual Understanding — purpose of feedback",
+      "stem": "What advice helped the writer improve the interview answer?",
+      "options": [
+        "Use more details until the answer becomes a long story.",
+        "Avoid describing any personal experience.",
+        "Focus on the situation, the action taken, and the result.",
+        "Memorise the interviewer's words exactly.",
+        "Answer before the interviewer finishes the question."
+      ],
+      "key": [
+        2
+      ],
+      "why": "The interviewer advised the writer to organise the answer around the situation, action, and result.",
+      "evidence": "focus on the situation, my action, and the result",
+      "wrong": [
+        "Incorrect. The problem was that the answer was too long. To check this option, paragraph two, after the interviewer listens to the first answer.",
+        "Incorrect. The writer was encouraged to use a relevant example. To check this option, paragraph two, after the interviewer listens to the first answer.",
+        "Correct. This is the advice stated in paragraph two. To locate it, paragraph two, after the interviewer listens to the first answer.",
+        "Incorrect. Memorising exact words is not recommended. To check this option, paragraph two, after the interviewer listens to the first answer.",
+        "Incorrect. The writer was advised to pause and listen. To check this option, paragraph two, after the interviewer listens to the first answer."
+      ]
+    },
+    {
+      "id": 11,
+      "p": 3,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — improvement",
+      "stem": "Which TWO changes made the writer's second answer clearer? Select TWO answers.",
+      "options": [
+        "Giving a shorter, more organised example.",
+        "Adding unrelated details about other group members.",
+        "Explaining how tasks were divided and slides checked.",
+        "Pretending to have led a professional company.",
+        "Speaking faster to finish early."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "Exactly two choices are supported. The second answer was shorter and easier to follow. The writer gave a relevant example with actions and checks.",
+      "evidence": "shorter and easier to follow; dividing the remaining tasks and checking the slides",
+      "wrong": [
+        "Correct selection. The second answer was shorter and easier to follow. To verify it, paragraph three describes the second attempt and the actions included.",
+        "Do not select this. Unrelated details would not address the advice. To verify it, paragraph three describes the second attempt and the actions included.",
+        "Correct selection. The writer gave a relevant example with actions and checks. To verify it, paragraph three describes the second attempt and the actions included.",
+        "Do not select this. The example came from a class presentation, not a company. To verify it, paragraph three describes the second attempt and the actions included.",
+        "Do not select this. The interviewer advised pausing rather than rushing. To verify it, paragraph three describes the second attempt and the actions included."
+      ]
+    },
+    {
+      "id": 12,
+      "p": 3,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Practice",
+        "Reflection"
+      ],
+      "rows": [
+        {
+          "s": "Writing down feedback after the session.",
+          "key": 1,
+          "why": "This is reflection after the interview practice.",
+          "otherCategoryWhy": "It records what was learned after the session."
+        },
+        {
+          "s": "Rehearsing an answer using a class example.",
+          "key": 0,
+          "why": "This is part of practising interview responses.",
+          "otherCategoryWhy": "It is an action taken during practice, not a later review."
+        },
+        {
+          "s": "Choosing two questions to practise at home.",
+          "key": 1,
+          "why": "This is a follow-up plan based on feedback.",
+          "otherCategoryWhy": "It is a next step decided after reviewing the session."
+        },
+        {
+          "s": "Preparing examples of teamwork or problem-solving.",
+          "key": 0,
+          "why": "This is preparation for answering questions.",
+          "otherCategoryWhy": "It is a practice task rather than a reflection."
+        }
+      ],
+      "why": "Look for actions done to rehearse answers versus actions taken after the session to review and plan."
+    },
+    {
+      "id": 13,
+      "p": 4,
+      "type": "PG",
+      "competency": "Textual Understanding — cause and effect",
+      "stem": "How did Roro Jonggrang try to stop Bandung Bondowoso from completing the task?",
+      "options": [
+        "She hid all the stones used to build the temples.",
+        "She asked him to build a thousand temples in one night.",
+        "She persuaded the king to cancel the marriage publicly.",
+        "She destroyed the temples before the helpers arrived.",
+        "She asked him to travel to another kingdom."
+      ],
+      "key": [
+        1
+      ],
+      "why": "She set a condition that she believed could not be completed before dawn.",
+      "evidence": "she set a difficult condition: he had to build a thousand temples in one night",
+      "wrong": [
+        "Incorrect. The passage does not say she hid stones. To check this option, paragraph one, where the difficult condition is introduced.",
+        "Correct. This is the condition described in paragraph one. To locate it, paragraph one, where the difficult condition is introduced.",
+        "Incorrect. No public cancellation by the king is mentioned. To check this option, paragraph one, where the difficult condition is introduced.",
+        "Incorrect. The temples were built during the night; she used a false dawn. To check this option, paragraph one, where the difficult condition is introduced.",
+        "Incorrect. No journey to another kingdom is described. To check this option, paragraph one, where the difficult condition is introduced."
+      ]
+    },
+    {
+      "id": 14,
+      "p": 4,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — the trick",
+      "stem": "Which TWO actions helped make the night seem to have ended? Select TWO answers.",
+      "options": [
+        "The villagers rang a temple bell.",
+        "The women pounded rice and created a glow in the east.",
+        "The helpers were told to build more slowly.",
+        "The sounds and light suggested that dawn had arrived.",
+        "Bandung Bondowoso stopped to eat."
+      ],
+      "key": [
+        1,
+        3
+      ],
+      "why": "Exactly two choices are supported. The women pounded rice and created the glow. The passage directly connects sound and light to the false dawn.",
+      "evidence": "pounded rice; sounds and light made it seem as if morning had arrived",
+      "wrong": [
+        "Do not select this. No temple bell is mentioned. To verify it, paragraph two gives the actions; paragraph three explains their effect.",
+        "Correct selection. The women pounded rice and created the glow. To verify it, paragraph two gives the actions; paragraph three explains their effect.",
+        "Do not select this. The helpers stopped because they believed dawn had come. To verify it, paragraph two gives the actions; paragraph three explains their effect.",
+        "Correct selection. The passage directly connects sound and light to the false dawn. To verify it, paragraph two gives the actions; paragraph three explains their effect.",
+        "Do not select this. No meal is described. To verify it, paragraph two gives the actions; paragraph three explains their effect."
+      ]
+    },
+    {
+      "id": 15,
+      "p": 4,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Plot",
+        "Context"
+      ],
+      "rows": [
+        {
+          "s": "Roro Jonggrang sets a one-night challenge.",
+          "key": 0,
+          "why": "This is an event in the story.",
+          "otherCategoryWhy": "It is part of the plot, not background information about how the tale is viewed."
+        },
+        {
+          "s": "Bandung Bondowoso curses Roro Jonggrang.",
+          "key": 0,
+          "why": "This is part of the ending in this version.",
+          "otherCategoryWhy": "It describes what happens in the plot."
+        },
+        {
+          "s": "The story is traditionally associated with Prambanan.",
+          "key": 1,
+          "why": "This gives the legend's traditional association.",
+          "otherCategoryWhy": "It is context about the story, not an event in the sequence."
+        },
+        {
+          "s": "The tale is a legend, not a verified history of the site.",
+          "key": 1,
+          "why": "This explains how the account should be understood.",
+          "otherCategoryWhy": "It is a framing note rather than a plot event."
+        }
+      ],
+      "why": "Plot statements describe what characters do; context statements explain the tradition or evidence status."
+    },
+    {
+      "id": 16,
+      "p": 5,
+      "type": "PG",
+      "competency": "Textual Understanding — inference",
+      "stem": "What does the golden snail mainly represent in the story?",
+      "options": [
+        "A warning that all rivers are dangerous.",
+        "A sign of hidden identity and unexpected kindness.",
+        "A promise that wealth always brings happiness.",
+        "Proof that magical transformations happen in real life.",
+        "A symbol of the woman's dislike of work."
+      ],
+      "key": [
+        1
+      ],
+      "why": "The final paragraph explains the meaning attached to the golden snail.",
+      "evidence": "The tale uses the golden snail as a sign of hidden identity and unexpected kindness.",
+      "wrong": [
+        "Incorrect. The passage does not make a general claim about rivers. To check this option, the final paragraph, where the narrator interprets the symbol.",
+        "Correct. This matches the interpretation given by the narrator. To locate it, the final paragraph, where the narrator interprets the symbol.",
+        "Incorrect. The story does not say wealth always brings happiness. To check this option, the final paragraph, where the narrator interprets the symbol.",
+        "Incorrect. The passage explicitly frames the story as folklore. To check this option, the final paragraph, where the narrator interprets the symbol.",
+        "Incorrect. The older woman continues her daily work and acts kindly. To check this option, the final paragraph, where the narrator interprets the symbol."
+      ]
+    },
+    {
+      "id": 17,
+      "p": 5,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — narrative evidence",
+      "stem": "Which TWO details show the older woman's kindness and curiosity? Select TWO answers.",
+      "options": [
+        "She hides the snail away and refuses to help.",
+        "She places the snail in a safe container.",
+        "She observes what happens and discovers the secret.",
+        "She immediately sells the snail.",
+        "She blames the princess for the spell."
+      ],
+      "key": [
+        1,
+        2
+      ],
+      "why": "Exactly two choices are supported. A safe container is explicitly mentioned. She stays nearby to observe and discovers the princess.",
+      "evidence": "places it in a safe container; decides to stay nearby and observe",
+      "wrong": [
+        "Do not select this. The woman keeps the snail safely and treats it kindly. To verify it, paragraphs two and three describe how the woman treats the snail and discovers the secret.",
+        "Correct selection. A safe container is explicitly mentioned. To verify it, paragraphs two and three describe how the woman treats the snail and discovers the secret.",
+        "Correct selection. She stays nearby to observe and discovers the princess. To verify it, paragraphs two and three describe how the woman treats the snail and discovers the secret.",
+        "Do not select this. No sale is described. To verify it, paragraphs two and three describe how the woman treats the snail and discovers the secret.",
+        "Do not select this. The woman is not said to blame the princess. To verify it, paragraphs two and three describe how the woman treats the snail and discovers the secret."
+      ]
+    },
+    {
+      "id": 18,
+      "p": 5,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Kindness",
+        "Mystery"
+      ],
+      "rows": [
+        {
+          "s": "The room is tidy when the woman returns.",
+          "key": 1,
+          "why": "This is the unusual event that raises a question.",
+          "otherCategoryWhy": "It describes the mystery the woman notices."
+        },
+        {
+          "s": "The snail becomes a princess.",
+          "key": 1,
+          "why": "This is the magical discovery in the story.",
+          "otherCategoryWhy": "It is the mystery's explanation, not simply a kind action."
+        },
+        {
+          "s": "The woman treats the snail carefully.",
+          "key": 0,
+          "why": "This shows considerate behaviour.",
+          "otherCategoryWhy": "It is an act of kindness rather than a mysterious event."
+        },
+        {
+          "s": "The woman does not reveal the secret to others.",
+          "key": 0,
+          "why": "This shows care and discretion.",
+          "otherCategoryWhy": "It is a kind choice, not the unexplained event itself."
+        }
+      ],
+      "why": "Separate considerate choices from unusual events that the characters do not initially understand."
+    },
+    {
+      "id": 19,
+      "p": 6,
+      "type": "PG",
+      "competency": "Textual Understanding — procedure sequence",
+      "stem": "Why should the shirt be turned inside out before tying the bottom strips?",
+      "options": [
+        "To make the shirt look like a new T-shirt.",
+        "To help make the knots on the inside of the finished bag.",
+        "To remove the sleeves more easily after the knots are tied.",
+        "To make the handles shorter.",
+        "To prevent the shirt from needing to be washed."
+      ],
+      "key": [
+        1
+      ],
+      "why": "Turning the shirt inside out allows the bottom knots to sit inside when the bag is turned right side out.",
+      "evidence": "turn the shirt inside out ... tie each front strip to the matching strip at the back ... turn the bag right side out",
+      "wrong": [
+        "Incorrect. The goal is to make a bag, not restore the shirt's appearance. To check this option, compare the second and third paragraphs; the order explains why the shirt is turned back later.",
+        "Correct. This follows the sequence: knots are tied inside, then the bag is turned right side out. To locate it, compare the second and third paragraphs; the order explains why the shirt is turned back later.",
+        "Incorrect. The sleeves are cut off earlier. To check this option, compare the second and third paragraphs; the order explains why the shirt is turned back later.",
+        "Incorrect. Handle length is not the purpose of turning it inside out. To check this option, compare the second and third paragraphs; the order explains why the shirt is turned back later.",
+        "Incorrect. The text says the shirt should be clean. To check this option, compare the second and third paragraphs; the order explains why the shirt is turned back later."
+      ]
+    },
+    {
+      "id": 20,
+      "p": 6,
+      "type": "MCMA",
+      "competency": "Textual Understanding — materials and checks",
+      "stem": "Which TWO actions are recommended for a safer, more reliable bag? Select TWO answers. Select TWO answers.",
+      "options": [
+        "Use a shirt with large holes.",
+        "Check the bottom for gaps and retie strips if needed.",
+        "Test the bag with a few light items first.",
+        "Carry heavy shopping immediately without testing.",
+        "Cut strips of very different lengths."
+      ],
+      "key": [
+        1,
+        2
+      ],
+      "why": "Exactly two choices are supported. The passage says to check for gaps and retie strips. The final paragraph recommends testing with light items.",
+      "evidence": "check that the bottom is closed; carry a few light items first to test it",
+      "wrong": [
+        "Do not select this. The text recommends choosing a shirt without large holes. To verify it, paragraph three covers knots and gaps; paragraph four covers testing the finished bag.",
+        "Correct selection. The passage says to check for gaps and retie strips. To verify it, paragraph three covers knots and gaps; paragraph four covers testing the finished bag.",
+        "Correct selection. The final paragraph recommends testing with light items. To verify it, paragraph three covers knots and gaps; paragraph four covers testing the finished bag.",
+        "Do not select this. The text recommends testing before carrying heavier items. To verify it, paragraph three covers knots and gaps; paragraph four covers testing the finished bag.",
+        "Do not select this. Strips should be similar in size. To verify it, paragraph three covers knots and gaps; paragraph four covers testing the finished bag."
+      ]
+    },
+    {
+      "id": 21,
+      "p": 6,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Preparation",
+        "Testing"
+      ],
+      "rows": [
+        {
+          "s": "Lay the shirt flat and cut off the sleeves.",
+          "key": 0,
+          "why": "This prepares the material.",
+          "otherCategoryWhy": "It happens before the bag is assembled and tested."
+        },
+        {
+          "s": "Check the handles and bottom.",
+          "key": 1,
+          "why": "This is a final inspection.",
+          "otherCategoryWhy": "It happens after the bag is assembled."
+        },
+        {
+          "s": "Carry light items to test the bag.",
+          "key": 1,
+          "why": "This checks whether the bag works.",
+          "otherCategoryWhy": "It is a test, not a construction step."
+        },
+        {
+          "s": "Tie matching strips at the bottom.",
+          "key": 0,
+          "why": "This is part of making the bag.",
+          "otherCategoryWhy": "The bag is not yet being tested."
+        }
+      ],
+      "why": "Identify whether the statement builds the bag or checks the finished product."
+    },
+    {
+      "id": 22,
+      "p": 7,
+      "type": "PG",
+      "competency": "Textual Understanding — purpose and structure",
+      "stem": "What is the main purpose of a clear subject line?",
+      "options": [
+        "To explain the email's purpose quickly.",
+        "To replace the greeting and closing.",
+        "To include every detail in the message.",
+        "To make the email sound more formal than necessary.",
+        "To prevent the reader from replying."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The passage says a short subject line explains the purpose and helps the reader understand the message.",
+      "evidence": "write a short subject line that explains the purpose",
+      "wrong": [
+        "Correct. This is the subject line's stated purpose. To locate it, paragraph two; look for the sentence explaining what the subject line should do.",
+        "Incorrect. The passage also recommends a greeting and closing. To check this option, paragraph two; look for the sentence explaining what the subject line should do.",
+        "Incorrect. The subject should be short, not contain every detail. To check this option, paragraph two; look for the sentence explaining what the subject line should do.",
+        "Incorrect. The passage recommends polite clarity, not unnecessary formality. To check this option, paragraph two; look for the sentence explaining what the subject line should do.",
+        "Incorrect. No such effect is mentioned. To check this option, paragraph two; look for the sentence explaining what the subject line should do."
+      ]
+    },
+    {
+      "id": 23,
+      "p": 7,
+      "type": "MCMA",
+      "competency": "Textual Understanding — information to include",
+      "stem": "Which TWO details should be included when relevant to the request? Select TWO answers. Select TWO answers.",
+      "options": [
+        "Unrelated questions in the same paragraph.",
+        "The club and the date being asked about.",
+        "A brief introduction if the recipient may not know you.",
+        "A long personal story before the question.",
+        "Unverified claims about the recipient."
+      ],
+      "key": [
+        1,
+        2
+      ],
+      "why": "Exactly two choices are supported. The club and date are examples of useful details. The passage recommends a brief introduction when needed.",
+      "evidence": "mention the club and the date; introduce yourself briefly if the recipient may not know you",
+      "wrong": [
+        "Do not select this. The passage says to avoid adding unrelated questions. To verify it, paragraph three explains both context and relevant details.",
+        "Correct selection. The club and date are examples of useful details. To verify it, paragraph three explains both context and relevant details.",
+        "Correct selection. The passage recommends a brief introduction when needed. To verify it, paragraph three explains both context and relevant details.",
+        "Do not select this. The email should stay focused. To verify it, paragraph three explains both context and relevant details.",
+        "Do not select this. The text does not recommend unverified claims. To verify it, paragraph three explains both context and relevant details."
+      ]
+    },
+    {
+      "id": 24,
+      "p": 7,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Structure",
+        "Politeness"
+      ],
+      "rows": [
+        {
+          "s": "Begin with a polite greeting.",
+          "key": 1,
+          "why": "This is a courteous opening.",
+          "otherCategoryWhy": "It is a social courtesy rather than the message's information structure."
+        },
+        {
+          "s": "Use a short, informative subject line.",
+          "key": 0,
+          "why": "This is part of organising the email.",
+          "otherCategoryWhy": "It helps structure the message rather than directly expressing courtesy."
+        },
+        {
+          "s": "Keep the question focused.",
+          "key": 0,
+          "why": "This organises the request clearly.",
+          "otherCategoryWhy": "It concerns clarity and structure."
+        },
+        {
+          "s": "Thank the reader and close politely.",
+          "key": 1,
+          "why": "This is a courteous ending.",
+          "otherCategoryWhy": "It expresses politeness rather than organising the request's information."
+        }
+      ],
+      "why": "Structure concerns how information is organised; politeness concerns courteous language."
+    },
+    {
+      "id": 25,
+      "p": 8,
+      "type": "PG",
+      "competency": "Analytical Understanding — thesis and qualification",
+      "stem": "Which position does the writer support?",
+      "options": [
+        "Printed materials should be removed from every classroom.",
+        "Digital materials should replace paper in all situations.",
+        "Schools should choose digital or printed formats according to the task and learners' needs.",
+        "Students should use digital files only at home.",
+        "Digital resources are always easier to access than paper."
+      ],
+      "key": [
+        2
+      ],
+      "why": "The conclusion supports a mixed approach rather than treating either format as universally better.",
+      "evidence": "schools should use a mixed approach ... choose the format that supports the task and includes learners",
+      "wrong": [
+        "Incorrect. The writer does not recommend removing all printed resources. To check this option, the final paragraph states the recommendation after weighing advantages and limits.",
+        "Incorrect. The passage explains limits to replacing all paper. To check this option, the final paragraph states the recommendation after weighing advantages and limits.",
+        "Correct. This captures the balanced conclusion. To locate it, the final paragraph states the recommendation after weighing advantages and limits.",
+        "Incorrect. The text discusses school resources generally, not home-only use. To check this option, the final paragraph states the recommendation after weighing advantages and limits.",
+        "Incorrect. The passage notes that access to devices and internet may be limited. To check this option, the final paragraph states the recommendation after weighing advantages and limits."
+      ]
+    },
+    {
+      "id": 26,
+      "p": 8,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — barriers",
+      "stem": "Which TWO issues may make digital materials difficult for some learners to use? Select TWO answers.",
+      "options": [
+        "Every student has a reliable device.",
+        "Some students lack enough data or a stable connection.",
+        "Digital files can be updated easily.",
+        "Screens may introduce distractions.",
+        "Printed materials cannot be read by anyone."
+      ],
+      "key": [
+        1,
+        3
+      ],
+      "why": "Exactly two choices are supported. Data and connection are explicitly mentioned as barriers. Notifications can distract students.",
+      "evidence": "lack a reliable device, enough data, or stable internet; screens can introduce distractions",
+      "wrong": [
+        "Do not select this. The passage says access is not equal for everyone. To verify it, paragraph three lists the disadvantages and access barriers.",
+        "Correct selection. Data and connection are explicitly mentioned as barriers. To verify it, paragraph three lists the disadvantages and access barriers.",
+        "Do not select this. Easy updating is an advantage, not a barrier. To verify it, paragraph three lists the disadvantages and access barriers.",
+        "Correct selection. Notifications can distract students. To verify it, paragraph three lists the disadvantages and access barriers.",
+        "Do not select this. The text does not claim printed materials cannot be read. To verify it, paragraph three lists the disadvantages and access barriers."
+      ]
+    },
+    {
+      "id": 27,
+      "p": 8,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Benefits",
+        "Barriers"
+      ],
+      "rows": [
+        {
+          "s": "Some learners lack stable internet access.",
+          "key": 1,
+          "why": "This limits access to digital resources.",
+          "otherCategoryWhy": "It describes a barrier."
+        },
+        {
+          "s": "Teachers can update a shared file without reprinting it.",
+          "key": 0,
+          "why": "This is a benefit of digital materials.",
+          "otherCategoryWhy": "It is an advantage, not an obstacle."
+        },
+        {
+          "s": "Notifications can distract learners.",
+          "key": 1,
+          "why": "This is a potential disadvantage.",
+          "otherCategoryWhy": "It describes a difficulty rather than a benefit."
+        },
+        {
+          "s": "Students may carry resources without heavy folders.",
+          "key": 0,
+          "why": "This is a convenience benefit.",
+          "otherCategoryWhy": "It is a positive outcome, not a barrier."
+        }
+      ],
+      "why": "Look for advantages in paragraph two and constraints in paragraph three."
+    },
+    {
+      "id": 28,
+      "p": 9,
+      "type": "PG",
+      "competency": "Analytical Understanding — writer's position",
+      "stem": "What does the writer recommend about weekend homework?",
+      "options": [
+        "Schools should coordinate assignments and avoid excessive weekend work.",
+        "Teachers should give students long assignments every weekend.",
+        "Students should stop reviewing lessons outside school.",
+        "All homework should be removed from every school day.",
+        "Family responsibilities should be ignored when setting deadlines."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The conclusion recommends coordinating major assignments and avoiding excessive weekend work, not removing all homework.",
+      "evidence": "Schools should therefore coordinate major assignments and avoid setting excessive weekend work.",
+      "wrong": [
+        "Correct. This paraphrases the writer's final recommendation. To locate it, read the final paragraph, especially the first sentence.",
+        "Incorrect. The writer argues against excessive weekend workload. To check, compare this option with the final paragraph.",
+        "Incorrect. The passage says some short review tasks can be useful. To check, read paragraph three.",
+        "Incorrect. The writer recommends balance, not removing all homework. To check, compare paragraphs three and four.",
+        "Incorrect. The passage recognises that students may have family responsibilities. To check, look at paragraph three."
+      ]
+    },
+    {
+      "id": 29,
+      "p": 9,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — benefits and limits",
+      "stem": "Which TWO points support the writer's argument for limiting weekend homework? Select TWO answers.",
+      "options": [
+        "Rest can help students return to class less exhausted.",
+        "Every assignment is harmful to learning.",
+        "Large amounts of work may leave little time for other responsibilities.",
+        "Students learn best when they never review their notes.",
+        "Weekend hobbies always matter more than schoolwork."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The passage explains that rest supports students' readiness for class and that excessive tasks can crowd out rest and responsibilities.",
+      "evidence": "Students who return to school less exhausted may find it easier to pay attention... Several long tasks from different subjects can leave students with little time to rest.",
+      "wrong": [
+        "Correct selection. The passage links rest with better attention and participation. To verify, read paragraph two.",
+        "Do not select this. Paragraph three says some homework can be useful. To verify, read the first two sentences of paragraph three.",
+        "Correct selection. The passage explains that several long tasks may leave little time for rest and other commitments. To verify, read paragraph three.",
+        "Do not select this. The text says short review tasks may help students remember learning. To verify, read paragraph three.",
+        "Do not select this. The writer asks for balance, not a claim that hobbies always matter more. To verify, read the conclusion."
+      ]
+    },
+    {
+      "id": 30,
+      "p": 9,
+      "type": "CAT",
+      "competency": "Textual Understanding — classification",
+      "stem": "Choose the best category for each statement.",
+      "categories": [
+        "Rest",
+        "Study"
+      ],
+      "rows": [
+        {
+          "s": "Sleeping properly and spending time with family.",
+          "key": 0,
+          "why": "These are examples of rest and life outside schoolwork.",
+          "otherCategoryWhy": "This statement describes recovery and personal time, not an academic task."
+        },
+        {
+          "s": "Reviewing key notes before the next lesson.",
+          "key": 1,
+          "why": "This is a short learning activity.",
+          "otherCategoryWhy": "It is a study task rather than rest."
+        },
+        {
+          "s": "Returning to class less exhausted.",
+          "key": 0,
+          "why": "This is a possible benefit of rest.",
+          "otherCategoryWhy": "It describes recovery, not an assignment or review activity."
+        },
+        {
+          "s": "Preparing for an upcoming project.",
+          "key": 1,
+          "why": "The passage lists this as a useful homework task.",
+          "otherCategoryWhy": "This is academic preparation, not rest."
+        }
+      ],
+      "why": "The passage contrasts benefits of rest with useful academic tasks and the problem of excessive workload."
+    }
+  ]
+}
