@@ -1,0 +1,1060 @@
+{
+  "meta": {
+    "title": "TKA English Practice Set 03",
+    "set": 3,
+    "duration_minutes": 70,
+    "passage_count": 10,
+    "question_count": 30,
+    "question_types": {
+      "PG": "MCSA — select one answer using radio buttons",
+      "MCMA": "Select exactly two correct answers using checkboxes",
+      "CAT": "Category — choose one category per statement using radio buttons in a table"
+    },
+    "source_map": "passage_map.md — Set 3 topics",
+    "structure_reference": "Set02_data.json",
+    "infographic": {
+      "passage_id": "S03P07",
+      "file": "images/S03P07_balanced_lunchbox.png",
+      "display": "in the passage column, width 100%, vertically scrollable when needed",
+      "note": "Use this infographic as the visual companion for questions 19–21; retain the passage text for text evidence."
+    },
+    "answer_distribution_note": "Correct options are deliberately varied across positions. Category patterns are varied rather than always AABB.",
+    "editorial_note": "Original practice passages drafted to match the Set 3 topic inventory. Folklore is presented as a version of a traditional story, not historical fact."
+  },
+  "passages": [
+    {
+      "id": "S03P01",
+      "genre": "Descriptive",
+      "level": "B1",
+      "title": "Lalu Muhammad Zohri: Indonesia's Sprinting Star",
+      "text": "Lalu Muhammad Zohri is an Indonesian sprinter known for competing in short-distance races. He comes from West Nusa Tenggara, and his journey in athletics has drawn attention to the effort needed to develop as a young athlete. Sprinting may look simple because a race lasts only a short time, but preparation involves much more than running fast for a few seconds.\n\nA sprinter trains to improve the start, acceleration, running form, and ability to maintain speed. Coaches may study how an athlete leaves the starting blocks and how each step is placed. Small changes can matter because the race is decided by fractions of a second. Training also includes rest and careful attention to equipment and technique.\n\nZohri gained international attention after winning the men's 100-metre title at the 2018 World U20 Championships. The result was a notable achievement for Indonesia and showed how a young athlete could compete successfully on an international stage. However, one victory does not mean that training becomes easy or that future results are guaranteed.\n\nHis story can encourage students to set goals and work consistently. It also reminds readers that sporting success usually depends on coaching, practice, discipline, and opportunities to compete—not only natural talent.",
+      "hints": [
+        "short-distance races",
+        "the 2018 World U20 Championships",
+        "coaching, practice, and discipline"
+      ]
+    },
+    {
+      "id": "S03P02",
+      "genre": "Descriptive",
+      "level": "B1",
+      "title": "Way Kambas National Park and Elephant Conservation",
+      "text": "Way Kambas National Park is in Lampung, on the island of Sumatra. The park is known for its lowland forest, wetlands, and wildlife. It is also associated with efforts to protect Sumatran elephants, whose natural habitat has been affected by human activity and changes in land use.\n\nAn elephant is a large animal with complex social behaviour. In conservation work, staff need to understand the animals' needs as well as the environment around them. Monitoring, habitat protection, and public education can all be part of a wider conservation effort. These tasks require time, trained workers, and cooperation among different groups.\n\nThe park is not simply a place where visitors look at animals. Protected areas need rules so that human activity does not disturb wildlife. Visitors should follow instructions, keep a safe distance, and avoid feeding or provoking animals. Respectful behaviour helps reduce risks to both people and wildlife.\n\nConservation also depends on communities living near protected areas. When local people have ways to share concerns and take part in practical solutions, protection efforts can become more realistic. A national park can provide important habitat, but long-term conservation requires continued care, responsible visitors, and cooperation beyond the park boundary.",
+      "hints": [
+        "Lampung, on Sumatra",
+        "habitat protection and public education",
+        "cooperation with nearby communities"
+      ]
+    },
+    {
+      "id": "S03P03",
+      "genre": "Recount",
+      "level": "B1",
+      "title": "My First Week as a Sports Club Volunteer",
+      "text": "Last month, I volunteered at my school's after-class sports club for the first time. I expected to help students practise, but the teacher explained that my main job was to prepare equipment, record attendance, and make sure each group used the correct area.\n\nOn Monday, I arrived early and placed cones beside the running track. I forgot to count the cones before the session, so one group had to wait while I looked for the missing ones. The teacher did not shout at me. Instead, she showed me a simple equipment checklist and asked me to use it before every session.\n\nBy Wednesday, I was more organised. I checked the list, filled the water container, and wrote down the names of students who arrived late. When two groups wanted the same space, I asked the teacher to confirm the schedule rather than deciding on my own. The session started only a few minutes late.\n\nAt the end of the week, the teacher said that I had become more reliable. I learned that volunteering is not only about enjoying sports. It also involves communication, careful preparation, and accepting feedback. Next time, I want to help plan one activity instead of only preparing equipment.",
+      "hints": [
+        "the volunteer's main tasks",
+        "the missing cones",
+        "the checklist and feedback"
+      ]
+    },
+    {
+      "id": "S03P04",
+      "genre": "Recount",
+      "level": "A2",
+      "title": "How Our Class Reduced Plastic Waste for a Week",
+      "text": "Last term, our English teacher asked us to try reducing plastic waste for one school week. We did not have to stop using every plastic item. Instead, we chose a few simple actions that our class could manage.\n\nOn Monday, we brought reusable water bottles and counted how many students remembered them. On Tuesday, some students brought lunch in reusable containers. A few forgot, so we reminded each other without making anyone feel embarrassed. On Wednesday, we put a box near the classroom door for clean paper that could be used again for notes.\n\nThe hardest day was Thursday because a class activity included packaged snacks. We could not change everything at short notice, but we collected the clean wrappers separately and discussed what we could do differently next time. On Friday, we reviewed the week and shared the ideas that had been easiest to follow.\n\nOur teacher did not announce a dramatic result or claim that we had solved the school's waste problem. We simply noticed that planning ahead made some habits easier. I learned that a small class project works best when the steps are realistic and everyone understands the purpose.",
+      "hints": [
+        "the class's simple actions",
+        "the difficulty on Thursday",
+        "what the students learned"
+      ]
+    },
+    {
+      "id": "S03P05",
+      "genre": "Narrative",
+      "level": "B1",
+      "title": "The Legend of Sangkuriang",
+      "text": "In a well-known version of the Sundanese legend, Dayang Sumbi lived with her son, Sangkuriang. One day, Sangkuriang went hunting with a dog named Tumang. After an argument about the hunt, he returned home angry, and a terrible conflict followed. Dayang Sumbi later sent him away, and he grew up far from her.\n\nYears passed before Sangkuriang returned to the area. He met Dayang Sumbi but did not recognise her as his mother. They became close, and he wanted to marry her. When Dayang Sumbi realised who he was, she was frightened by the situation and tried to stop the marriage without telling him the truth immediately.\n\nShe asked Sangkuriang to build a large boat and a lake in a single night. He worked with extraordinary speed, and Dayang Sumbi feared he would finish before morning. She asked people to spread cloth and create the appearance of dawn. Seeing the light, Sangkuriang believed that he had failed to complete the task in time.\n\nFurious, he kicked the unfinished boat away. In the legend, the overturned boat became associated with the shape of Mount Tangkuban Perahu. The story is a traditional explanation connected with a landscape, not a scientific account of how the mountain formed. Versions of the legend may differ in their details.",
+      "hints": [
+        "Dayang Sumbi's challenge",
+        "the appearance of dawn",
+        "the boat and Mount Tangkuban Perahu"
+      ]
+    },
+    {
+      "id": "S03P06",
+      "genre": "Narrative",
+      "level": "B1",
+      "title": "Bawang Merah and Bawang Putih",
+      "text": "In a familiar version of the Indonesian folktale, Bawang Putih lived with her stepmother and stepsister, Bawang Merah. Bawang Putih was expected to do most of the household work, while Bawang Merah was treated more kindly. Although she was often tired, Bawang Putih tried to remain patient and helpful.\n\nOne day, while washing clothes by a river, Bawang Putih lost a piece of clothing in the water. She searched for it but could not find it. An older woman had found the item and offered to return it, but first asked Bawang Putih to help with some work. Bawang Putih agreed and completed the tasks carefully.\n\nThe woman rewarded her and sent her home with a gift. When Bawang Putih returned, her stepmother and Bawang Merah wanted the same reward. Bawang Merah copied the journey, but she was impatient and unwilling to help. In this version, her behaviour led to an unpleasant result rather than the reward she expected.\n\nThe contrast between the two sisters is central to the story: Bawang Putih acts with patience, while Bawang Merah expects a reward without showing the same care. The tale is told in different forms, so particular objects and events may change between retellings. Readers should recognise it as folklore rather than a record of a real event.",
+      "hints": [
+        "how the sisters behave differently",
+        "the older woman's request",
+        "why versions may differ"
+      ]
+    },
+    {
+      "id": "S03P07",
+      "genre": "Procedure",
+      "level": "A2",
+      "title": "How to Prepare a Balanced Lunchbox",
+      "text": "Preparing a balanced lunchbox does not have to be difficult. A useful lunch can include a main food, fruit or vegetables, a protein food, and a drink. Choose familiar foods that are practical for your family to prepare.\n\nFirst, choose a main food that gives you energy, such as rice, bread, potatoes, or noodles. Pick an amount that suits your appetite and the length of your school day. Next, add fruit and vegetables in different colours when possible. For example, you could pack a banana and cucumber slices, or an orange with carrots.\n\nThen, include a protein food such as eggs, tofu, tempeh, beans, fish, or chicken. You do not need to use an expensive ingredient; choose an option that is available and suitable for you. Bring safe drinking water in a clean, reusable bottle. A refillable bottle can also reduce the need for single-use drink containers.\n\nFood safety is important. Wash your hands before preparing food, use clean containers, and close them properly. Foods that spoil easily should be kept cool when needed. Before leaving home, check that you have your lunchbox, drink, and any spoon or fork you need. A good lunchbox can be simple, familiar, and easy to pack.",
+      "hints": [
+        "the four kinds of items to include",
+        "examples of protein foods",
+        "food safety steps"
+      ],
+      "image": "images/S03P07_balanced_lunchbox.png",
+      "image_alt": "Portrait infographic: How to Prepare a Balanced Lunchbox"
+    },
+    {
+      "id": "S03P08",
+      "genre": "Procedure",
+      "level": "B1",
+      "title": "How to Prepare for a Short Job Interview",
+      "text": "A short job interview can feel stressful, but preparation helps you explain your skills clearly. You do not need to memorise a long speech. Instead, learn about the role and prepare a few examples that show what you can do.\n\nFirst, read the job description carefully. Identify the main tasks and the skills the employer wants. If the description is unclear, write down questions you may ask during the interview. Next, prepare a brief introduction that includes your current situation, relevant experience, and interest in the role.\n\nThen, think of two or three examples from school, volunteering, or previous work. Choose examples that show responsibility, teamwork, problem-solving, or communication. Practise explaining each example in a few sentences: describe the situation, what you did, and the result. Be honest about what you have and have not done.\n\nBefore the interview, check the time, location, transport plan, and any documents you need. Choose clean, appropriate clothing and arrive a little early. During the interview, listen to each question before answering. If you do not understand a question, politely ask the interviewer to repeat or explain it. Afterward, note what went well and what you want to improve next time.",
+      "hints": [
+        "what to identify in the job description",
+        "how to choose examples",
+        "what to check before the interview"
+      ]
+    },
+    {
+      "id": "S03P09",
+      "genre": "Analytical Exposition",
+      "level": "B1",
+      "title": "Should Schools Offer More Sports Clubs?",
+      "text": "Schools should offer a range of sports clubs because students have different interests and abilities. A club can give students a regular chance to practise a skill, work with others, and take part in an activity beyond ordinary lessons. However, adding clubs needs thoughtful planning rather than simply filling every afternoon with more tasks.\n\nFirst, different clubs can make participation more accessible. Some students enjoy team games, while others prefer running, badminton, dance, or individual fitness activities. A range of choices allows students to find an activity that feels suitable to them. Clubs can also provide a place to practise cooperation, follow rules, and learn how to respond to winning or losing.\n\nThere are practical limits. Schools need safe spaces, equipment, staff supervision, and time in the timetable. Some students have transport responsibilities or family duties after school. If every club meets at the same time or requires expensive equipment, many students may be unable to join.\n\nFor these reasons, schools should expand sports clubs gradually and ask students what activities they want. Low-cost options, shared equipment, and more than one schedule can help. The goal should not be to make every student join a club, but to provide realistic opportunities for those who want to participate.",
+      "hints": [
+        "benefits of different club choices",
+        "practical limits",
+        "the writer's recommendation"
+      ]
+    },
+    {
+      "id": "S03P10",
+      "genre": "Analytical Exposition",
+      "level": "B1",
+      "title": "Why Wildlife Conservation Needs Local Communities",
+      "text": "Wildlife conservation is more likely to be practical when local communities are included in planning and decision-making. Protected areas and conservation staff are important, but they cannot address every issue alone. People who live near wildlife habitats often understand local routines, concerns, and changes in the environment.\n\nCommunity members can share observations about animals, damaged habitats, or activities that may create conflict. This information can help conservation teams decide where to focus attention. Local people may also contribute through education, responsible tourism, habitat restoration, or agreed monitoring activities when suitable training and support are available.\n\nHowever, asking communities to help is not enough by itself. Conservation plans must listen to local concerns and consider how decisions affect people's daily lives. If rules create unfair costs or people are excluded from discussions, cooperation may become difficult. Clear communication and realistic support can make participation more meaningful.\n\nWildlife protection therefore needs more than signs and boundaries. It needs scientific knowledge, consistent management, and relationships built on trust. When conservation workers and nearby communities share information and responsibilities, they have a better chance of finding solutions that protect wildlife while recognising local needs.",
+      "hints": [
+        "local knowledge and observations",
+        "why participation may fail",
+        "the writer's conclusion"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "p": 0,
+      "type": "PG",
+      "competency": "Textual Understanding — explicit information",
+      "stem": "Which achievement brought Zohri international attention?",
+      "options": [
+        "He designed a new type of running shoe.",
+        "He won the men's 100-metre title at the 2018 World U20 Championships.",
+        "He became a coach for a national team.",
+        "He set a world record in a marathon.",
+        "He opened a sports school in West Nusa Tenggara."
+      ],
+      "key": [
+        1
+      ],
+      "why": "The passage names his 2018 World U20 Championships 100-metre victory.",
+      "evidence": "Zohri gained international attention after winning the men's 100-metre title at the 2018 World U20 Championships.",
+      "wrong": [
+        "Incorrect. The passage does not mention shoe design. Look in paragraph three for the words 'gained international attention'; the next clause gives the achievement.",
+        "Correct. This achievement is stated directly in paragraph three. Look in paragraph three for the words 'gained international attention'; the next clause gives the achievement.",
+        "Incorrect. The text does not say he became a national-team coach. Look in paragraph three for the words 'gained international attention'; the next clause gives the achievement.",
+        "Incorrect. The passage discusses sprinting, not a marathon record. Look in paragraph three for the words 'gained international attention'; the next clause gives the achievement.",
+        "Incorrect. No sports school is mentioned. Look in paragraph three for the words 'gained international attention'; the next clause gives the achievement."
+      ]
+    },
+    {
+      "id": 2,
+      "p": 0,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — supported conclusions",
+      "stem": "Which TWO points about sprinting are supported by the passage? Select TWO answers.",
+      "options": [
+        "A race result may depend on very small differences in time.",
+        "Sprinting requires no rest because races are short.",
+        "Coaching and practice contribute to sporting performance.",
+        "Athletes should ignore their running technique.",
+        "Natural talent guarantees future victories."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The two correct choices are supported by the passage. The passage says races can be decided by fractions of a second. It lists coaching and practice as important factors.",
+      "evidence": "fractions of a second; coaching, practice, discipline",
+      "wrong": [
+        "Correct selection. The passage says races can be decided by fractions of a second. Check paragraph two for how small changes matter, then the final paragraph for the factors behind success.",
+        "Do not select this. The text says training includes rest. Check paragraph two for how small changes matter, then the final paragraph for the factors behind success.",
+        "Correct selection. It lists coaching and practice as important factors. Check paragraph two for how small changes matter, then the final paragraph for the factors behind success.",
+        "Do not select this. The passage describes technique as important. Check paragraph two for how small changes matter, then the final paragraph for the factors behind success.",
+        "Do not select this. The passage says one victory does not guarantee future results. Check paragraph two for how small changes matter, then the final paragraph for the factors behind success."
+      ]
+    },
+    {
+      "id": 3,
+      "p": 0,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Sprinting technique and training",
+        "Career achievement and meaning"
+      ],
+      "rows": [
+        {
+          "s": "Coaches may study how an athlete leaves the starting blocks.",
+          "key": 0,
+          "why": "This describes technique and training.",
+          "otherCategoryWhy": "It does not describe a career result; it explains a training detail."
+        },
+        {
+          "s": "Zohri won the 100-metre title in 2018.",
+          "key": 1,
+          "why": "This is the specific sporting achievement.",
+          "otherCategoryWhy": "It is a result, not a description of technique."
+        },
+        {
+          "s": "His result drew attention to Indonesian athletics.",
+          "key": 1,
+          "why": "This explains the significance of the achievement.",
+          "otherCategoryWhy": "It concerns the impact of a result rather than a training method."
+        },
+        {
+          "s": "Training includes rest and attention to technique.",
+          "key": 0,
+          "why": "These are parts of preparation.",
+          "otherCategoryWhy": "This does not name a competition achievement."
+        }
+      ],
+      "why": "Read each statement's key noun or action: starting blocks, rest, and technique belong to training; the title and its significance belong to achievement."
+    },
+    {
+      "id": 4,
+      "p": 1,
+      "type": "PG",
+      "competency": "Textual Understanding — location and purpose",
+      "stem": "Where is Way Kambas National Park located?",
+      "options": [
+        "On the island of Java, in West Java.",
+        "On Bali, near the coast.",
+        "In Lampung, on the island of Sumatra.",
+        "In East Kalimantan, beside the Mahakam River.",
+        "In North Sumatra, near Lake Toba."
+      ],
+      "key": [
+        2
+      ],
+      "why": "The first paragraph directly gives the park's location.",
+      "evidence": "Way Kambas National Park is in Lampung, on the island of Sumatra.",
+      "wrong": [
+        "Incorrect. The passage does not place it in West Java. Find the opening sentence of paragraph one; it names both the province and island.",
+        "Incorrect. Bali is not named as the location. Find the opening sentence of paragraph one; it names both the province and island.",
+        "Correct. This matches the first sentence. Find the opening sentence of paragraph one; it names both the province and island.",
+        "Incorrect. The Mahakam River is not mentioned in this passage. Find the opening sentence of paragraph one; it names both the province and island.",
+        "Incorrect. Lake Toba is not mentioned as the park's location. Find the opening sentence of paragraph one; it names both the province and island."
+      ]
+    },
+    {
+      "id": 5,
+      "p": 1,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — conservation needs",
+      "stem": "Which TWO actions are presented as useful parts of elephant conservation? Select TWO answers.",
+      "options": [
+        "Allowing visitors to feed wild animals.",
+        "Habitat protection and public education.",
+        "Monitoring animals and understanding their needs.",
+        "Removing all rules for visitors.",
+        "Encouraging people to approach elephants closely."
+      ],
+      "key": [
+        1,
+        2
+      ],
+      "why": "The two correct choices are supported by the passage. The passage names habitat protection and public education. Monitoring and understanding animals' needs are described as conservation tasks.",
+      "evidence": "habitat protection; monitoring; public education",
+      "wrong": [
+        "Do not select this. Visitors are told not to feed or provoke wildlife. Review paragraph two for conservation tasks and paragraph three for visitor rules.",
+        "Correct selection. The passage names habitat protection and public education. Review paragraph two for conservation tasks and paragraph three for visitor rules.",
+        "Correct selection. Monitoring and understanding animals' needs are described as conservation tasks. Review paragraph two for conservation tasks and paragraph three for visitor rules.",
+        "Do not select this. The passage says protected areas need rules. Review paragraph two for conservation tasks and paragraph three for visitor rules.",
+        "Do not select this. The passage recommends keeping a safe distance. Review paragraph two for conservation tasks and paragraph three for visitor rules."
+      ]
+    },
+    {
+      "id": 6,
+      "p": 1,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Visitor responsibilities",
+        "Conservation work"
+      ],
+      "rows": [
+        {
+          "s": "Staff monitor animals and protect habitat.",
+          "key": 1,
+          "why": "These are conservation activities.",
+          "otherCategoryWhy": "This describes the work of conservation staff, not visitor behaviour."
+        },
+        {
+          "s": "Visitors keep a safe distance from wildlife.",
+          "key": 0,
+          "why": "This is a rule for visitors.",
+          "otherCategoryWhy": "It is not a conservation task performed by staff."
+        },
+        {
+          "s": "Visitors avoid feeding or provoking animals.",
+          "key": 0,
+          "why": "This describes responsible visitor behaviour.",
+          "otherCategoryWhy": "It is a visitor rule rather than a staff conservation activity."
+        },
+        {
+          "s": "Public education helps explain conservation.",
+          "key": 1,
+          "why": "Education is part of conservation effort.",
+          "otherCategoryWhy": "It describes conservation work, not a specific visitor rule."
+        }
+      ],
+      "why": "Separate actions visitors should take from organised conservation activities mentioned in paragraph two."
+    },
+    {
+      "id": 7,
+      "p": 2,
+      "type": "PG",
+      "competency": "Textual Understanding — explicit information",
+      "stem": "What was the volunteer asked to do first at the sports club?",
+      "options": [
+        "Coach the whole club without supervision.",
+        "Choose a new timetable for all groups.",
+        "Buy new sports equipment.",
+        "Prepare equipment, record attendance, and check group areas.",
+        "Select students for a competition."
+      ],
+      "key": [
+        3
+      ],
+      "why": "The opening paragraph lists the volunteer's main duties.",
+      "evidence": "My main job was to prepare equipment, record attendance, and make sure each group used the correct area.",
+      "wrong": [
+        "Incorrect. The teacher did not ask the volunteer to coach alone. Look at paragraph one after 'my main job'; the three duties are listed together.",
+        "Incorrect. The volunteer was not responsible for changing the timetable. Look at paragraph one after 'my main job'; the three duties are listed together.",
+        "Incorrect. Buying equipment is not mentioned. Look at paragraph one after 'my main job'; the three duties are listed together.",
+        "Correct. These are the stated responsibilities. Look at paragraph one after 'my main job'; the three duties are listed together.",
+        "Incorrect. Selecting competitors is not mentioned. Look at paragraph one after 'my main job'; the three duties are listed together."
+      ]
+    },
+    {
+      "id": 8,
+      "p": 2,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — learning from feedback",
+      "stem": "Which TWO changes helped the volunteer become more organised? Select TWO answers.",
+      "options": [
+        "Using an equipment checklist before each session.",
+        "Ignoring the teacher's advice.",
+        "Checking the schedule with the teacher when groups wanted the same space.",
+        "Arriving late to avoid extra work.",
+        "Letting students decide equipment rules themselves."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The two correct choices are supported by the passage. The teacher gave a checklist after the missing-cone problem. The volunteer accepted and used the teacher's feedback.",
+      "evidence": "equipment checklist; confirm the schedule",
+      "wrong": [
+        "Correct selection. The teacher gave a checklist after the missing-cone problem. Paragraph two introduces the checklist; paragraph three shows the volunteer checking the schedule.",
+        "Do not select this. The volunteer asked the teacher to confirm the schedule. Paragraph two introduces the checklist; paragraph three shows the volunteer checking the schedule.",
+        "Correct selection. The volunteer accepted and used the teacher's feedback. Paragraph two introduces the checklist; paragraph three shows the volunteer checking the schedule.",
+        "Do not select this. The story says the volunteer arrived early. Paragraph two introduces the checklist; paragraph three shows the volunteer checking the schedule.",
+        "Do not select this. The passage does not give students responsibility for equipment rules. Paragraph two introduces the checklist; paragraph three shows the volunteer checking the schedule."
+      ]
+    },
+    {
+      "id": 9,
+      "p": 2,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "A problem or mistake",
+        "A response or improvement"
+      ],
+      "rows": [
+        {
+          "s": "The volunteer forgot to count the cones.",
+          "key": 0,
+          "why": "This is the mistake that caused a delay.",
+          "otherCategoryWhy": "It describes the problem, not the solution."
+        },
+        {
+          "s": "The teacher introduced an equipment checklist.",
+          "key": 1,
+          "why": "The checklist is a practical response.",
+          "otherCategoryWhy": "It is not the original mistake."
+        },
+        {
+          "s": "Two groups wanted the same space.",
+          "key": 0,
+          "why": "This is a scheduling problem.",
+          "otherCategoryWhy": "It describes the difficulty, not the response."
+        },
+        {
+          "s": "The volunteer asked the teacher to confirm the schedule.",
+          "key": 1,
+          "why": "This action helps resolve the scheduling issue.",
+          "otherCategoryWhy": "It is a response, not the problem itself."
+        }
+      ],
+      "why": "Identify whether each statement names the difficulty or what the volunteer did to improve the situation."
+    },
+    {
+      "id": 10,
+      "p": 3,
+      "type": "PG",
+      "competency": "Textual Understanding — sequence and purpose",
+      "stem": "Why did the class collect clean paper on Wednesday?",
+      "options": [
+        "To make decorations for a sports tournament.",
+        "To use it again for notes.",
+        "To sell it to a recycling company.",
+        "To replace every notebook at school.",
+        "To measure the school's total rubbish."
+      ],
+      "key": [
+        1
+      ],
+      "why": "The passage says the box was for clean paper that could be reused for notes.",
+      "evidence": "On Wednesday, we put a box near the classroom door for clean paper that could be used again for notes.",
+      "wrong": [
+        "Incorrect. Sports decorations are not mentioned. Look for 'On Wednesday' in paragraph two and read the purpose clause immediately after it.",
+        "Correct. This is the stated purpose. Look for 'On Wednesday' in paragraph two and read the purpose clause immediately after it.",
+        "Incorrect. Selling paper is not mentioned. Look for 'On Wednesday' in paragraph two and read the purpose clause immediately after it.",
+        "Incorrect. The passage does not say notebooks were replaced. Look for 'On Wednesday' in paragraph two and read the purpose clause immediately after it.",
+        "Incorrect. The activity is not described as a total waste measurement. Look for 'On Wednesday' in paragraph two and read the purpose clause immediately after it."
+      ]
+    },
+    {
+      "id": 11,
+      "p": 3,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — realistic outcomes",
+      "stem": "Which TWO conclusions are supported by the class project? Select TWO answers.",
+      "options": [
+        "The class solved the school's entire waste problem.",
+        "Planning ahead made some habits easier.",
+        "The teacher reported a dramatic, measured result.",
+        "The class could identify a challenge and discuss future changes.",
+        "Every student remembered reusable containers every day."
+      ],
+      "key": [
+        1,
+        3
+      ],
+      "why": "The two correct choices are supported by the passage. The final paragraph says planning ahead made habits easier. The Thursday difficulty led to discussion about next time.",
+      "evidence": "planning ahead; discuss what to do differently next time",
+      "wrong": [
+        "Do not select this. The passage explicitly avoids claiming the problem was solved. Read the Thursday example and the final paragraph; both show a limited, realistic result.",
+        "Correct selection. The final paragraph says planning ahead made habits easier. Read the Thursday example and the final paragraph; both show a limited, realistic result.",
+        "Do not select this. The teacher did not announce a dramatic result. Read the Thursday example and the final paragraph; both show a limited, realistic result.",
+        "Correct selection. The Thursday difficulty led to discussion about next time. Read the Thursday example and the final paragraph; both show a limited, realistic result.",
+        "Do not select this. Some students forgot containers on Tuesday. Read the Thursday example and the final paragraph; both show a limited, realistic result."
+      ]
+    },
+    {
+      "id": 12,
+      "p": 3,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Actions during the week",
+        "Reflection and learning"
+      ],
+      "rows": [
+        {
+          "s": "The class reviewed which ideas were easiest to follow.",
+          "key": 1,
+          "why": "This is part of the end-of-week review.",
+          "otherCategoryWhy": "It is reflection, not one of the earlier actions."
+        },
+        {
+          "s": "Students brought reusable bottles.",
+          "key": 0,
+          "why": "This is an action taken on Monday.",
+          "otherCategoryWhy": "It is an activity, not a reflection after the project."
+        },
+        {
+          "s": "Students learned that realistic steps work best.",
+          "key": 1,
+          "why": "This is the lesson from the project.",
+          "otherCategoryWhy": "It is a conclusion rather than an action during the week."
+        },
+        {
+          "s": "Students collected clean paper for reuse.",
+          "key": 0,
+          "why": "This is an action taken on Wednesday.",
+          "otherCategoryWhy": "It describes what students did, not what they learned."
+        }
+      ],
+      "why": "Timeline words identify actions; phrases such as 'reviewed' and 'I learned' indicate reflection."
+    },
+    {
+      "id": 13,
+      "p": 4,
+      "type": "PG",
+      "competency": "Textual Understanding — cause and response",
+      "stem": "Why did Dayang Sumbi create the appearance of dawn?",
+      "options": [
+        "She wanted Sangkuriang to stop before finishing the task.",
+        "She wanted the villagers to leave the area.",
+        "She needed more time to find Tumang.",
+        "She planned to sail away with the boat.",
+        "She wanted to teach Sangkuriang how to build a lake."
+      ],
+      "key": [
+        0
+      ],
+      "why": "Dayang Sumbi feared Sangkuriang would finish the task, so she made him believe morning had come.",
+      "evidence": "Dayang Sumbi feared he would finish before morning. She asked people to spread cloth and create the appearance of dawn.",
+      "wrong": [
+        "Correct. This matches her reason for creating the false dawn. Find 'feared he would finish before morning'; the next sentence explains her action.",
+        "Incorrect. The passage does not say this was her goal. Find 'feared he would finish before morning'; the next sentence explains her action.",
+        "Incorrect. Tumang is part of the earlier story, not the reason for the false dawn. Find 'feared he would finish before morning'; the next sentence explains her action.",
+        "Incorrect. No plan to sail away is described. Find 'feared he would finish before morning'; the next sentence explains her action.",
+        "Incorrect. The challenge was intended to stop the marriage, not to teach him. Find 'feared he would finish before morning'; the next sentence explains her action."
+      ]
+    },
+    {
+      "id": 14,
+      "p": 4,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — legend and evidence",
+      "stem": "Which TWO statements correctly describe the passage's treatment of the legend? Select TWO answers.",
+      "options": [
+        "It presents the mountain story as a scientific explanation.",
+        "It says versions may differ in their details.",
+        "It connects the overturned boat with Mount Tangkuban Perahu.",
+        "It claims the story is a verified historical event.",
+        "It gives a precise geological account of the mountain."
+      ],
+      "key": [
+        1,
+        2
+      ],
+      "why": "The two correct choices are supported by the passage. The passage notes that versions may differ. The legend associates the overturned boat with the mountain.",
+      "evidence": "versions may differ; associated with the shape of Mount Tangkuban Perahu",
+      "wrong": [
+        "Do not select this. The final paragraph explicitly says it is not a scientific account. Read the final paragraph for the caution, and the final sentence of the story for the landscape connection.",
+        "Correct selection. The passage notes that versions may differ. Read the final paragraph for the caution, and the final sentence of the story for the landscape connection.",
+        "Correct selection. The legend associates the overturned boat with the mountain. Read the final paragraph for the caution, and the final sentence of the story for the landscape connection.",
+        "Do not select this. The passage identifies it as a traditional legend, not verified history. Read the final paragraph for the caution, and the final sentence of the story for the landscape connection.",
+        "Do not select this. No geological account is provided. Read the final paragraph for the caution, and the final sentence of the story for the landscape connection."
+      ]
+    },
+    {
+      "id": 15,
+      "p": 4,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Events in the legend",
+        "How the story is framed"
+      ],
+      "rows": [
+        {
+          "s": "Sangkuriang is asked to build a boat and a lake overnight.",
+          "key": 0,
+          "why": "This is an event in the story.",
+          "otherCategoryWhy": "It is part of the plot, not a comment on how legends should be understood."
+        },
+        {
+          "s": "The account is a traditional explanation, not science.",
+          "key": 1,
+          "why": "This clarifies the type of account.",
+          "otherCategoryWhy": "It is a framing note, not an event in the plot."
+        },
+        {
+          "s": "Different versions may contain different details.",
+          "key": 1,
+          "why": "This is a comment about retellings.",
+          "otherCategoryWhy": "It concerns how the story is told, not an event within it."
+        },
+        {
+          "s": "The overturned boat is linked to Mount Tangkuban Perahu.",
+          "key": 0,
+          "why": "This is the story's outcome.",
+          "otherCategoryWhy": "It describes the legend's plot outcome."
+        }
+      ],
+      "why": "Separate what happens to the characters from the author's notes about folklore and retellings."
+    },
+    {
+      "id": 16,
+      "p": 5,
+      "type": "PG",
+      "competency": "Textual Understanding — character contrast",
+      "stem": "What is the main contrast between Bawang Putih and Bawang Merah in this version?",
+      "options": [
+        "Bawang Putih is patient and helpful, while Bawang Merah is impatient and unwilling to help.",
+        "Both sisters refuse to do household work.",
+        "Bawang Merah helps the older woman more carefully.",
+        "Bawang Putih expects a reward before helping.",
+        "The sisters have exactly the same experience."
+      ],
+      "key": [
+        0
+      ],
+      "why": "The final paragraph directly describes the contrast between the sisters.",
+      "evidence": "Bawang Putih acts with patience, while Bawang Merah expects a reward without showing the same care.",
+      "wrong": [
+        "Correct. This is the contrast stated in the passage. Look at the last paragraph, especially the sentence beginning 'The contrast between the two sisters'.",
+        "Incorrect. Bawang Putih is expected to do most household work. Look at the last paragraph, especially the sentence beginning 'The contrast between the two sisters'.",
+        "Incorrect. The passage says Bawang Merah is unwilling to help. Look at the last paragraph, especially the sentence beginning 'The contrast between the two sisters'.",
+        "Incorrect. Bawang Putih agrees to help before receiving a reward. Look at the last paragraph, especially the sentence beginning 'The contrast between the two sisters'.",
+        "Incorrect. The story contrasts their behaviour and outcomes. Look at the last paragraph, especially the sentence beginning 'The contrast between the two sisters'."
+      ]
+    },
+    {
+      "id": 17,
+      "p": 5,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — narrative details",
+      "stem": "Which TWO details explain why Bawang Putih receives a reward in this version? Select TWO answers.",
+      "options": [
+        "She refuses to help with household work.",
+        "She agrees to help the older woman.",
+        "She completes the tasks carefully.",
+        "She demands a gift before returning the clothing.",
+        "She copies Bawang Merah's impatient behaviour."
+      ],
+      "key": [
+        1,
+        2
+      ],
+      "why": "The two correct choices are supported by the passage. She agrees to the woman's request. The passage says she completed the tasks carefully.",
+      "evidence": "agreed and completed the tasks carefully",
+      "wrong": [
+        "Do not select this. The passage describes her as helpful and patient. Paragraph two describes her response to the older woman; connect her actions to the reward in paragraph three.",
+        "Correct selection. She agrees to the woman's request. Paragraph two describes her response to the older woman; connect her actions to the reward in paragraph three.",
+        "Correct selection. The passage says she completed the tasks carefully. Paragraph two describes her response to the older woman; connect her actions to the reward in paragraph three.",
+        "Do not select this. She does not demand a gift first. Paragraph two describes her response to the older woman; connect her actions to the reward in paragraph three.",
+        "Do not select this. Bawang Putih is contrasted with Bawang Merah's behaviour. Paragraph two describes her response to the older woman; connect her actions to the reward in paragraph three."
+      ]
+    },
+    {
+      "id": 18,
+      "p": 5,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Bawang Putih's behaviour",
+        "Bawang Merah's behaviour"
+      ],
+      "rows": [
+        {
+          "s": "She expects a reward without showing the same care.",
+          "key": 1,
+          "why": "This is the contrast given for Bawang Merah.",
+          "otherCategoryWhy": "The passage assigns this behaviour to Bawang Merah."
+        },
+        {
+          "s": "She completes the older woman's tasks carefully.",
+          "key": 0,
+          "why": "This describes Bawang Putih's helpful behaviour.",
+          "otherCategoryWhy": "It is not Bawang Merah's action in this retelling."
+        },
+        {
+          "s": "She tries to remain patient when tired.",
+          "key": 0,
+          "why": "The opening paragraph describes Bawang Putih this way.",
+          "otherCategoryWhy": "It is not the behaviour described for Bawang Merah."
+        },
+        {
+          "s": "She copies the journey but is unwilling to help.",
+          "key": 1,
+          "why": "This describes Bawang Merah's response.",
+          "otherCategoryWhy": "This is the opposite of Bawang Putih's careful help."
+        }
+      ],
+      "why": "Track the character named in each paragraph; the passage contrasts patience and helpfulness with impatience."
+    },
+    {
+      "id": 19,
+      "p": 6,
+      "type": "PG",
+      "competency": "Textual Understanding — procedure sequence",
+      "stem": "Which item is recommended as a reusable drink container?",
+      "options": [
+        "A disposable paper cup.",
+        "A glass jar with no lid.",
+        "A clean, reusable water bottle.",
+        "A large bottle of fizzy drink.",
+        "A container that has not been washed."
+      ],
+      "key": [
+        2
+      ],
+      "why": "The passage recommends safe drinking water in a clean, reusable bottle.",
+      "evidence": "Bring safe drinking water in a clean, reusable bottle.",
+      "wrong": [
+        "Incorrect. A disposable cup is not recommended as the reusable option. Look at paragraph three for 'Bring safe drinking water'.",
+        "Incorrect. The passage does not suggest an uncovered glass jar. Look at paragraph three for 'Bring safe drinking water'.",
+        "Correct. This is stated directly. Look at paragraph three for 'Bring safe drinking water'.",
+        "Incorrect. A fizzy drink is not recommended in this step. Look at paragraph three for 'Bring safe drinking water'.",
+        "Incorrect. The text stresses clean containers. Look at paragraph three for 'Bring safe drinking water'."
+      ]
+    },
+    {
+      "id": 20,
+      "p": 6,
+      "type": "MCMA",
+      "competency": "Textual Understanding — steps and examples",
+      "stem": "Which TWO foods are explicitly given as examples of protein foods? Select TWO answers.",
+      "options": [
+        "Banana and orange.",
+        "Rice and noodles.",
+        "Cucumber and carrots.",
+        "Eggs and tofu.",
+        "Fish and chicken."
+      ],
+      "key": [
+        3,
+        4
+      ],
+      "why": "The two correct choices are supported by the passage. Eggs and tofu are explicitly listed as protein foods. Fish and chicken are also explicitly listed as protein foods.",
+      "evidence": "eggs, tofu, tempeh, beans, fish, or chicken",
+      "wrong": [
+        "Do not select this. These are listed as fruit examples elsewhere in the passage. Find 'include a protein food' in paragraph three and check the list that follows.",
+        "Do not select this. These are examples of main foods. Find 'include a protein food' in paragraph three and check the list that follows.",
+        "Do not select this. These are vegetables. Find 'include a protein food' in paragraph three and check the list that follows.",
+        "Correct selection. Eggs and tofu are explicitly listed as protein foods. Find 'include a protein food' in paragraph three and check the list that follows.",
+        "Correct selection. Fish and chicken are also explicitly listed as protein foods. Find 'include a protein food' in paragraph three and check the list that follows."
+      ]
+    },
+    {
+      "id": 21,
+      "p": 6,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Choosing lunch items",
+        "Keeping food safe"
+      ],
+      "rows": [
+        {
+          "s": "Wash hands before preparing food.",
+          "key": 1,
+          "why": "Handwashing is a food-safety action.",
+          "otherCategoryWhy": "It does not identify a lunch item."
+        },
+        {
+          "s": "Choose rice, bread, potatoes, or noodles as a main food.",
+          "key": 0,
+          "why": "These are examples of main foods.",
+          "otherCategoryWhy": "This is about choosing what to pack, not safe handling."
+        },
+        {
+          "s": "Use clean containers and close them properly.",
+          "key": 1,
+          "why": "This is a safe-packing practice.",
+          "otherCategoryWhy": "It is about handling and storage rather than choosing food groups."
+        },
+        {
+          "s": "Include fruit and vegetables when possible.",
+          "key": 0,
+          "why": "This is advice about what to include.",
+          "otherCategoryWhy": "It concerns food choice, not food handling."
+        }
+      ],
+      "why": "Separate the kinds of food to pack from actions that keep food clean and safe."
+    },
+    {
+      "id": 22,
+      "p": 7,
+      "type": "PG",
+      "competency": "Textual Understanding — preparation steps",
+      "stem": "What should a candidate do first when preparing for an interview?",
+      "options": [
+        "Memorise a long speech word for word.",
+        "Buy expensive clothing before reading the job details.",
+        "Ask the interviewer to explain the job after the interview.",
+        "Read the job description and identify the main tasks and skills.",
+        "Prepare answers about skills they do not have."
+      ],
+      "key": [
+        3
+      ],
+      "why": "The first step is to read the job description and identify the employer's needs.",
+      "evidence": "First, read the job description carefully. Identify the main tasks and the skills the employer wants.",
+      "wrong": [
+        "Incorrect. The passage says a long speech is unnecessary. Find 'First' in paragraph two; the sentence immediately after it names the starting action.",
+        "Incorrect. Clothing is checked later, and expensive clothing is not required. Find 'First' in paragraph two; the sentence immediately after it names the starting action.",
+        "Incorrect. The passage suggests preparing questions before the interview. Find 'First' in paragraph two; the sentence immediately after it names the starting action.",
+        "Correct. This is the first recommended step. Find 'First' in paragraph two; the sentence immediately after it names the starting action.",
+        "Incorrect. The passage says to be honest about experience. Find 'First' in paragraph two; the sentence immediately after it names the starting action."
+      ]
+    },
+    {
+      "id": 23,
+      "p": 7,
+      "type": "MCMA",
+      "competency": "Textual Understanding — useful preparation",
+      "stem": "Which TWO actions should a candidate take before the interview? Select TWO answers.",
+      "options": [
+        "Check the time, location, and transport plan.",
+        "Claim to have experience they do not have.",
+        "Prepare examples showing relevant skills.",
+        "Ignore the job description.",
+        "Wait until the last minute to find required documents."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The two correct choices are supported by the passage. The passage explicitly lists time, location, and transport. Examples from school, volunteering, or work are recommended.",
+      "evidence": "prepare two or three examples; check the time, location, transport plan, and documents",
+      "wrong": [
+        "Correct selection. The passage explicitly lists time, location, and transport. Paragraph three covers examples; paragraph four lists the final checks before the interview.",
+        "Do not select this. Candidates should be honest about what they have done. Paragraph three covers examples; paragraph four lists the final checks before the interview.",
+        "Correct selection. Examples from school, volunteering, or work are recommended. Paragraph three covers examples; paragraph four lists the final checks before the interview.",
+        "Do not select this. Reading the job description is the first step. Paragraph three covers examples; paragraph four lists the final checks before the interview.",
+        "Do not select this. The passage recommends checking documents in advance. Paragraph three covers examples; paragraph four lists the final checks before the interview."
+      ]
+    },
+    {
+      "id": 24,
+      "p": 7,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Before the interview",
+        "During or after the interview"
+      ],
+      "rows": [
+        {
+          "s": "Read the job description carefully.",
+          "key": 0,
+          "why": "This is an early preparation step.",
+          "otherCategoryWhy": "It happens before the interview, not during or after it."
+        },
+        {
+          "s": "Ask politely for a question to be repeated.",
+          "key": 1,
+          "why": "This is a response during the interview.",
+          "otherCategoryWhy": "It is not a preparation task done beforehand."
+        },
+        {
+          "s": "Check transport and required documents.",
+          "key": 0,
+          "why": "These checks should happen before attending.",
+          "otherCategoryWhy": "They are not actions taken while answering questions."
+        },
+        {
+          "s": "Note what went well and what to improve.",
+          "key": 1,
+          "why": "The passage recommends this after the interview.",
+          "otherCategoryWhy": "This is a review after the interview."
+        }
+      ],
+      "why": "Use time signals: 'before the interview', 'during the interview', and 'afterward'."
+    },
+    {
+      "id": 25,
+      "p": 8,
+      "type": "PG",
+      "competency": "Analytical Understanding — writer's argument",
+      "stem": "What is the writer's main position about school sports clubs?",
+      "options": [
+        "Every student must join a club every afternoon.",
+        "Schools should offer a range of clubs, with thoughtful planning.",
+        "Schools should remove all sports activities from the timetable.",
+        "Only students with expensive equipment should participate.",
+        "Clubs are useful only for competitive athletes."
+      ],
+      "key": [
+        1
+      ],
+      "why": "The introduction states that schools should offer a range of clubs, while the conclusion explains that expansion should be realistic.",
+      "evidence": "Schools should offer a range of sports clubs because students have different interests and abilities.",
+      "wrong": [
+        "Incorrect. The writer says participation should not be compulsory. Read the first sentence for the thesis and the last paragraph for the qualified recommendation.",
+        "Correct. This matches the thesis and the final recommendation. Read the first sentence for the thesis and the last paragraph for the qualified recommendation.",
+        "Incorrect. The passage argues for clubs, not their removal. Read the first sentence for the thesis and the last paragraph for the qualified recommendation.",
+        "Incorrect. The writer recommends low-cost options and shared equipment. Read the first sentence for the thesis and the last paragraph for the qualified recommendation.",
+        "Incorrect. The text describes different interests and levels of access. Read the first sentence for the thesis and the last paragraph for the qualified recommendation."
+      ]
+    },
+    {
+      "id": 26,
+      "p": 8,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — limits and solutions",
+      "stem": "Which TWO practical limits to school sports clubs does the writer mention? Select TWO answers.",
+      "options": [
+        "Schools need spaces, equipment, and supervision.",
+        "All students dislike team sports.",
+        "Some students have transport or family duties after school.",
+        "Clubs always improve grades.",
+        "Students never need a timetable."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The two correct choices are supported by the passage. These resources are listed as practical needs. These responsibilities may make joining difficult.",
+      "evidence": "safe spaces, equipment, staff supervision; transport responsibilities or family duties",
+      "wrong": [
+        "Correct selection. These resources are listed as practical needs. Paragraph three lists the constraints. Select only limits explicitly mentioned there.",
+        "Do not select this. The passage says students have different interests. Paragraph three lists the constraints. Select only limits explicitly mentioned there.",
+        "Correct selection. These responsibilities may make joining difficult. Paragraph three lists the constraints. Select only limits explicitly mentioned there.",
+        "Do not select this. No claim about grades is made. Paragraph three lists the constraints. Select only limits explicitly mentioned there.",
+        "Do not select this. The passage says scheduling matters. Paragraph three lists the constraints. Select only limits explicitly mentioned there."
+      ]
+    },
+    {
+      "id": 27,
+      "p": 8,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Benefits of sports clubs",
+        "Practical limits"
+      ],
+      "rows": [
+        {
+          "s": "Schools need safe spaces and staff supervision.",
+          "key": 1,
+          "why": "These are resources schools must provide.",
+          "otherCategoryWhy": "It is a practical requirement, not a benefit."
+        },
+        {
+          "s": "Students can practise cooperation and follow rules.",
+          "key": 0,
+          "why": "This is a potential learning benefit.",
+          "otherCategoryWhy": "It describes a benefit, not a barrier to participation."
+        },
+        {
+          "s": "Students can choose activities that fit their interests.",
+          "key": 0,
+          "why": "A range of choices can make participation accessible.",
+          "otherCategoryWhy": "It describes an advantage of offering different clubs."
+        },
+        {
+          "s": "Some students have family duties after school.",
+          "key": 1,
+          "why": "This can limit their availability.",
+          "otherCategoryWhy": "It is a practical barrier rather than a benefit."
+        }
+      ],
+      "why": "Classify positive outcomes separately from the resources or circumstances that can limit participation."
+    },
+    {
+      "id": 28,
+      "p": 9,
+      "type": "PG",
+      "competency": "Analytical Understanding — central claim",
+      "stem": "According to the writer, what helps wildlife conservation become more practical?",
+      "options": [
+        "Keeping nearby communities out of discussions.",
+        "Relying only on signs at park boundaries.",
+        "Allowing every visitor to feed wildlife.",
+        "Replacing scientific knowledge with local opinion.",
+        "Including local communities in planning and decision-making."
+      ],
+      "key": [
+        4
+      ],
+      "why": "The opening paragraph gives the central argument that conservation should include local communities.",
+      "evidence": "Wildlife conservation is more likely to be practical when local communities are included in planning and decision-making.",
+      "wrong": [
+        "Incorrect. The passage says excluding people can make cooperation difficult. Read the first sentence of paragraph one for the main claim.",
+        "Incorrect. The writer says conservation needs more than signs and boundaries. Read the first sentence of paragraph one for the main claim.",
+        "Incorrect. Visitors should not feed or provoke animals; this option is not the main claim. Read the first sentence of paragraph one for the main claim.",
+        "Incorrect. The passage calls for scientific knowledge as well as community cooperation. Read the first sentence of paragraph one for the main claim.",
+        "Correct. This directly matches the thesis. Read the first sentence of paragraph one for the main claim."
+      ]
+    },
+    {
+      "id": 29,
+      "p": 9,
+      "type": "MCMA",
+      "competency": "Inferential Understanding — conditions for cooperation",
+      "stem": "Which TWO conditions can help community participation become meaningful? Select TWO answers.",
+      "options": [
+        "Clear communication with local people.",
+        "Ignoring how conservation decisions affect daily life.",
+        "Training and support for suitable activities.",
+        "Making rules without listening to concerns.",
+        "Excluding residents from decision-making."
+      ],
+      "key": [
+        0,
+        2
+      ],
+      "why": "The two correct choices are supported by the passage. Clear communication is named as a way to support participation. The passage mentions training and support for community activities.",
+      "evidence": "clear communication; suitable training and support",
+      "wrong": [
+        "Correct selection. Clear communication is named as a way to support participation. Look in paragraphs two and three for the conditions attached to community participation.",
+        "Do not select this. The passage says plans should consider people's daily lives. Look in paragraphs two and three for the conditions attached to community participation.",
+        "Correct selection. The passage mentions training and support for community activities. Look in paragraphs two and three for the conditions attached to community participation.",
+        "Do not select this. The text warns that excluding concerns makes cooperation difficult. Look in paragraphs two and three for the conditions attached to community participation.",
+        "Do not select this. The passage argues for inclusion, not exclusion. Look in paragraphs two and three for the conditions attached to community participation."
+      ]
+    },
+    {
+      "id": 30,
+      "p": 9,
+      "type": "CAT",
+      "competency": "Textual Understanding — information classification",
+      "stem": "For each statement, choose the category that best matches it.",
+      "categories": [
+        "Community contributions",
+        "Conditions for cooperation"
+      ],
+      "rows": [
+        {
+          "s": "Provide clear communication and realistic support.",
+          "key": 1,
+          "why": "These help make participation meaningful.",
+          "otherCategoryWhy": "This describes the conditions needed for cooperation."
+        },
+        {
+          "s": "Share observations about animals or habitat changes.",
+          "key": 0,
+          "why": "This is information community members can contribute.",
+          "otherCategoryWhy": "It is an example of a contribution, not a condition for cooperation."
+        },
+        {
+          "s": "Listen to local concerns when planning rules.",
+          "key": 1,
+          "why": "Listening helps build fair and workable cooperation.",
+          "otherCategoryWhy": "It describes how cooperation should be organised."
+        },
+        {
+          "s": "Take part in education or habitat restoration when trained.",
+          "key": 0,
+          "why": "These are possible community activities.",
+          "otherCategoryWhy": "It is a contribution, not a general condition."
+        }
+      ],
+      "why": "Community contributions are actions people can take; cooperation conditions describe how plans and relationships should be organised."
+    }
+  ]
+}
